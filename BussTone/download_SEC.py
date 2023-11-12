@@ -22,7 +22,7 @@ def read_CIK(file):
     return date_files
     
 d1 = Downloader("Tulane", "email@xxx.com", r"./10K")
-date_files = read_CIK(r'./10K.xlsx')
+date_files = read_CIK(r'D:\Dropbox\Shan\10K.xlsx')
 
 count = 0
 for start, end, CIK in date_files:

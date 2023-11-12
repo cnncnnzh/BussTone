@@ -1,0 +1,34 @@
+ In Europe, the General Data Protection Regulation (“GDPR”) became effective on May 25, 2018 for all European Union (“EU”) member states.
+
+ The GDPR includes operational requirements for companies receiving or processing personal data of EU residents that are partially different from those previously in place and includes significant penalties for non-compliance.
+
+ In the United States, the California Consumer Privacy Act (“CCPA”) became effective on January 1, 2020 and many other states are in various stages of implementing privacy legislation.
+
+ The CCPA provides California residents with specific privacy rights including a new private right of action for certain data breaches.
+
+ 
+
+
+ The GDPR includes operational requirements for companies receiving or processing personal data of EU residents that are partially different from those previously in place and includes significant penalties for non-compliance.
+
+ In the United States, the California Consumer Privacy Act (“CCPA”) became effective on January 1, 2020 and many other states are in various stages of implementing privacy legislation.
+
+ The CCPA provides California residents with specific privacy rights including a new private right of action for certain data breaches.
+
+ 
+
+
+14
+
+
+
+[-0.5703463554382324, -1.4991605281829834, 2.3790111541748047]
+[-1.2882177829742432, 0.4029659330844879, 1.5902765989303589]
+[-0.5695724487304688, -1.3495217561721802, 2.386913537979126]
+[0.2527577877044678, -2.263658046722412, 2.04266357421875]
+[0.22669722139835358, -0.278788298368454, 0.3930892050266266]
+[-1.2882177829742432, 0.4029659330844879, 1.5902765989303589]
+[-0.5695724487304688, -1.3495217561721802, 2.386913537979126]
+[0.2527577877044678, -2.263658046722412, 2.04266357421875]
+[0.22669722139835358, -0.278788298368454, 0.3930892050266266]
+[-0.7331205010414124, -0.42319050431251526, 2.1132471561431885]

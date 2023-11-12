@@ -1,0 +1,25 @@
+ A majority of the jurisdictions where we operate are covered, or we expect will be soon covered, by privacy and data protection laws and regulations.
+
+ As the regulatory focus on privacy continues to intensify and laws and regulations concerning the management of personal data continue to expand, risks related to privacy and data collection within our business will increase.
+
+ The EU’s GDPR strengthened and unified data protection rules for individuals within the EU and addresses export of personal data outside the EU.
+
+ The primary objectives of GDPR are to give citizens control of their personal data and to simplify the regulatory environment for international business by unifying data protection regulation within the EU.
+
+ A majority of the jurisdictions where we operate are covered, or we expect will be soon covered, by privacy and data protection laws and regulations.
+
+ As the regulatory focus on privacy continues to intensify and laws and regulations concerning the management of personal data continue to expand, risks related to privacy and data collection within our business will increase.
+
+ The EU’s GDPR strengthened and unified data protection rules for individuals within the EU and addresses export of personal data outside the EU.
+
+ The primary objectives of GDPR are to give citizens control of their personal data and to simplify the regulatory environment for international business by unifying data protection regulation within the EU.
+
+
+[-0.48575490713119507, -1.805949091911316, 2.384528160095215]
+[0.6732907891273499, -1.7617141008377075, 0.6348310708999634]
+[1.6064013242721558, -2.5854711532592773, 0.6068257689476013]
+[0.44110602140426636, -2.543999671936035, 2.076993942260742]
+[-0.48575490713119507, -1.805949091911316, 2.384528160095215]
+[0.6732907891273499, -1.7617141008377075, 0.6348310708999634]
+[1.6064013242721558, -2.5854711532592773, 0.6068257689476013]
+[0.44110602140426636, -2.543999671936035, 2.076993942260742]

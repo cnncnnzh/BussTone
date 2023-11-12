@@ -1,0 +1,15 @@
+ These laws have been subject to frequent changes, and new legislation in this area may be enacted at any time.
+
+ 
+
+
+More recent examples of data privacy laws include the EU’s General Data Protection Regulation (GDPR), California’s Consumer Privacy Act (CCPA) and Privacy Rights Act (CPRA), and Brazil’s General Data Protection Law (LGPD).
+
+
+
+
+
+[-0.6088864803314209, -1.0439507961273193, 2.2308452129364014]
+[0.22669722139835358, -0.278788298368454, 0.3930892050266266]
+[-1.0330694913864136, -0.578046977519989, 2.360781192779541]
+[0.22669722139835358, -0.278788298368454, 0.3930892050266266]

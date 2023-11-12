@@ -1,0 +1,76 @@
+10Table of Contents•Privacy Laws.
+
+ The privacy and protection of consumer information is a developing area of regulation, and we continue to monitor legislative and regulatory developments at the federal, state, and local levels.
+
+ In addition to the GLBA, we expect that there will continue to be enhanced state and/or federal regulation in the area of financial and consumer data privacy, including regulation similar to the California Consumer Privacy Act (“CCPA”).
+
+ Such regulation may impose additional registration requirements and/or require us to make new disclosures to consumers about our data collection, use, and sharing practices and afford consumers new abilities to opt out of certain data sharing with third parties.
+
+ Any such additional regulation could significantly impact some of our business practices.
+
+ If data within our system is compromised by a breach, we may be subject to provisions of various state security breach laws.
+
+ All states have adopted data security breach laws that require notice be given to affected consumers in the event of a breach of personal information, and in some cases the provision of additional benefits such as free credit monitoring to affected individuals.
+
+ In addition, the CCPA provides consumers with a private right of action under certain circumstances if their personal information is subject to a breach.
+
+ If data within our system is compromised by a breach, we may be subject to provisions of these various state security breach laws.
+
+•Real Estate Settlement Procedures Act (“RESPA”).
+
+ Highly publicized data incidents have resulted in significantly increased legislative and regulatory activity at the federal and state levels as lawmakers and regulators continue to propose a wide range of further restrictions on the collection, dissemination or commercial use of personal information, information security standards, and data security incident disclosure standards.
+
+17Table of ContentsBecause our databases include certain public and non-public personal information concerning consumers, we are subject to government regulation and potential adverse publicity concerning our use of consumer data.
+
+ The consumer data we acquire, store, use, and provide subject us to regulation under the FCRA, the GLBA, the CCPA, the Driver's Privacy Protection Act, and various other federal, state, and local laws and regulations.
+
+ Such data may also be subject to data privacy laws in international jurisdictions, including Australia, New Zealand, Canada, the United Kingdom, and certain countries in Europe.
+
+ These jurisdictions have imposed increasingly stringent requirements for data collection, including restrictions on cross-border data transfers.
+
+ These jurisdictions have imposed increasingly stringent requirements for data collection, including restrictions on cross-border data transfers.
+
+ These laws and regulations are designed to protect the privacy of consumers and to prevent the unauthorized access and misuse of personal information in the marketplace.
+
+ The CCPA, for example, which became effective January 1, 2020, imposes new obligations on certain companies doing business in California with respect to the personal information of California residents.
+
+ This includes new notice and privacy policy requirements, and new obligations to respond to requests to know and access to personal information, to delete personal information, and to say no to the sale of personal information.
+
+ We expect that there will continue to be enhanced state and/or federal regulation in the area of financial and consumer data privacy, including regulations similar to the GDPR and the CCPA that give consumers more control over their data.
+
+ The CCPA, for example, which became effective January 1, 2020, imposes new obligations on certain companies doing business in California with respect to the personal information of California residents.
+
+ This includes new notice and privacy policy requirements, and new obligations to respond to requests to know and access to personal information, to delete personal information, and to say no to the sale of personal information.
+
+ We expect that there will continue to be enhanced state and/or federal regulation in the area of financial and consumer data privacy, including regulations similar to the GDPR and the CCPA that give consumers more control over their data.
+
+ Compliance with these laws imposes significant regulatory burdens and costs on us.
+
+ Further, a growing number of legislative and regulatory bodies have adopted consumer notification and other requirements in the event that consumer information is accessed by unauthorized persons and additional regulations regarding the use, access, accuracy, and security of such data are possible.
+
+
+[-1.0571644306182861, -0.893769383430481, 2.542686700820923]
+[0.019018186256289482, -2.1639397144317627, 2.2041192054748535]
+[1.5452748537063599, -2.777909517288208, 0.9443493485450745]
+[-0.37304049730300903, -1.4125136137008667, 2.0108399391174316]
+[-1.7934070825576782, 2.3711299896240234, -0.22931838035583496]
+[-1.7077600955963135, 1.4085005521774292, 1.1818259954452515]
+[-1.619574785232544, 1.8584166765213013, 0.8775132298469543]
+[-0.7231557965278625, -1.1496644020080566, 2.2714219093322754]
+[-1.637792706489563, 1.0585048198699951, 1.4609543085098267]
+[-0.2972863018512726, -1.796162486076355, 2.3935554027557373]
+[-1.296099305152893, 1.0743228197097778, 1.0878714323043823]
+[-1.5452616214752197, 0.33560967445373535, 2.0580267906188965]
+[-0.992892324924469, -1.0764110088348389, 2.5269856452941895]
+[-1.510956883430481, 0.2995459735393524, 2.215972423553467]
+[-1.618143916130066, 1.7096707820892334, 0.8786706328392029]
+[-1.618143916130066, 1.7096707820892334, 0.8786706328392029]
+[-0.923903226852417, -0.8213071227073669, 2.358700752258301]
+[-1.3005439043045044, 0.01348065584897995, 2.1319081783294678]
+[-0.7512578368186951, -1.2440791130065918, 2.339526653289795]
+[1.7707710266113281, -2.7968180179595947, 0.47544145584106445]
+[-1.3005439043045044, 0.01348065584897995, 2.1319081783294678]
+[-0.7512578368186951, -1.2440791130065918, 2.339526653289795]
+[1.7707710266113281, -2.7968180179595947, 0.47544145584106445]
+[-1.6785078048706055, 2.4930152893066406, -0.2933245897293091]
+[-0.9379662275314331, -0.7672492861747742, 2.2673301696777344]
