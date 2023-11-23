@@ -42,20 +42,20 @@ def get_paragraph(dirc, split_sentence):
         if split_sentence == 'true':
             # print(start)
             # print(end)
-            if s2 - s1 < 512:
+            if s2 - s1 < 512 and piece[s3] != '\n' and piece[s2] != '\n':
                 all_script.append(data[i-boundary+s1+1 : i-boundary+s2+1])
-            if s3 - s2 < 512:
+            if s3 - s2 < 512 and piece[s2] != '\n':
                 all_script.append(data[i-boundary+s2+1 : i-boundary+s3+1])
             if s4 - s3 < 512:
                 all_script.append(data[i-boundary+s3+1 : i-boundary+s4+1])
-            if s5 - s4 < 512:
+            if s5 - s4 < 512 and piece[s4] != '\n':
                 all_script.append(data[i-boundary+s4+1 : i-boundary+s5+1])
-            if s6 - s5 < 512:
+            if s6 - s5 < 512 and piece[s4] != '\n' and piece[s5] != '\n':
                 all_script.append(data[i-boundary+s5+1 : i-boundary+s6+1])
         else:
-            if s5 - s2 < 512:
+            if s5 - s2 < 512 and piece[s3] != '\n' and piece[s4] != '\n':
                 all_script.append(data[i-boundary+s2+1 : i-boundary+s5+1])
-            elif s5 - s3 < 512:
+            elif s5 - s3 < 512 and piece[s4] != '\n':
                 all_script.append(data[i-boundary+s3+1 : i-boundary+s5+1])
             elif s4 - s3 < 512:
                 all_script.append(data[i-boundary+s3+1 : i-boundary+s4+1])
