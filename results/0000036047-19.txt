@@ -1,61 +1,13 @@
-•Privacy Laws.
+ We expect that there will continue to be enhanced state and/or federal regulation in the area of financial and consumer data privacy, including regulation similar to the California Consumer Privacy Act (“CCPA”). As enacted, the CCPA may require us to make new disclosures to consumers about our data collection, use and sharing practices and afford consumers new abilities to opt out of certain data sharing with third parties.
 
- The privacy and protection of consumer information remains a developing area and we continue to monitor legislative and regulatory developments at the federal, state and local levels.
+ We expect that there will continue to be enhanced state and/or federal regulation in the area of financial and consumer data privacy, including regulation similar to the California Consumer Privacy Act (“CCPA”). As enacted, the CCPA may require us to make new disclosures to consumers about our data collection, use and sharing practices and afford consumers new abilities to opt out of certain data sharing with third parties. It also provides a new cause of action for data breaches.
 
- We expect that there will continue to be enhanced state and/or federal regulation in the area of financial and consumer data privacy, including regulation similar to the California Consumer Privacy Act (“CCPA”).
-
- As enacted, the CCPA may require us to make new disclosures to consumers about our data collection, use and sharing practices and afford consumers new abilities to opt out of certain data sharing with third parties.
-
- It also provides a new cause of action for data breaches.
-
- The privacy and protection of consumer information remains a developing area and we continue to monitor legislative and regulatory developments at the federal, state and local levels.
-
- We expect that there will continue to be enhanced state and/or federal regulation in the area of financial and consumer data privacy, including regulation similar to the California Consumer Privacy Act (“CCPA”).
-
- As enacted, the CCPA may require us to make new disclosures to consumers about our data collection, use and sharing practices and afford consumers new abilities to opt out of certain data sharing with third parties.
-
- It also provides a new cause of action for data breaches.
-
- As currently enacted, the CCPA takes effect on January 1, 2020, but is subject to further rulemaking proceedings by the California Attorney General.
-
- As enacted, the CCPA may require us to make new disclosures to consumers about our data collection, use and sharing practices and afford consumers new abilities to opt out of certain data sharing with third parties.
-
- It also provides a new cause of action for data breaches.
-
- As currently enacted, the CCPA takes effect on January 1, 2020, but is subject to further rulemaking proceedings by the California Attorney General.
-
- Any such additional regulation could significantly impact some of our business practices.
-
- Other federal and state laws also impose requirements relating to the privacy of information held by us.
-
-In addition, our databases include certain public and non-public personal information concerning consumers, we are subject to government regulation and potential adverse publicity concerning our use of consumer data.
-
- We acquire, store, use and provide many types of consumer data and related services, some of which are subject to regulation under the FCRA, the GLBA, and the Driver's Privacy Protection Act and, to a lesser extent, various other federal, state, and local laws and regulations.
+ It also provides a new cause of action for data breaches. As currently enacted, the CCPA takes effect on January 1, 2020, but is subject to further rulemaking proceedings by the California Attorney General. Any such additional regulation could significantly impact some of our business practices.
 
  These laws and regulations are designed to protect the privacy of consumers and to prevent the unauthorized access and misuse of personal information in the marketplace and we expect that there will be enhanced state and/or federal regulation in the area of financial and consumer data privacy, including regulations similar to the recently effective GDPR and recently enacted CCPA.
 
- A growing number of legislative and regulatory bodies have adopted consumer notification and other requirements in the event that consumer information is accessed by unauthorized persons and additional regulations regarding the use, access, accuracy and security of such data are possible.
 
- In the US, state laws provide for disparate notification regimes, all of which we are subject to.
-
-
-[-0.7696220278739929, -1.1476380825042725, 2.333059310913086]
-[0.43098077178001404, -2.482485055923462, 2.0039315223693848]
-[1.7689648866653442, -2.8270723819732666, 0.541091799736023]
-[1.1952239274978638, -2.4694502353668213, 1.0292664766311646]
-[-0.18767815828323364, -1.3734244108200073, 2.117780923843384]
-[0.43098077178001404, -2.482485055923462, 2.0039315223693848]
-[1.7689648866653442, -2.8270723819732666, 0.541091799736023]
-[1.1952239274978638, -2.4694502353668213, 1.0292664766311646]
-[-0.18767815828323364, -1.3734244108200073, 2.117780923843384]
-[-1.2594386339187622, -0.5391960740089417, 2.448050022125244]
-[1.1952239274978638, -2.4694502353668213, 1.0292664766311646]
-[-0.18767815828323364, -1.3734244108200073, 2.117780923843384]
-[-1.2594386339187622, -0.5391960740089417, 2.448050022125244]
-[-1.7934070825576782, 2.3711299896240234, -0.22931838035583496]
-[-1.512502908706665, 0.28109219670295715, 2.1353132724761963]
-[-1.530516505241394, 0.7044413089752197, 1.7220457792282104]
-[-0.9294160604476929, -1.190327525138855, 2.5501091480255127]
-[0.6950684189796448, -2.4924237728118896, 1.814220666885376]
-[-1.0315189361572266, -0.6691200137138367, 2.299985408782959]
-[-1.1098365783691406, -0.7313410639762878, 2.325033664703369]
+[1.470465064048767, -2.652052402496338, 0.841002345085144]
+[0.5615301132202148, -2.257646322250366, 1.8325058221817017]
+[-1.8722991943359375, 2.0963869094848633, 0.440923273563385]
+[0.6950656175613403, -2.4924228191375732, 1.8142223358154297]

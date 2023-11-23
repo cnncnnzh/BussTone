@@ -1,0 +1,1 @@
+Extract paragraph with certain keywords in business report and analyze their tone. 

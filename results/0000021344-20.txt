@@ -1,61 +1,13 @@
- Our policy is to comply with all such legal requirements.
-
- Compliance with these provisions has not had, and we do not expect such compliance to have, any material adverse effect on our Company's capital expenditures, net income or competitive position.
-
-We are also subject to various federal, state and international laws and regulations related to privacy and data protection, including the European Union’s General Data Protection Regulation ("GDPR"), which became effective in May 2018, and the California Consumer Privacy Act of 2018 ("CCPA"), which became effective on January 1, 2020.
-
- The interpretation and application of data privacy and data protection laws and regulations are often uncertain and are evolving in the United States and internationally.
-
- We monitor pending and proposed legislation and regulatory initiatives to ascertain their relevance to and potential impact on our business and develop strategies to address regulatory trends and developments, including any required changes to our privacy and data protection compliance programs and policies.
-
- These laws have been subject to frequent changes, and new legislation in this area may be enacted in other jurisdictions at any time.
-
- In the European Union ("EU"), the GDPR, which became effective on May 25, 2018 for all EU member states, includes operational requirements for companies receiving or processing personal data of EU residents and provides for significant penalties for noncompliance.
+We are also subject to various federal, state and international laws and regulations related to privacy and data protection, including the European Union’s General Data Protection Regulation ("GDPR"), which became effective in May 2018, and the California Consumer Privacy Act of 2018 ("CCPA"), which became effective on January 1, 2020. The interpretation and application of data privacy and data protection laws and regulations are often uncertain and are evolving in the United States and internationally.
 
  In the United States, the CCPA, which became effective on January 1, 2020, provides for a private right of action for data breaches and requires companies that process information about California residents to make disclosures to consumers about their data collection, use and sharing practices and to allow consumers to opt out of certain data sharing with third parties.
 
  The changes introduced by the GDPR and the CCPA, as well as any other changes to existing personal data protection or privacy laws and the introduction of such laws in other jurisdictions, have subjected and may continue in the future to subject the Company to, among other things, additional costs and expenses and have required and may in the future require costly changes to our business practices and security systems, policies, procedures and practices.
 
- Our security controls over personal data, the training of employees and vendors on data privacy and data security, and the policies, procedures and practices we implemented or may implement in the future may not prevent the improper disclosure of personal data.
-
- In the European Union ("EU"), the GDPR, which became effective on May 25, 2018 for all EU member states, includes operational requirements for companies receiving or processing personal data of EU residents and provides for significant penalties for noncompliance.
-
- In the United States, the CCPA, which became effective on January 1, 2020, provides for a private right of action for data breaches and requires companies that process information about California residents to make disclosures to consumers about their data collection, use and sharing practices and to allow consumers to opt out of certain data sharing with third parties.
-
- The changes introduced by the GDPR and the CCPA, as well as any other changes to existing personal data protection or privacy laws and the introduction of such laws in other jurisdictions, have subjected and may continue in the future to subject the Company to, among other things, additional costs and expenses and have required and may in the future require costly changes to our business practices and security systems, policies, procedures and practices.
-
- Our security controls over personal data, the training of employees and vendors on data privacy and data security, and the policies, procedures and practices we implemented or may implement in the future may not prevent the improper disclosure of personal data.
-
  Improper disclosure of personal data in violation of the GDPR, the CCPA and/or of other personal data protection or privacy laws could harm our reputation, cause loss of consumer confidence, subject us to government enforcement actions (including fines), or result in 14private litigation against us, which could result in loss of revenue, increased costs, liability for monetary damages, fines and/or criminal prosecution, all of which could negatively affect our business and operating results.
 
- The changes introduced by the GDPR and the CCPA, as well as any other changes to existing personal data protection or privacy laws and the introduction of such laws in other jurisdictions, have subjected and may continue in the future to subject the Company to, among other things, additional costs and expenses and have required and may in the future require costly changes to our business practices and security systems, policies, procedures and practices.
 
- Our security controls over personal data, the training of employees and vendors on data privacy and data security, and the policies, procedures and practices we implemented or may implement in the future may not prevent the improper disclosure of personal data.
-
- Improper disclosure of personal data in violation of the GDPR, the CCPA and/or of other personal data protection or privacy laws could harm our reputation, cause loss of consumer confidence, subject us to government enforcement actions (including fines), or result in 14private litigation against us, which could result in loss of revenue, increased costs, liability for monetary damages, fines and/or criminal prosecution, all of which could negatively affect our business and operating results.
-
-If we are not successful in our efforts to digitize the Coca-Cola system, our financial performance will be negatively affected.
-
-The digital evolution is affecting how we interact with consumers, customers, suppliers, bottlers and other business partners and stakeholders.
-
-
-[0.01626957766711712, -2.175854444503784, 2.0842387676239014]
-[-1.513513207435608, 1.1263582706451416, 0.8100487589836121]
-[-0.9702755212783813, -1.0296663045883179, 2.524282455444336]
-[-1.5313770771026611, 0.9245591759681702, 1.7549675703048706]
-[0.11960388720035553, -2.1573832035064697, 2.0211262702941895]
-[-0.6863278150558472, -0.9098918437957764, 2.2351202964782715]
-[-0.9999775886535645, -0.638817310333252, 2.266848564147949]
-[-1.0337470769882202, -0.8005403280258179, 2.380866050720215]
-[-1.4787547588348389, 1.3329437971115112, 0.548887312412262]
-[-1.0484249591827393, -0.42772194743156433, 2.082717180252075]
-[-0.9999775886535645, -0.638817310333252, 2.266848564147949]
-[-1.0337470769882202, -0.8005403280258179, 2.380866050720215]
-[-1.4787547588348389, 1.3329437971115112, 0.548887312412262]
-[-1.0484249591827393, -0.42772194743156433, 2.082717180252075]
-[-1.93244469165802, 2.7367055416107178, -0.28557032346725464]
-[-1.4787547588348389, 1.3329437971115112, 0.548887312412262]
-[-1.0484249591827393, -0.42772194743156433, 2.082717180252075]
-[-1.93244469165802, 2.7367055416107178, -0.28557032346725464]
-[-1.5167797803878784, 1.8858778476715088, -0.06543666124343872]
-[-0.09269677102565765, -1.981363296508789, 2.275158405303955]
+[-1.4043816328048706, 0.264262318611145, 2.068922996520996]
+[-1.0337474346160889, -0.8005385398864746, 2.3808681964874268]
+[-1.4787551164627075, 1.3329421281814575, 0.5488885641098022]
+[-1.9324450492858887, 2.7367048263549805, -0.2855694890022278]

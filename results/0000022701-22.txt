@@ -1,91 +1,22 @@
- We also collect, store and transmit sensitive data, including proprietary business information and personally identifiable information of our customers, suppliers and employees.
+ The California Consumer Privacy Act of 2018 (“CCPA”), which became effective January 1, 2020, grants California residents with several new rights relating to their personal information. The CCPA applies to businesses that conduct business in California and satisfies one of three financial conditions, including a business that has a gross revenue greater than $25 million.
 
- The California Consumer Privacy Act of 2018 (“CCPA”), which became effective January 1, 2020, grants California residents with several new rights relating to their personal information.
-
- The CCPA applies to businesses that conduct business in California and satisfies one of three financial conditions, including a business that has a gross revenue greater than $25 million.
-
- The CCPA sets forth several data protection obligations for applicable businesses, including the obligation to inform a consumer, at or before collection, of 
+ The CCPA applies to businesses that conduct business in California and satisfies one of three financial conditions, including a business that has a gross revenue greater than $25 million. The CCPA sets forth several data protection obligations for applicable businesses, including the obligation to inform a consumer, at or before collection, of 
 
 
- The California Consumer Privacy Act of 2018 (“CCPA”), which became effective January 1, 2020, grants California residents with several new rights relating to their personal information.
-
- The CCPA applies to businesses that conduct business in California and satisfies one of three financial conditions, including a business that has a gross revenue greater than $25 million.
-
- The CCPA sets forth several data protection obligations for applicable businesses, including the obligation to inform a consumer, at or before collection, of 
-
-
+ The CCPA applies to businesses that conduct business in California and satisfies one of three financial conditions, including a business that has a gross revenue greater than $25 million. The CCPA sets forth several data protection obligations for applicable businesses, including the obligation to inform a consumer, at or before collection, of 
  28
 
 
- The California Consumer Privacy Act of 2018 (“CCPA”), which became effective January 1, 2020, grants California residents with several new rights relating to their personal information.
+the purpose and intended use of the collection, and the obligation to delete a consumer’s personal information upon request. The CCPA establishes a private right of action that allows consumers the right to seek damages for serious data breaches. The CCPA also allows the California Attorney General to bring actions against non-compliant businesses with fines of $2,500 per violation or, if intentional, up to $7,500 per violation.
 
- The CCPA applies to businesses that conduct business in California and satisfies one of three financial conditions, including a business that has a gross revenue greater than $25 million.
+ The CCPA establishes a private right of action that allows consumers the right to seek damages for serious data breaches. The CCPA also allows the California Attorney General to bring actions against non-compliant businesses with fines of $2,500 per violation or, if intentional, up to $7,500 per violation. Any failure by us to comply with the CCPA could have a material adverse effect on our business, results of operations or financial condition.
 
- The CCPA sets forth several data protection obligations for applicable businesses, including the obligation to inform a consumer, at or before collection, of 
-
-
- 28
+ The CCPA also allows the California Attorney General to bring actions against non-compliant businesses with fines of $2,500 per violation or, if intentional, up to $7,500 per violation. Any failure by us to comply with the CCPA could have a material adverse effect on our business, results of operations or financial condition. Complying with these varying requirements could cause us to incur substantial costs or require us to change our business practices in a manner adverse to our business.
 
 
-the purpose and intended use of the collection, and the obligation to delete a consumer’s personal information upon request.
-
- 28
-
-
-the purpose and intended use of the collection, and the obligation to delete a consumer’s personal information upon request.
-
- The CCPA establishes a private right of action that allows consumers the right to seek damages for serious data breaches.
-
- The CCPA also allows the California Attorney General to bring actions against non-compliant businesses with fines of $2,500 per violation or, if intentional, up to $7,500 per violation.
-
- Any failure by us to comply with the CCPA could have a material adverse effect on our business, results of operations or financial condition.
-
-the purpose and intended use of the collection, and the obligation to delete a consumer’s personal information upon request.
-
- The CCPA establishes a private right of action that allows consumers the right to seek damages for serious data breaches.
-
- The CCPA also allows the California Attorney General to bring actions against non-compliant businesses with fines of $2,500 per violation or, if intentional, up to $7,500 per violation.
-
- Any failure by us to comply with the CCPA could have a material adverse effect on our business, results of operations or financial condition.
-
- Complying with these varying requirements could cause us to incur substantial costs or require us to change our business practices in a manner adverse to our business.
-
- The CCPA establishes a private right of action that allows consumers the right to seek damages for serious data breaches.
-
- The CCPA also allows the California Attorney General to bring actions against non-compliant businesses with fines of $2,500 per violation or, if intentional, up to $7,500 per violation.
-
- Any failure by us to comply with the CCPA could have a material adverse effect on our business, results of operations or financial condition.
-
- Complying with these varying requirements could cause us to incur substantial costs or require us to change our business practices in a manner adverse to our business.
-
- Any failure, or perceived failure, by us to comply with any regulatory requirements or international privacy or consumer protection-related laws and regulations could result in proceedings or actions against us by governmental entities or others, subject us to significant penalties and negative publicity and adversely affect us.
-
-
-[-1.161537528038025, -0.8125828504562378, 2.4505672454833984]
-[0.9587486982345581, -2.313189744949341, 1.3317300081253052]
-[-0.8731178045272827, -1.1768437623977661, 2.485121965408325]
-[-0.601608395576477, -1.6030679941177368, 2.4432358741760254]
-[0.9587486982345581, -2.313189744949341, 1.3317300081253052]
-[-0.8731178045272827, -1.1768437623977661, 2.485121965408325]
-[-0.601608395576477, -1.6030679941177368, 2.4432358741760254]
-[-0.7552163600921631, -0.5294808149337769, 2.1754727363586426]
-[0.9587486982345581, -2.313189744949341, 1.3317300081253052]
-[-0.8731178045272827, -1.1768437623977661, 2.485121965408325]
-[-0.601608395576477, -1.6030679941177368, 2.4432358741760254]
-[-0.7552163600921631, -0.5294808149337769, 2.1754727363586426]
-[-1.434978723526001, -0.29720598459243774, 2.539694309234619]
-[-0.7552163600921631, -0.5294808149337769, 2.1754727363586426]
-[-1.434978723526001, -0.29720598459243774, 2.539694309234619]
-[-0.16643856465816498, -1.7066560983657837, 2.235844135284424]
-[-1.12191641330719, 0.5803715586662292, 1.2052654027938843]
-[-1.93195641040802, 2.239854574203491, 0.3922583758831024]
-[-1.434978723526001, -0.29720598459243774, 2.539694309234619]
-[-0.16643856465816498, -1.7066560983657837, 2.235844135284424]
-[-1.12191641330719, 0.5803715586662292, 1.2052654027938843]
-[-1.93195641040802, 2.239854574203491, 0.3922583758831024]
-[-1.7488762140274048, 1.7001187801361084, 0.564960777759552]
-[-0.16643856465816498, -1.7066560983657837, 2.235844135284424]
-[-1.12191641330719, 0.5803715586662292, 1.2052654027938843]
-[-1.93195641040802, 2.239854574203491, 0.3922583758831024]
-[-1.7488762140274048, 1.7001187801361084, 0.564960777759552]
-[-1.9250969886779785, 2.3872287273406982, 0.23606860637664795]
+[-0.4484580457210541, -1.6456024646759033, 2.3482577800750732]
+[-0.9726815819740295, -1.086497187614441, 2.482012987136841]
+[-0.959308385848999, -1.0964754819869995, 2.4715352058410645]
+[-0.8462955355644226, -0.8145391345024109, 2.2105419635772705]
+[-1.824642300605774, 2.0640830993652344, 0.5688740015029907]
+[-1.888911485671997, 2.206204652786255, 0.36472150683403015]

@@ -1,0 +1,42 @@
+e.
+
+ For example, California enacted legislation – the California Consumer Privacy Act, or CCPA – which went into effect January 1, 2020 and, among other things, creates new data privacy obligations for covered companies and provides new privacy rights to California residents, including the right to opt out of certain disclosures of their information, and creates a private right of action with statutory damages for certain data breaches, thereby potentially increasing risks associated with a data breach.
+
+ The CCPA was recently amended by the California Privacy Rights Act, expanding certain consumer rights such as the right to know.
+
+ It remains unclear what, if any, additional modifications will be made to these laws by the California legislature or how these laws will be interpreted and enforced.
+
+ For example, California enacted legislation – the California Consumer Privacy Act, or CCPA – which went into effect January 1, 2020 and, among other things, creates new data privacy obligations for covered companies and provides new privacy rights to California residents, including the right to opt out of certain disclosures of their information, and creates a private right of action with statutory damages for certain data breaches, thereby potentially increasing risks associated with a data breach.
+
+ The CCPA was recently amended by the California Privacy Rights Act, expanding certain consumer rights such as the right to know.
+
+ It remains unclear what, if any, additional modifications will be made to these laws by the California legislature or how these laws will be interpreted and enforced.
+
+ The potential effects of the CCPA and CPRA are significant and may cause us to incur substantial costs and expenses to comply.
+
+ The CCPA was recently amended by the California Privacy Rights Act, expanding certain consumer rights such as the right to know.
+
+ It remains unclear what, if any, additional modifications will be made to these laws by the California legislature or how these laws will be interpreted and enforced.
+
+ The potential effects of the CCPA and CPRA are significant and may cause us to incur substantial costs and expenses to comply.
+
+
+
+
+
+
+
+
+[-0.7042661309242249, -1.0102519989013672, 2.3967857360839844]
+[0.05320435389876366, -1.6349238157272339, 1.786399483680725]
+[1.3441321849822998, -2.431171178817749, 0.7785473465919495]
+[-1.1332217454910278, -0.6363269090652466, 2.341024875640869]
+[0.05320435389876366, -1.6349238157272339, 1.786399483680725]
+[1.3441321849822998, -2.431171178817749, 0.7785473465919495]
+[-1.1332217454910278, -0.6363269090652466, 2.341024875640869]
+[-1.604871392250061, 2.3225507736206055, -0.5054308772087097]
+[1.3441321849822998, -2.431171178817749, 0.7785473465919495]
+[-1.1332217454910278, -0.6363269090652466, 2.341024875640869]
+[-1.604871392250061, 2.3225507736206055, -0.5054308772087097]
+[0.22669722139835358, -0.278788298368454, 0.3930892050266266]
+[0.22669722139835358, -0.278788298368454, 0.3930892050266266]

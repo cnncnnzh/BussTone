@@ -1,110 +1,29 @@
- 
-
-
 Similar to the GDPR, the California Consumer
-
-
 Privacy Act of 2018 (“CCPA”), which became effective January 1, 2020, grants California residents with several new
-
-
 rights relating to their personal information.
 
- The CCPA applies to businesses that conduct business in California and satisfies
-
-
-Privacy Act of 2018 (“CCPA”), which became effective January 1, 2020, grants California residents with several new
-
-
-rights relating to their personal information.
-
- The CCPA applies to businesses that conduct business in California and satisfies
-
-
+rights relating to their personal information. The CCPA applies to businesses that conduct business in California and satisfies
 one of three financial conditions, including a business that has a gross revenue greater than $25 million.
 
- The CCPA sets forth
-
-
- The CCPA applies to businesses that conduct business in California and satisfies
-
-
-one of three financial conditions, including a business that has a gross revenue greater than $25 million.
-
- The CCPA sets forth
-
-
+one of three financial conditions, including a business that has a gross revenue greater than $25 million. The CCPA sets forth
 several data protection obligations for applicable businesses, including the obligation to inform a consumer, at or before collection,
 
 
-of the purpose and intended use of the collection, and the obligation to delete a consumer’s personal information upon request.
 
-of the purpose and intended use of the collection, and the obligation to delete a consumer’s personal information upon request.
-
+The CCPA establishes a private right of action that allows consumers the right to seek damages for serious data breaches. The CCPA
 
 
-
-The CCPA establishes a private right of action that allows consumers the right to seek damages for serious data breaches.
-
- The CCPA
-
-
+The CCPA establishes a private right of action that allows consumers the right to seek damages for serious data breaches. The CCPA
 also allows the California Attorney General to bring actions against non-compliant businesses with fines of $2,500 per violation
 
 
-
-
-
-The CCPA establishes a private right of action that allows consumers the right to seek damages for serious data breaches.
-
- The CCPA
-
-
-also allows the California Attorney General to bring actions against non-compliant businesses with fines of $2,500 per violation
-
-
-or, if intentional, up to $7,500 per violation.
-
-also allows the California Attorney General to bring actions against non-compliant businesses with fines of $2,500 per violation
-
-
-or, if intentional, up to $7,500 per violation.
-
- Any failure by us to comply with the GDPR or the CCPA could have a material adverse
-
-
+or, if intentional, up to $7,500 per violation. Any failure by us to comply with the GDPR or the CCPA could have a material adverse
 effect on our business, results of operations or financial condition.
 
 
-
-
-
-[0.22669722139835358, -0.278788298368454, 0.3930892050266266]
-[-0.15112249553203583, -1.7536590099334717, 2.1851425170898438]
-[1.2249846458435059, -2.5395476818084717, 1.1308408975601196]
-[-1.325053095817566, -0.34597837924957275, 2.5081849098205566]
-[-0.7959603667259216, -1.3229786157608032, 2.5738120079040527]
-[1.2249846458435059, -2.5395476818084717, 1.1308408975601196]
-[-1.325053095817566, -0.34597837924957275, 2.5081849098205566]
-[-0.7959603667259216, -1.3229786157608032, 2.5738120079040527]
-[-1.7558013200759888, 2.4685816764831543, 0.07027813792228699]
-[-0.6909656524658203, -1.0988258123397827, 2.5232489109039307]
-[-0.7959603667259216, -1.3229786157608032, 2.5738120079040527]
-[-1.7558013200759888, 2.4685816764831543, 0.07027813792228699]
-[-0.6909656524658203, -1.0988258123397827, 2.5232489109039307]
-[-0.6631599068641663, -1.4337483644485474, 2.445636034011841]
-[-1.404877781867981, -0.30594608187675476, 2.520824670791626]
-[-1.404877781867981, -0.30594608187675476, 2.520824670791626]
-[0.22669722139835358, -0.278788298368454, 0.3930892050266266]
-[-0.16643856465816498, -1.7066560983657837, 2.235844135284424]
-[0.2869793772697449, -1.7472331523895264, 2.0357651710510254]
-[-1.1890475749969482, 0.597996175289154, 1.3711122274398804]
-[0.22669722139835358, -0.278788298368454, 0.3930892050266266]
-[-0.16643856465816498, -1.7066560983657837, 2.235844135284424]
-[0.2869793772697449, -1.7472331523895264, 2.0357651710510254]
-[-1.1890475749969482, 0.597996175289154, 1.3711122274398804]
-[-1.2226603031158447, 0.6416924595832825, 1.382308840751648]
-[-1.1890475749969482, 0.597996175289154, 1.3711122274398804]
-[-1.2226603031158447, 0.6416924595832825, 1.382308840751648]
-[-1.8582714796066284, 2.482966184616089, -0.13584253191947937]
-[-1.6330558061599731, 0.49432724714279175, 2.2317709922790527]
-[0.22669722139835358, -0.278788298368454, 0.3930892050266266]
+[0.9237300157546997, -2.39158296585083, 1.4475769996643066]
+[-1.0659315586090088, -0.9369832873344421, 2.519505023956299]
+[-0.9351149201393127, -1.0863152742385864, 2.4767966270446777]
+[-0.4121239185333252, -1.6671561002731323, 2.387885332107544]
+[-0.4494853913784027, -1.1260093450546265, 2.0230867862701416]
+[-1.9354517459869385, 2.443727731704712, 0.13872411847114563]

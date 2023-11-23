@@ -25,7 +25,7 @@ class Score():
         self.table = pd.DataFrame(columns=self.columns)
         self.write_script = write_script
 
-    def gen_score(self, model, tokenizer):
+    def gen_score(self, model, tokenizer, split_sentence):
         for kid in os.listdir(self.root)[10:30]:
             path1 = os.path.join(os.path.join(self.root, kid), r'10-K')
             for kid_v in os.listdir(path1):
@@ -37,14 +37,14 @@ class Score():
                 to_dirc = os.path.join(root, 'script.txt')
                 
                 #convert html to txt
-                if self.to_txt == 'True':
+                if self.to_txt == 'true':
                     html_to_txt(dirc, to_dirc)
                 
                 #extract all the paragraphs
-                all_scripts = get_paragraph(to_dirc)
+                all_scripts = get_paragraph(to_dirc, split_sentence)
                 
                 # save extracted paragraphs
-                if self.write_script == 'True':
+                if self.write_script == 'true':
                     to_file = os.path.join(self.result_root, kid + '-' + year + '.txt')
                     
                     gen_script(all_scripts, to_file)
@@ -65,7 +65,7 @@ class Score():
                         }
                     )], ignore_index=True)
                     # print(self.table)
-                    if self.write_script == 'True':
+                    if self.write_script == 'true':
                         with open(to_file, 'a', encoding='utf-8') as f:
                             f.write('\n')
                             f.write(str(logits))

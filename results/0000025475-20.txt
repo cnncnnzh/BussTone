@@ -1,16 +1,4 @@
- We also do business globally in countries that have stringent data protection laws that may be inconsistent across jurisdictions and are subject to evolving and differing interpretations.
-
- Governments, privacy advocates and class action attorneys are increasingly scrutinizing how companies collect, process, use, store, share and transmit personal data.
-
- Globally, new laws, such as the General Data Protection Regulation (“GDPR”) in Europe, the California Consumer Privacy Act ("CCPA") in California, and industry self-regulatory codes have been enacted and more are being considered that may affect our ability to respond to customer requests under the laws, and to implement our business models effectively.
-
- These requirements, among others, may force us to bear the burden of more onerous obligations in our contracts.
-
- Any perception of our practices, products or services as a violation of individual privacy rights may subject us to public criticism, class action lawsuits, reputational harm, or investigations or claims by regulators, industry groups or other third parties, all of which could disrupt our business and expose us to increased liability.
+ Globally, new laws, such as the General Data Protection Regulation (“GDPR”) in Europe, the California Consumer Privacy Act ("CCPA") in California, and industry self-regulatory codes have been enacted and more are being considered that may affect our ability to respond to customer requests under the laws, and to implement our business models effectively. These requirements, among others, may force us to bear the burden of more onerous obligations in our contracts.
 
 
-[-1.111524224281311, -0.03926650434732437, 1.5091865062713623]
-[-1.6671277284622192, 1.4839712381362915, 1.3426815271377563]
-[-0.5657075643539429, -0.8833152055740356, 1.883691430091858]
-[-1.6359862089157104, 2.2356650829315186, -0.10690605640411377]
-[-1.8992780447006226, 2.359375238418579, 0.3164714276790619]
+[-1.308192491531372, 1.0941205024719238, 1.0302236080169678]

@@ -1,35 +1,8 @@
+ One example of recent state legislation is the California Consumer Privacy Act (“CCPA”), which became effective on January 1, 2020 and applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds. November 2020 amendments expanding the scope of and requirements under the CCPA will generally become effective on January 1, 2023.
+
+ One example of recent state legislation is the California Consumer Privacy Act (“CCPA”), which became effective on January 1, 2020 and applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds. November 2020 amendments expanding the scope of and requirements under the CCPA will generally become effective on January 1, 2023. 
 
 
 
-Many states and regulators have been increasingly active in implementing privacy and cybersecurity standards and regulations, including implementing or modifying their data breach notification and data privacy requirements.
-
- One example of recent state legislation is the California Consumer Privacy Act (“CCPA”), which became effective on January 1, 2020 and applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
-
- November 2020 amendments expanding the scope of and requirements under the CCPA will generally become effective on January 1, 2023.
-
- 
-
-
-Many states and regulators have been increasingly active in implementing privacy and cybersecurity standards and regulations, including implementing or modifying their data breach notification and data privacy requirements.
-
- One example of recent state legislation is the California Consumer Privacy Act (“CCPA”), which became effective on January 1, 2020 and applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
-
- November 2020 amendments expanding the scope of and requirements under the CCPA will generally become effective on January 1, 2023.
-
- 
-
-
-Consumer Protection Laws and the Consumer Financial Protection Bureau Supervision
-
-
-
-[0.22669722139835358, -0.278788298368454, 0.3930892050266266]
-[-0.23670075833797455, -1.403637409210205, 1.8936046361923218]
-[-0.4830935597419739, -1.5787353515625, 2.3889453411102295]
-[-0.8457615971565247, -1.4250932931900024, 2.533153533935547]
-[0.22669722139835358, -0.278788298368454, 0.3930892050266266]
-[-0.23670075833797455, -1.403637409210205, 1.8936046361923218]
-[-0.4830935597419739, -1.5787353515625, 2.3889453411102295]
-[-0.8457615971565247, -1.4250932931900024, 2.533153533935547]
-[0.22669722139835358, -0.278788298368454, 0.3930892050266266]
-[-0.9319544434547424, -0.8251695036888123, 2.5286617279052734]
+[-0.7089941501617432, -1.4073258638381958, 2.4336957931518555]
+[-0.7089941501617432, -1.4073258638381958, 2.4336957931518555]

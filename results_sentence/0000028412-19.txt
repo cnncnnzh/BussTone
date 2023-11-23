@@ -1,0 +1,136 @@
+ Comerica is monitoring the development of this rule.
+
+Data privacy and data protection are areas of increasing state legislative focus.
+
+ For example, in June of 2018, the Governor of California signed into law the California Consumer Privacy Act of 2018 (the “CCPA”).
+
+ The CCPA, which becomes effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
+
+ The CCPA will give consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
+
+Data privacy and data protection are areas of increasing state legislative focus.
+
+ For example, in June of 2018, the Governor of California signed into law the California Consumer Privacy Act of 2018 (the “CCPA”).
+
+ The CCPA, which becomes effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
+
+ The CCPA will give consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
+
+ The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act.
+
+ For example, in June of 2018, the Governor of California signed into law the California Consumer Privacy Act of 2018 (the “CCPA”).
+
+ The CCPA, which becomes effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
+
+ The CCPA will give consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
+
+ The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act.
+
+ The California Attorney General has not yet proposed or adopted regulations implementing the CCPA, and the California State Legislature has amended the Act since its passage.
+
+ The CCPA, which becomes effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
+
+ The CCPA will give consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
+
+ The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act.
+
+ The California Attorney General has not yet proposed or adopted regulations implementing the CCPA, and the California State Legislature has amended the Act since its passage.
+
+ Comerica has a physical footprint in California and will be required to comply with the CCPA.
+
+ The CCPA will give consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
+
+ The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act.
+
+ The California Attorney General has not yet proposed or adopted regulations implementing the CCPA, and the California State Legislature has amended the Act since its passage.
+
+ Comerica has a physical footprint in California and will be required to comply with the CCPA.
+
+ In addition, similar laws may be adopted by other states where Comerica does business.
+
+ The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act.
+
+ The California Attorney General has not yet proposed or adopted regulations implementing the CCPA, and the California State Legislature has amended the Act since its passage.
+
+ Comerica has a physical footprint in California and will be required to comply with the CCPA.
+
+ In addition, similar laws may be adopted by other states where Comerica does business.
+
+ The impact of the CCPA on Comerica’s business is yet to be determined.
+
+ Comerica has a physical footprint in California and will be required to comply with the CCPA.
+
+ In addition, similar laws may be adopted by other states where Comerica does business.
+
+ The impact of the CCPA on Comerica’s business is yet to be determined.
+
+ The federal government may also pass data privacy or data protection legislation.
+
+Like other lenders, Comerica Bank and other of Comerica’s subsidiaries use credit bureau data in their underwriting activities.
+
+ The sharing, use, disclosure and protection of this information are governed by federal and state law.
+
+ Both personally identifiable information and personal financial information is increasingly subject to legislation and regulation, the intent of which is to protect the privacy of personal information that is collected and handled.
+
+ For example, in June of 2018, the Governor of California signed into law the CCPA.
+
+ The CCPA, which becomes effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds, including Comerica.
+
+ For more information regarding data privacy regulation, refer to the “Supervision and Regulation” section of this report.
+
+ Both personally identifiable information and personal financial information is increasingly subject to legislation and regulation, the intent of which is to protect the privacy of personal information that is collected and handled.
+
+ For example, in June of 2018, the Governor of California signed into law the CCPA.
+
+ The CCPA, which becomes effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds, including Comerica.
+
+ For more information regarding data privacy regulation, refer to the “Supervision and Regulation” section of this report.
+
+Comerica may become subject to new legislation or regulation concerning cybersecurity or the privacy of personally identifiable information and personal financial information or of any other information Comerica may store or maintain.
+
+
+[0.1787429302930832, -2.33831524848938, 2.266299247741699]
+[0.23230107128620148, -2.0022451877593994, 1.8344871997833252]
+[0.25632309913635254, -1.9985181093215942, 2.017794609069824]
+[-0.28417152166366577, -1.9328020811080933, 2.341012477874756]
+[-0.919896125793457, -1.0504573583602905, 2.4407198429107666]
+[0.23230107128620148, -2.0022451877593994, 1.8344871997833252]
+[0.25632309913635254, -1.9985181093215942, 2.017794609069824]
+[-0.28417152166366577, -1.9328020811080933, 2.341012477874756]
+[-0.919896125793457, -1.0504573583602905, 2.4407198429107666]
+[-0.5320165157318115, -1.604691982269287, 2.4051051139831543]
+[0.25632309913635254, -1.9985181093215942, 2.017794609069824]
+[-0.28417152166366577, -1.9328020811080933, 2.341012477874756]
+[-0.919896125793457, -1.0504573583602905, 2.4407198429107666]
+[-0.5320165157318115, -1.604691982269287, 2.4051051139831543]
+[-0.25576668977737427, -1.4515583515167236, 2.101245164871216]
+[-0.28417152166366577, -1.9328020811080933, 2.341012477874756]
+[-0.919896125793457, -1.0504573583602905, 2.4407198429107666]
+[-0.5320165157318115, -1.604691982269287, 2.4051051139831543]
+[-0.25576668977737427, -1.4515583515167236, 2.101245164871216]
+[-0.705989420413971, -1.2163485288619995, 2.25229549407959]
+[-0.919896125793457, -1.0504573583602905, 2.4407198429107666]
+[-0.5320165157318115, -1.604691982269287, 2.4051051139831543]
+[-0.25576668977737427, -1.4515583515167236, 2.101245164871216]
+[-0.705989420413971, -1.2163485288619995, 2.25229549407959]
+[-0.050234634429216385, -2.1033267974853516, 2.3121979236602783]
+[-0.5320165157318115, -1.604691982269287, 2.4051051139831543]
+[-0.25576668977737427, -1.4515583515167236, 2.101245164871216]
+[-0.705989420413971, -1.2163485288619995, 2.25229549407959]
+[-0.050234634429216385, -2.1033267974853516, 2.3121979236602783]
+[-1.3813334703445435, -0.21291236579418182, 2.3512659072875977]
+[-0.705989420413971, -1.2163485288619995, 2.25229549407959]
+[-0.050234634429216385, -2.1033267974853516, 2.3121979236602783]
+[-1.3813334703445435, -0.21291236579418182, 2.3512659072875977]
+[-0.2030358463525772, -1.6772655248641968, 2.2227845191955566]
+[-1.1604481935501099, -0.7997557520866394, 2.6410746574401855]
+[-1.0848634243011475, -0.944320023059845, 2.584210157394409]
+[-0.9949524998664856, -0.7494046092033386, 2.4207301139831543]
+[0.3471835255622864, -2.2443106174468994, 2.018801212310791]
+[-0.18116365373134613, -2.0301413536071777, 2.3127448558807373]
+[-0.7674353718757629, -1.2269622087478638, 2.525629758834839]
+[-0.9949524998664856, -0.7494046092033386, 2.4207301139831543]
+[0.3471835255622864, -2.2443106174468994, 2.018801212310791]
+[-0.18116365373134613, -2.0301413536071777, 2.3127448558807373]
+[-0.7674353718757629, -1.2269622087478638, 2.525629758834839]
+[-1.6230825185775757, 0.20234252512454987, 2.2473199367523193]

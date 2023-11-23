@@ -1,151 +1,31 @@
- Security and privacy policies and procedures for the protection of personal and confidential information are in effect across all the Company’s businesses and geographic locations.
-
-  Data privacy and data protection are areas of increasing state legislative focus, and several states have recently enacted consumer privacy laws that impose compliance obligations with respect to personal information.
-
  For example, the Company is subject to the California Consumer Protection Act of 2018 and its implementing regulations (collectively, the “CCPA”).
 
  The CCPA gives consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
 
- The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the GLBA.
-
-  Data privacy and data protection are areas of increasing state legislative focus, and several states have recently enacted consumer privacy laws that impose compliance obligations with respect to personal information.
-
- For example, the Company is subject to the California Consumer Protection Act of 2018 and its implementing regulations (collectively, the “CCPA”).
-
- The CCPA gives consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
-
- The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the GLBA.
+ The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the GLBA. The CCPA also provides residents of California (regardless of whether their information is covered under the GLBA exemption) with a limited private right of action against the unauthorized access and exfiltration, theft, or disclosure of certain types of personal information, including the right to seek statutory damages.
 
  The CCPA also provides residents of California (regardless of whether their information is covered under the GLBA exemption) with a limited private right of action against the unauthorized access and exfiltration, theft, or disclosure of certain types of personal information, including the right to seek statutory damages.
 
- For example, the Company is subject to the California Consumer Protection Act of 2018 and its implementing regulations (collectively, the “CCPA”).
+ In November 2020, voters in the State of California approved the California Privacy Rights Act (“CPRA”), a ballot measure that amends and supplements the CCPA by, among other things, expanding certain rights relating to personal information and its use, collection, and disclosure by covered businesses and expanding coverage to include employees, job applicants and business contacts who are residents    15        of California. The key provisions of the CPRA will become effective on January 1, 2023.
 
- The CCPA gives consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
+ In addition, similar laws have been and may be adopted by other states where the Company does business, including the Colorado Privacy Act and the Virginia Consumer Data Protection Act, each of which were enacted in 2021. The Company has made and will make operational adjustments in accordance with the requirements of the CCPA and other state privacy laws. The federal government may also pass additional data privacy or data protection legislation.
 
- The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the GLBA.
-
- The CCPA also provides residents of California (regardless of whether their information is covered under the GLBA exemption) with a limited private right of action against the unauthorized access and exfiltration, theft, or disclosure of certain types of personal information, including the right to seek statutory damages.
-
- In November 2020, voters in the State of California approved the California Privacy Rights Act (“CPRA”), a ballot measure that amends and supplements the CCPA by, among other things, expanding certain rights relating to personal information and its use, collection, and disclosure by covered businesses and expanding coverage to include employees, job applicants and business contacts who are residents    15        of California.
-
- The CCPA gives consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
-
- The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the GLBA.
-
- The CCPA also provides residents of California (regardless of whether their information is covered under the GLBA exemption) with a limited private right of action against the unauthorized access and exfiltration, theft, or disclosure of certain types of personal information, including the right to seek statutory damages.
-
- In November 2020, voters in the State of California approved the California Privacy Rights Act (“CPRA”), a ballot measure that amends and supplements the CCPA by, among other things, expanding certain rights relating to personal information and its use, collection, and disclosure by covered businesses and expanding coverage to include employees, job applicants and business contacts who are residents    15        of California.
-
- The key provisions of the CPRA will become effective on January 1, 2023.
-
- The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the GLBA.
-
- The CCPA also provides residents of California (regardless of whether their information is covered under the GLBA exemption) with a limited private right of action against the unauthorized access and exfiltration, theft, or disclosure of certain types of personal information, including the right to seek statutory damages.
-
- In November 2020, voters in the State of California approved the California Privacy Rights Act (“CPRA”), a ballot measure that amends and supplements the CCPA by, among other things, expanding certain rights relating to personal information and its use, collection, and disclosure by covered businesses and expanding coverage to include employees, job applicants and business contacts who are residents    15        of California.
-
- The key provisions of the CPRA will become effective on January 1, 2023.
-
- In addition, similar laws have been and may be adopted by other states where the Company does business, including the Colorado Privacy Act and the Virginia Consumer Data Protection Act, each of which were enacted in 2021.
-
- The key provisions of the CPRA will become effective on January 1, 2023.
-
- In addition, similar laws have been and may be adopted by other states where the Company does business, including the Colorado Privacy Act and the Virginia Consumer Data Protection Act, each of which were enacted in 2021.
-
- The Company has made and will make operational adjustments in accordance with the requirements of the CCPA and other state privacy laws.
-
- The federal government may also pass additional data privacy or data protection legislation.
-
- In addition, in the European Union (“EU”), privacy law is governed by the General Data Protection Regulation (“GDPR”), which is directly binding and applicable for each EU member state.
-
- Any mishandling or misuse of personal information by the Company or a third party affiliated with the Company could expose the Company to litigation or regulatory fines, penalties or other sanctions.
-
- In the United States, several states have recently enacted consumer privacy laws that impose compliance obligations with respect to personal information.
-
- In particular, the California Consumer Privacy Act (the “CCPA”) and its implementing regulations impose significant requirements on covered companies with respect to consumer data privacy rights.
+ In particular, the California Consumer Privacy Act (the “CCPA”) and its implementing regulations impose significant requirements on covered companies with respect to consumer data privacy rights. In November 2020, voters in the State of California approved the California Privacy Rights Act (“CPRA”), a ballot measure that amends and supplements the CCPA by, among other things, expanding certain rights relating to personal information and its use, collection, deletion, and disclosure by covered businesses.
 
  In November 2020, voters in the State of California approved the California Privacy Rights Act (“CPRA”), a ballot measure that amends and supplements the CCPA by, among other things, expanding certain rights relating to personal information and its use, collection, deletion, and disclosure by covered businesses.
 
- Compliance with the CCPA, the CPRA after it becomes effective, and other state statutes, common law, or regulations designed to protect consumer, employee, or job applicant personal information could potentially require substantive technology infrastructure and process changes across many of the Company’s businesses.
+ Compliance with the CCPA, the CPRA after it becomes effective, and other state statutes, common law, or regulations designed to protect consumer, employee, or job applicant personal information could potentially require substantive technology infrastructure and process changes across many of the Company’s businesses. Non-compliance with the CCPA, CPRA, or similar laws and regulations could lead to substantial regulatory fines and penalties, damages from private causes of action, and/or reputational harm.
 
- In the United States, several states have recently enacted consumer privacy laws that impose compliance obligations with respect to personal information.
-
- In particular, the California Consumer Privacy Act (the “CCPA”) and its implementing regulations impose significant requirements on covered companies with respect to consumer data privacy rights.
-
- In November 2020, voters in the State of California approved the California Privacy Rights Act (“CPRA”), a ballot measure that amends and supplements the CCPA by, among other things, expanding certain rights relating to personal information and its use, collection, deletion, and disclosure by covered businesses.
-
- Compliance with the CCPA, the CPRA after it becomes effective, and other state statutes, common law, or regulations designed to protect consumer, employee, or job applicant personal information could potentially require substantive technology infrastructure and process changes across many of the Company’s businesses.
-
- Non-compliance with the CCPA, CPRA, or similar laws and regulations could lead to substantial regulatory fines and penalties, damages from private causes of action, and/or reputational harm.
-
- In particular, the California Consumer Privacy Act (the “CCPA”) and its implementing regulations impose significant requirements on covered companies with respect to consumer data privacy rights.
-
- In November 2020, voters in the State of California approved the California Privacy Rights Act (“CPRA”), a ballot measure that amends and supplements the CCPA by, among other things, expanding certain rights relating to personal information and its use, collection, deletion, and disclosure by covered businesses.
-
- Compliance with the CCPA, the CPRA after it becomes effective, and other state statutes, common law, or regulations designed to protect consumer, employee, or job applicant personal information could potentially require substantive technology infrastructure and process changes across many of the Company’s businesses.
-
- Non-compliance with the CCPA, CPRA, or similar laws and regulations could lead to substantial regulatory fines and penalties, damages from private causes of action, and/or reputational harm.
-
- The Company cannot predict whether any pending or future state or federal legislation will be adopted, or the substance and impact of any legislation on the Company.
-
- In November 2020, voters in the State of California approved the California Privacy Rights Act (“CPRA”), a ballot measure that amends and supplements the CCPA by, among other things, expanding certain rights relating to personal information and its use, collection, deletion, and disclosure by covered businesses.
-
- Compliance with the CCPA, the CPRA after it becomes effective, and other state statutes, common law, or regulations designed to protect consumer, employee, or job applicant personal information could potentially require substantive technology infrastructure and process changes across many of the Company’s businesses.
-
- Non-compliance with the CCPA, CPRA, or similar laws and regulations could lead to substantial regulatory fines and penalties, damages from private causes of action, and/or reputational harm.
-
- The Company cannot predict whether any pending or future state or federal legislation will be adopted, or the substance and impact of any legislation on the Company.
-
- Future legislation could result in substantial costs to the Company and could have an adverse effect on its business, financial condition and results of operations.
+ Non-compliance with the CCPA, CPRA, or similar laws and regulations could lead to substantial regulatory fines and penalties, damages from private causes of action, and/or reputational harm. The Company cannot predict whether any pending or future state or federal legislation will be adopted, or the substance and impact of any legislation on the Company.
 
 
-[-0.7965012788772583, -1.4362314939498901, 2.52510142326355]
-[-0.32416340708732605, -1.0203702449798584, 1.716504693031311]
-[-0.7030337452888489, -1.3294483423233032, 2.540043354034424]
-[-1.0123175382614136, -0.8756179809570312, 2.4279696941375732]
-[-0.5198596119880676, -1.6597564220428467, 2.4090824127197266]
-[-0.32416340708732605, -1.0203702449798584, 1.716504693031311]
-[-0.7030337452888489, -1.3294483423233032, 2.540043354034424]
-[-1.0123175382614136, -0.8756179809570312, 2.4279696941375732]
-[-0.5198596119880676, -1.6597564220428467, 2.4090824127197266]
-[-0.9687227010726929, -0.9134684205055237, 2.436129331588745]
-[-0.7030337452888489, -1.3294483423233032, 2.540043354034424]
-[-1.0123175382614136, -0.8756179809570312, 2.4279696941375732]
-[-0.5198596119880676, -1.6597564220428467, 2.4090824127197266]
-[-0.9687227010726929, -0.9134684205055237, 2.436129331588745]
-[1.3029454946517944, -2.4305355548858643, 0.9621918201446533]
-[-1.0123175382614136, -0.8756179809570312, 2.4279696941375732]
-[-0.5198596119880676, -1.6597564220428467, 2.4090824127197266]
-[-0.9687227010726929, -0.9134684205055237, 2.436129331588745]
-[1.3029454946517944, -2.4305355548858643, 0.9621918201446533]
-[-0.7522725462913513, -1.4881751537322998, 2.5433719158172607]
-[-0.5198596119880676, -1.6597564220428467, 2.4090824127197266]
-[-0.9687227010726929, -0.9134684205055237, 2.436129331588745]
-[1.3029454946517944, -2.4305355548858643, 0.9621918201446533]
-[-0.7522725462913513, -1.4881751537322998, 2.5433719158172607]
-[0.06102113053202629, -2.0747761726379395, 2.1753480434417725]
-[-0.7522725462913513, -1.4881751537322998, 2.5433719158172607]
-[0.06102113053202629, -2.0747761726379395, 2.1753480434417725]
-[0.039122890681028366, -1.8923696279525757, 1.9213521480560303]
-[-0.10982513427734375, -1.7087196111679077, 2.0982813835144043]
-[-0.9171387553215027, -1.0448975563049316, 2.5496749877929688]
-[-1.912032961845398, 2.063145399093628, 0.7262158393859863]
-[-1.2813996076583862, 0.7979015707969666, 1.4800844192504883]
-[-1.3607361316680908, 0.5677354335784912, 1.694945216178894]
-[0.9854975938796997, -2.2426869869232178, 1.2722492218017578]
-[-0.9990267753601074, 0.2278091460466385, 1.3556630611419678]
-[-1.2813996076583862, 0.7979015707969666, 1.4800844192504883]
-[-1.3607361316680908, 0.5677354335784912, 1.694945216178894]
-[0.9854975938796997, -2.2426869869232178, 1.2722492218017578]
-[-0.9990267753601074, 0.2278091460466385, 1.3556630611419678]
-[-1.8154401779174805, 2.6182610988616943, -0.043438877910375595]
-[-1.3607361316680908, 0.5677354335784912, 1.694945216178894]
-[0.9854975938796997, -2.2426869869232178, 1.2722492218017578]
-[-0.9990267753601074, 0.2278091460466385, 1.3556630611419678]
-[-1.8154401779174805, 2.6182610988616943, -0.043438877910375595]
-[-1.403483271598816, -0.4214286506175995, 2.405089855194092]
-[0.9854975938796997, -2.2426869869232178, 1.2722492218017578]
-[-0.9990267753601074, 0.2278091460466385, 1.3556630611419678]
-[-1.8154401779174805, 2.6182610988616943, -0.043438877910375595]
-[-1.403483271598816, -0.4214286506175995, 2.405089855194092]
-[-1.9218640327453613, 2.551964044570923, 0.18500080704689026]
+[-0.703033983707428, -1.3294485807418823, 2.540043354034424]
+[-1.0123170614242554, -0.8756176829338074, 2.4279708862304688]
+[-0.8464647531509399, -1.1213253736495972, 2.429358959197998]
+[-0.9687228202819824, -0.9134674072265625, 2.4361302852630615]
+[0.302896112203598, -2.142777681350708, 1.9581682682037354]
+[-0.19941216707229614, -1.8762857913970947, 2.1989622116088867]
+[0.014907123520970345, -1.7514585256576538, 1.9500266313552856]
+[0.9854970574378967, -2.2426881790161133, 1.2722505331039429]
+[-1.777583360671997, 2.120530605316162, 0.6917366981506348]
+[-1.8660485744476318, 1.900351881980896, 1.049166202545166]

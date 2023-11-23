@@ -11,21 +11,22 @@ from datetime import timedelta
 
 
 def read_CIK(file):
-    pandas.read_excel(file)
     content = pandas.read_excel(file, sheet_name=-1)
     date_files = list(zip(
         content['Filed'] - timedelta(days=2),
         content['Filed'] + timedelta(days=2),
-        content['CIK']
+        content['CIK'],
+        content['Reporting for']
         )
     )
+    
     return date_files
     
-d1 = Downloader("Tulane", "email@xxx.com", r"./10K")
+d1 = Downloader("Tulane", "email@xxx.com", r"D:\Dropbox\Shan\10K_new")
 date_files = read_CIK(r'D:\Dropbox\Shan\10K.xlsx')
 
 count = 0
-for start, end, CIK in date_files:
+for start, end, CIK, date in date_files:
     start_date = str(start).split(' ')[0]
     end_date = str(end).split(' ')[0]
     CIK_num = CIK.split(' ')[1]
@@ -34,7 +35,8 @@ for start, end, CIK in date_files:
         CIK_num,
         after=start_date,
         before=end_date,
-        download_details=True
+        download_details=True,
+        added_name='_' + str(date).split(' ')[0]
     )
     count += num_downloaded
     print(CIK)

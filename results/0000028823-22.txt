@@ -1,31 +1,7 @@
- For example, the Company and its customers are subject to the European Union General Data Protection Regulation (“GDPR”), the U.
+K. General Data Protection Regulation, the California Consumer Privacy Act (“CCPA”), and the Brazilian Lei Geral de Proteção de Dados. Costs to comply with these Data Protection Laws are significant.
 
-K.
-
- General Data Protection Regulation, the California Consumer Privacy Act (“CCPA”), and the Brazilian Lei Geral de Proteção de Dados.
-
- Costs to comply with these Data Protection Laws are significant.
-
- Failure to comply with these laws could result in material legal exposure and business impact, including the loss of customers and decreased demand for our products and services.
-
- If we cannot transfer data from some jurisdictions or implement valid mechanisms for cross-border data transfers, we may face increased exposure to regulatory actions, substantial fines, injunctions against processing or transferring personal data from Europe or elsewhere, and require us to increase our personal data processing capabilities in the Europe Union and/or elsewhere at significant expense.
-
-  In addition to our legal obligations, our contractual obligations relating to privacy, data protection and information security have become increasingly prevalent and stringent due to changes in laws and regulations, including the development related to cross-border transfers, as well as the heightened regulatory requirements in the financial services industry.
-
- Certain Data Protection Laws, such as the GDPR and the CCPA, require our customers to impose specific contractual restrictions on their service providers.
-
- If we are unable to comply with our contractual obligations, this could impact our reputation and result in liabilities and loss of business.
-
-  Risks Related to Our Indebtedness.
+ Certain Data Protection Laws, such as the GDPR and the CCPA, require our customers to impose specific contractual restrictions on their service providers. If we are unable to comply with our contractual obligations, this could impact our reputation and result in liabilities and loss of business.
 
 
-[-0.6050195693969727, -1.5321069955825806, 2.535503387451172]
-[-0.7697266340255737, -0.4544712007045746, 2.0836150646209717]
-[-0.815681517124176, -1.175410509109497, 2.524038314819336]
-[-1.1501597166061401, 1.0709432363510132, 0.4813525080680847]
-[-1.8879934549331665, 2.9327006340026855, -0.6487795114517212]
-[-0.21791943907737732, 0.36860182881355286, -0.5822566151618958]
-[-0.1294855922460556, -1.2013667821884155, 1.3780057430267334]
-[-1.5903170108795166, 0.7154651284217834, 1.7253328561782837]
-[-1.9160517454147339, 2.852592706680298, -0.4876422584056854]
-[-1.2859605550765991, 0.7573316097259521, 0.9809637069702148]
+[-1.1790663003921509, 0.3863508105278015, 1.4422239065170288]
+[-1.9267045259475708, 2.7455801963806152, -0.3243415057659149]

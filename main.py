@@ -42,13 +42,20 @@ parser.add_argument(
         type=str,
         help="determine if the html is converted to txt"
 )
+parser.add_argument(
+        "--split_sentence",
+        default='False',
+        type=str,
+        help="determine whether the paragraph is splitted into sentences"
+)
+
 
 args = parser.parse_args(sys.argv[1:])
 
 tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
 model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
 
-score = Score(args.root_dir, args.result_dir, args.to_txt, args.write_script)
-score.gen_score(model, tokenizer)
+score = Score(args.root_dir, args.result_dir, args.to_txt.lower(), args.write_script.lower())
+score.gen_score(model, tokenizer, args.split_sentence.lower())
 score.write_score()
         

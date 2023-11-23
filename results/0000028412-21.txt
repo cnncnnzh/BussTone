@@ -1,121 +1,25 @@
- Comerica continues to monitor the development of this rule.
-
-Data privacy and data protection are areas of increasing state legislative focus.
-
- For example, in June of 2018, the Governor of California signed into law the California Consumer Privacy Act of 2018 (the “CCPA”).
+Data privacy and data protection are areas of increasing state legislative focus. For example, in June of 2018, the Governor of California signed into law the California Consumer Privacy Act of 2018 (the “CCPA”). The CCPA, which became effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
 
  The CCPA, which became effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
 
  The CCPA will give consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
 
-Data privacy and data protection are areas of increasing state legislative focus.
+ The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act. The California Attorney General adopted regulations implementing the CCPA on August 14, 2020.
 
- For example, in June of 2018, the Governor of California signed into law the California Consumer Privacy Act of 2018 (the “CCPA”).
+ The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act. The California Attorney General adopted regulations implementing the CCPA on August 14, 2020. Comerica has a physical footprint in California and is required to comply with the CCPA.
 
- The CCPA, which became effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
+ The California Attorney General adopted regulations implementing the CCPA on August 14, 2020. Comerica has a physical footprint in California and is required to comply with the CCPA. In addition, similar laws may be adopted by other states where Comerica does business.
 
- The CCPA will give consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
+ For example, in June of 2018, the Governor of California signed into law the CCPA. The CCPA, which became effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds, including Comerica.
 
- The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act.
-
- For example, in June of 2018, the Governor of California signed into law the California Consumer Privacy Act of 2018 (the “CCPA”).
-
- The CCPA, which became effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
-
- The CCPA will give consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
-
- The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act.
-
- The California Attorney General adopted regulations implementing the CCPA on August 14, 2020.
-
- The CCPA, which became effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
-
- The CCPA will give consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
-
- The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act.
-
- The California Attorney General adopted regulations implementing the CCPA on August 14, 2020.
-
- Comerica has a physical footprint in California and is required to comply with the CCPA.
-
- The CCPA will give consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
-
- The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act.
-
- The California Attorney General adopted regulations implementing the CCPA on August 14, 2020.
-
- Comerica has a physical footprint in California and is required to comply with the CCPA.
-
- In addition, similar laws may be adopted by other states where Comerica does business.
-
- The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the Gramm-Leach-Bliley Act.
-
- The California Attorney General adopted regulations implementing the CCPA on August 14, 2020.
-
- Comerica has a physical footprint in California and is required to comply with the CCPA.
-
- In addition, similar laws may be adopted by other states where Comerica does business.
-
- The federal government may also pass data privacy or data protection legislation.
-
- The sharing, use, disclosure and protection of this information are governed by federal and state law.
-
- Both personally identifiable information and personal financial information is increasingly subject to legislation and regulation, the intent of which is to protect the privacy of personal information that is collected and handled.
-
- For example, in June of 2018, the Governor of California signed into law the CCPA.
-
- The CCPA, which became effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds, including Comerica.
-
- For more information regarding data privacy regulation, refer to the “Supervision and Regulation” section of this report.
-
- Both personally identifiable information and personal financial information is increasingly subject to legislation and regulation, the intent of which is to protect the privacy of personal information that is collected and handled.
-
- For example, in June of 2018, the Governor of California signed into law the CCPA.
-
- The CCPA, which became effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds, including Comerica.
-
- For more information regarding data privacy regulation, refer to the “Supervision and Regulation” section of this report.
-
-Comerica may become subject to new legislation or regulation concerning cybersecurity or the privacy of personally identifiable information and personal financial information or of any other information Comerica may store or maintain.
+ For example, in June of 2018, the Governor of California signed into law the CCPA. The CCPA, which became effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds, including Comerica. For more information regarding data privacy regulation, refer to the “Supervision and Regulation” section of this report.
 
 
-[0.16498012840747833, -2.3055927753448486, 2.2211556434631348]
-[0.23230107128620148, -2.0022451877593994, 1.8344871997833252]
-[0.25632309913635254, -1.9985181093215942, 2.017794609069824]
-[-0.3161529302597046, -1.8905489444732666, 2.3702750205993652]
-[-0.919896125793457, -1.0504573583602905, 2.4407198429107666]
-[0.23230107128620148, -2.0022451877593994, 1.8344871997833252]
-[0.25632309913635254, -1.9985181093215942, 2.017794609069824]
-[-0.3161529302597046, -1.8905489444732666, 2.3702750205993652]
-[-0.919896125793457, -1.0504573583602905, 2.4407198429107666]
-[-0.5320165157318115, -1.604691982269287, 2.4051051139831543]
-[0.25632309913635254, -1.9985181093215942, 2.017794609069824]
-[-0.3161529302597046, -1.8905489444732666, 2.3702750205993652]
-[-0.919896125793457, -1.0504573583602905, 2.4407198429107666]
-[-0.5320165157318115, -1.604691982269287, 2.4051051139831543]
-[-0.1728338748216629, -1.7798964977264404, 2.237731456756592]
-[-0.3161529302597046, -1.8905489444732666, 2.3702750205993652]
-[-0.919896125793457, -1.0504573583602905, 2.4407198429107666]
-[-0.5320165157318115, -1.604691982269287, 2.4051051139831543]
-[-0.1728338748216629, -1.7798964977264404, 2.237731456756592]
-[-0.8350547552108765, -1.0961068868637085, 2.3616769313812256]
-[-0.919896125793457, -1.0504573583602905, 2.4407198429107666]
-[-0.5320165157318115, -1.604691982269287, 2.4051051139831543]
-[-0.1728338748216629, -1.7798964977264404, 2.237731456756592]
-[-0.8350547552108765, -1.0961068868637085, 2.3616769313812256]
-[-0.050234634429216385, -2.1033267974853516, 2.3121979236602783]
-[-0.5320165157318115, -1.604691982269287, 2.4051051139831543]
-[-0.1728338748216629, -1.7798964977264404, 2.237731456756592]
-[-0.8350547552108765, -1.0961068868637085, 2.3616769313812256]
-[-0.050234634429216385, -2.1033267974853516, 2.3121979236602783]
-[-0.2030358463525772, -1.6772655248641968, 2.2227845191955566]
-[-1.0848634243011475, -0.944320023059845, 2.584210157394409]
-[-0.9949524998664856, -0.7494046092033386, 2.4207301139831543]
-[0.3471835255622864, -2.2443106174468994, 2.018801212310791]
-[-0.22318999469280243, -1.9824780225753784, 2.345452070236206]
-[-0.7674353718757629, -1.2269622087478638, 2.525629758834839]
-[-0.9949524998664856, -0.7494046092033386, 2.4207301139831543]
-[0.3471835255622864, -2.2443106174468994, 2.018801212310791]
-[-0.22318999469280243, -1.9824780225753784, 2.345452070236206]
-[-0.7674353718757629, -1.2269622087478638, 2.525629758834839]
-[-1.6230825185775757, 0.20234252512454987, 2.2473199367523193]
+[-0.048159513622522354, -1.903573751449585, 2.1319310665130615]
+[-0.3161536753177643, -1.8905481100082397, 2.3702754974365234]
+[-0.9198956489562988, -1.0504577159881592, 2.440720558166504]
+[-0.6321165561676025, -1.442684292793274, 2.4159576892852783]
+[-0.6085023283958435, -1.5984632968902588, 2.4816131591796875]
+[-0.5294796228408813, -1.580373764038086, 2.3828439712524414]
+[-0.14661167562007904, -1.9879441261291504, 2.2985706329345703]
+[-0.7959159016609192, -1.343166470527649, 2.5646779537200928]
