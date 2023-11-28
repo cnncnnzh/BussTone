@@ -26,7 +26,8 @@ class Score():
         self.write_script = write_script
 
     def gen_score(self, model, tokenizer, split_sentence):
-        for kid in os.listdir(self.root)[0:10]:
+        all_files = sorted(os.listdir(self.root))
+        for kid in all_files[0:10]:
             path1 = os.path.join(os.path.join(self.root, kid), r'10-K')
             for kid_v in os.listdir(path1):
                 print('analyzing {} ...'.format(kid_v))
