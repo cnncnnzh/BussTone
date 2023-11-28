@@ -38,13 +38,13 @@ parser.add_argument(
 )
 parser.add_argument(
         "--to_txt",
-        default='False',
+        default='false',
         type=str,
         help="determine if the html is converted to txt"
 )
 parser.add_argument(
         "--split_sentence",
-        default='False',
+        default='true',
         type=str,
         help="determine whether the paragraph is splitted into sentences"
 )
