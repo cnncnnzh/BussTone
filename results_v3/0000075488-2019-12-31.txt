@@ -1,0 +1,46 @@
+A.
+
+-----------
+
+7 billion over the anticipated ten-year life of the fund.
+
+[-0.10756127536296844, -1.9244427680969238, 2.4269351959228516]
+
+  The timing and amount of any potential charges associated with shareholder contributions would also depend on various factors, including the timing of resolution of the Chapter 11 Cases.
+
+[-1.402805209159851, -0.288310706615448, 2.4179744720458984]
+
+   In addition, there could also be a significant delay between the occurrence of a wildfire and the timing on which the Utility recognizes impairment for the reduction in future coverage, due to the lack of data available to the Utility following a catastrophic event, especially if the wildfire occurs in the service territory of another participating electric utility.
+
+[-1.7387758493423462, 2.262098550796509, 0.04770565405488014]
+
+  Participation in the Wildfire Fund is expected to have a material impact on PG&E Corporation’s and the Utility’s financial condition, results of operations, liquidity and cash flows, and there can be no assurance that the benefits of participating in the Wildfire Fund ultimately outweigh these substantial costs.
+
+[-0.785620927810669, -0.6173059940338135, 1.7816729545593262]
+
+ Finally, AB 1054 revised some of the SB 901 requirements regarding wildfire mitigation plans, including creating a Wildfire Safety Division to review future plans and that plans should cover a three-year period.
+
+[0.19228385388851166, -1.6206742525100708, 1.3626466989517212]
+
+Also, in June 2018, the State of California enacted the CCPA, which went into effect on January 1, 2020, with a 12-month look-back period requiring compliance by January 1, 2019.
+
+[-0.5471706390380859, -1.2943021059036255, 2.1501893997192383]
+
+  On October 11, 2019, the State of California announced proposed regulations which provide guidance on the requirements of the CCPA.
+
+[-0.29816967248916626, -1.9066616296768188, 2.3533458709716797]
+
+  The CCPA requires companies that process information on California residents to make new disclosures to consumers about their data collection, use and sharing practices, allows consumers to opt out of certain data sharing with third parties and provides a new cause of action for data breaches.
+
+[-0.8436620831489563, -0.5215411186218262, 1.923244595527649]
+
+  The CCPA provides for financial penalties in the event of non-compliance and statutory damages in the event of a data security breach.
+
+[-1.727469801902771, 1.433835506439209, 1.2317742109298706]
+
+  Failure to comply with the CCPA could result in fines imposed on PG&E Corporation and the Utility that could be material.
+
+[-1.8563898801803589, 2.5838749408721924, -0.023631524294614792]
+
+-----------
+

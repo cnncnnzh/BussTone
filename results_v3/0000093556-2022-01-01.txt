@@ -1,0 +1,50 @@
+The Company is exposed to risks related to compliance with data privacy laws.
+
+[-1.418429970741272, 0.9545843601226807, 1.4552899599075317]
+
+  To conduct its operations, the Company regularly moves data across national borders, and consequently is subject to a variety of continuously evolving and developing laws and regulations in the United States and abroad regarding privacy, data protection and data security.
+
+[-0.7981423139572144, -1.18684983253479, 2.3143272399902344]
+
+ The scope of the laws that may be applicable to the Company is often uncertain and may be conflicting, particularly with respect to foreign laws.
+
+[-1.6554957628250122, 1.3210198879241943, 1.1269201040267944]
+
+ For example, the European Union’s General Data Protection Regulation (“GDPR”), which became effective in May 2018, greatly increased the jurisdictional reach of European Union law and added a broad array of requirements for handling personal data, including the public disclosure of significant data breaches.
+
+[0.9382323622703552, -2.258401870727539, 1.1856249570846558]
+
+ Similarly, the California Consumer Privacy Act of 2018 (“CCPA”), which became effective in January 2020, provided, among other things, a new private right of action for data breaches, required companies that process information on California residents to make new disclosures to consumers about their data collection, use and sharing practices, and provided consumers with additional rights.
+
+[-0.300557404756546, -1.5924829244613647, 2.0785951614379883]
+
+ The California Privacy Rights Act of 2020, which will become effective on January 1, 2023, amends and expands the CCPA, creating new industry requirements, consumer privacy rights and enforcement mechanisms.
+
+[1.1080780029296875, -2.4350333213806152, 1.2240797281265259]
+
+ Virginia and Colorado have also passed robust privacy laws that will come into effect on January 1 and July 1, 2023, respectively.
+
+[1.0070849657058716, -2.4145209789276123, 1.3437869548797607]
+
+ The Company's reputation and brand and its ability to attract new customers could also be adversely impacted if the Company fails, or is perceived to have failed, to properly respond to security breaches of its or third party’s information technology systems.
+
+[-1.5194498300552368, 2.108121633529663, -0.15360777080059052]
+
+ Such failure to properly respond could also result in similar exposure to liability.
+
+[-1.7143102884292603, 1.912023901939392, 0.7949995398521423]
+
+ Additionally, other countries have enacted or are enacting data localization laws that require data to stay within their borders.
+
+[-0.5522410869598389, -1.2335022687911987, 2.1364431381225586]
+
+ In many cases, these laws and regulations apply not only to transfers between unrelated third parties but also to transfers between the Company and its subsidiaries.
+
+[-1.215592622756958, -0.6263634562492371, 2.5410709381103516]
+
+ All of these evolving compliance and operational requirements impose significant costs that are likely to increase over time.
+
+[-0.6573836803436279, 0.8149791359901428, -0.11330673098564148]
+
+-----------
+

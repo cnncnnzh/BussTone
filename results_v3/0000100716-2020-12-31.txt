@@ -1,0 +1,32 @@
+and transfer of personal information.
+
+[-1.3046122789382935, -0.5333235859870911, 2.4469234943389893]
+
+ In California, where the Company is headquartered and conducts business, certain laws
+
+
+[-1.1127294301986694, -0.7056065797805786, 2.566617250442505]
+
+such as the California Consumer Privacy Act of 2018 (“CCPA”), the California Privacy Rights Act
+
+
+[-0.40112969279289246, -1.4796003103256226, 2.4327988624572754]
+
+-----------
+
+of federal and state laws and regulations apply to the collection, use, retention, protection, disclosure, transfer, and otherwise
+
+
+[-1.1710668802261353, -0.8234245181083679, 2.6081035137176514]
+
+processing of personal data, including HIPAA, HITECH, the GLBA, the CCPA, CPRA, and IIPPA.
+
+[-0.9175886511802673, -1.3118916749954224, 2.6072347164154053]
+
+ The effects of these laws, including
+
+
+[-1.1330877542495728, -0.22613148391246796, 2.258972644805908]
+
+-----------
+

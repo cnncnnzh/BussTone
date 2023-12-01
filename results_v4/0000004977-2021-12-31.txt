@@ -1,0 +1,31 @@
+California Consumer Privacy Act (CCPA), the California Privacy Rights Act (CPRA), the UK General Data Protection Regulation (UK GDPR), the UK Data Protection Act of 2018 (DPA Act) and most recently the Virginia Consumer Data Privacy Act (CDPA) and the Colorado Privacy Act (CPA), which both go into effect in 2023, are examples of these types of legislation.
+
+[-1.1610021591186523, -0.6025511026382446, 2.4339160919189453]
+
+ 
+
+
+-----------
+
+The Company has a cross-functional team that tracks and monitors new and emerging legislation and regulations to ensure privacy and cybersecurity programs are evaluated and comply with regulatory requirements.
+
+[0.40882161259651184, -2.499053955078125, 2.0651066303253174]
+
+ This includes a robust third party risk management and assessment program.
+
+[1.8852680921554565, -2.9153592586517334, 0.5127346515655518]
+
+ Over the last several years, processes have developed to support the data subject request process required by CCPA, privacy impact assessments have been implemented as required by CPRA and a dedicated privacy and security center has been added to the Company website to provide consumers with information about the use of and protection of their data.
+
+[0.5499687790870667, -2.572157621383667, 1.9731816053390503]
+
+  
+
+
+-----------
+
+3'
+
+
+-----------
+

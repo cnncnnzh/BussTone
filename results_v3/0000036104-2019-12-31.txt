@@ -1,0 +1,66 @@
+ The GLBA requires financial institutions to periodically disclose their privacy policies and practices relating to sharing such information and enables retail customers to opt out of the Company’s ability to share information with unaffiliated third parties under certain circumstances.
+
+[-1.5879791975021362, 0.36190304160118103, 2.176274061203003]
+
+ Other federal and state laws and regulations impact the Company’s ability to share certain information with affiliates and non-affiliates for marketing and/or non-marketing purposes, or to contact customers with marketing offers.
+
+[-1.594849944114685, 0.26230308413505554, 2.2571873664855957]
+
+ The GLBA also requires financial institutions to implement a comprehensive information security program that includes administrative, technical and physical safeguards to ensure the security and confidentiality of customer records and information.
+
+[0.2490263134241104, -2.2343108654022217, 1.9206788539886475]
+
+ These security and privacy policies and procedures for the protection of personal and confidential information are in effect across all businesses and geographic locations.
+
+[-0.7548636794090271, -1.4303107261657715, 2.5186219215393066]
+
+ Federal law also makes it a criminal offense, except in limited circumstances, to obtain or attempt to obtain customer information of a financial nature by fraudulent or deceptive means.
+
+[-1.6095125675201416, 0.8330896496772766, 1.715112566947937]
+
+ Data privacy and data protection are areas of increasing state legislative focus, and several states have recently enacted consumer privacy laws that impose compliance obligations with respect to personal information.
+
+[-0.32416340708732605, -1.0203702449798584, 1.716504693031311]
+
+ For example, in June 2018, the Governor of California signed into law the California Consumer Protection Act of 2018 (the “CCPA”).
+
+[0.5033823847770691, -2.134233236312866, 1.8813480138778687]
+
+ The CCPA, which became effective on January 1, 2020, applies to for-profit businesses that conduct business in California and meet certain revenue or data collection thresholds.
+
+[-0.3161529302597046, -1.8905489444732666, 2.3702750205993652]
+
+ The CCPA will give consumers the right to request disclosure of information collected about them, and whether that information has been sold or shared with others, the right to request deletion of personal information (subject to certain exceptions), the right to opt out of the sale of the consumer’s personal information, and the right not to be discriminated against for exercising these rights.
+
+[-0.919896125793457, -1.0504573583602905, 2.4407198429107666]
+
+ The CCPA contains several exemptions, including an exemption applicable to information that is collected, processed, sold or disclosed pursuant to the GLBA.
+
+[-0.5198596119880676, -1.6597564220428467, 2.4090824127197266]
+
+ In October 2019, the California Attorney General proposed regulations to implement the CCPA.
+
+[0.48246824741363525, -2.227362871170044, 1.8929086923599243]
+
+ The Company has a physical footprint in California and will be required to comply with the CCPA and any final implementing regulations.
+
+[-0.9599367380142212, -0.6787007451057434, 2.1305110454559326]
+
+ In addition, similar laws may be adopted by other states where the Company does business.
+
+[-0.30056625604629517, -1.78317129611969, 2.379859447479248]
+
+ The Company has made and will make operational adjustments in accordance with the requirements of the CCPA and other state privacy laws.
+
+[0.039122890681028366, -1.8923696279525757, 1.9213521480560303]
+
+ The federal government may also pass data privacy or data protection legislation.
+
+[-0.2030358463525772, -1.6772655248641968, 2.2227845191955566]
+
+ In addition, in the European Union (“EU”), privacy law is now governed by the General Data Protection Regulation (“GDPR”), which is directly binding and applicable for each EU member state since May 25, 2018.
+
+[-0.8130186200141907, -1.20632803440094, 2.5303702354431152]
+
+-----------
+

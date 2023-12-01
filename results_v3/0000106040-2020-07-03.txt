@@ -1,0 +1,38 @@
+We are subject to laws, rules, and regulations relating to the collection, use, sharing, and security of third-party data including personal data, and our failure to comply with these laws, rules and regulations could subject us to proceedings by governmental entities or others and cause us to incur penalties, significant legal liability, or loss of customers, loss of revenue, and reputational harm.
+
+[-1.9184404611587524, 2.4202349185943604, 0.16939982771873474]
+
+  We are subject to laws, rules, and regulations relating to the collection, use, and security and privacy of third-party data including data that relates to or identifies an individual person.
+
+[-1.2090154886245728, -0.7770413160324097, 2.523853063583374]
+
+ In many cases, these laws apply not only to third-party transactions, but also to transfers of information between us and our subsidiaries, and among us, our subsidiaries and other parties with which we have commercial relations.
+
+[-1.3336330652236938, -0.43937256932258606, 2.5054550170898438]
+
+ Our possession and use of third-party data, including personal data and employee data in conducting our business, subjects us to legal and regulatory burdens that require us to notify vendors, customers or employees or other parties with which we have commercial relations of a data security breach and to respond to regulatory inquiries and to enforcement proceedings.
+
+[-1.8246921300888062, 1.7400716543197632, 1.0757074356079102]
+
+ Laws and regulations relating to the collection, use, and security and privacy of third-party data change over time and new laws and regulations become effective from time to time.
+
+[-1.0215046405792236, -0.6284857392311096, 2.3561949729919434]
+
+ For example, the California Consumer Privacy Act (“CCPA”), which became effective January 1, 2020, imposes new obligations on certain companies doing business in California with respect to the personal information of California residents.
+
+[-1.2880131006240845, 0.12398942559957504, 1.9945411682128906]
+
+ These obligations include new notice and privacy policy requirements, as well as new obligations to respond to requests to know and access personal information, delete personal information and say no to the sale of personal information.
+
+[-0.27853524684906006, -1.8170942068099976, 2.2636895179748535]
+
+ Global privacy and data protection legislation, enforcement, and policy activity in this area are rapidly expanding and evolving, and may be inconsistent from jurisdiction to jurisdiction.
+
+[-1.2795976400375366, 0.3473428785800934, 1.8032323122024536]
+
+ Compliance requirements and even our inadvertent failure to comply with applicable laws may cause us to incur substantial costs, subject us to proceedings by governmental entities or others, and cause us to incur penalties or other significant legal liability, or lead us to change our business practices.
+
+[-1.9421018362045288, 2.476942300796509, 0.06259706616401672]
+
+-----------
+

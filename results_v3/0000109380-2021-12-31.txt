@@ -1,0 +1,50 @@
+Exhibits and Financial Statement Schedules142Item 16.
+
+[-1.4406534433364868, -0.26980072259902954, 2.5739405155181885]
+
+-----------
+
+State regulators have been increasingly active in implementing privacy and cybersecurity standards and regulations.
+
+[0.0347435288131237, -1.8017899990081787, 1.9014924764633179]
+
+ Recently, several states have enacted regulations requiring certain financial institutions to implement cybersecurity programs and have provided detailed requirements with respect to these programs, including data encryption requirements.
+
+[-0.486328125, -1.2846401929855347, 2.114755630493164]
+
+ Many states have also recently implemented or modified their data breach notification and data privacy requirements.
+
+[-1.2345658540725708, 0.8461869359016418, 1.247100830078125]
+
+ In June 2018, the California legislature passed the California Consumer Privacy Act of 2018 (the “CCPA”), which took effect on January 1, 2020 and which was further amended in November 2020 by the California Privacy Rights Act (the “CPRA”).
+
+[-0.10054473578929901, -1.6407324075698853, 2.155632972717285]
+
+ The CCPA, as amended, covers businesses that obtain or access 7Table of ContentsZIONS BANCORPORATION, NATIONAL ASSOCIATIONpersonal information on California residents, grants them enhanced privacy rights and control over their personal information, and imposes significant requirements on covered companies with respect to individual data privacy rights.
+
+[0.2588382363319397, -2.0490527153015137, 1.956992506980896]
+
+ Some of the rights afforded to California residents also extend to California employees, though the CPRA amendments now exempt certain employee information and employer usage from some of the CPRA provisions until at least January 1, 2023.
+
+[-0.8401355743408203, -1.1040830612182617, 2.3939831256866455]
+
+ Other states have implemented, or are considering, similar privacy laws.
+
+[-0.43323495984077454, -1.3130396604537964, 2.1635355949401855]
+
+ We expect this trend of state-level activity to continue and are continually monitoring developments in the states in which we operate.
+
+[1.528489589691162, -2.5859315395355225, 0.38169947266578674]
+
+-----------
+
+"<92Y>:+;?*[M-:
+
+
+MW=FDI6;=DSXL\$^-/$?PZ\66'CCPA?BTU72[@7&G7GE*[6TR_<E0," Z'#*W
+
+
+[-0.6211192011833191, -0.41012078523635864, 2.0073866844177246]
+
+-----------
+

@@ -1,0 +1,196 @@
+Our ability to successfully leverage user data and generate revenue from opportunities to serve advertisements could be impacted by restrictions imposed by third parties, including restrictions on our ability to use or read cookies, device identifiers, or other tracking features or our ability to use real-time bidding networks or other bidding networks.
+
+[-1.8032000064849854, 1.9528576135635376, 0.907106339931488]
+
+ For example, if publishers or supply-side platforms decide to limit the data that we receive in order to comply (in their view) with the opt-out of sale provisions of the California Consumer Privacy Act of 2018 (“CCPA”) or a potential federal privacy law, then our demand-side service may prove to be less valuable to our advertising customers and we may find it more difficult to generate revenue.
+
+[-1.698431372642517, 2.348160743713379, -0.10929855704307556]
+
+ That is, if third parties on which we rely for data or opportunities to serve advertisements impose limitations (for whatever reason) or are restricted by other ecosystem participants or applicable regulations, we may lose the ability to access data, bid on opportunities, or purchase digital ad space, which could have a substantial impact on our revenue.
+
+[-1.7824771404266357, 2.357872247695923, 0.014982554130256176]
+
+-----------
+
+ Internet users can delete cookies from their computers at any time.
+
+[-1.7408162355422974, 0.438537061214447, 2.2347311973571777]
+
+ Additionally, some browsers currently, or may in the future, block or limit some third-party cookies by default or may implement user control settings that algorithmically block or limit some cookies.
+
+[-1.7791014909744263, 1.6361680030822754, 1.3424427509307861]
+
+ Today, three major web browsers-Apple’s Safari, Mozilla’s Firefox, and Microsoft’s Edge-block third-party cookies by default.
+
+[-1.620957374572754, 1.539730191230774, 1.4338043928146362]
+
+ Google’s Chrome has introduced new controls over third-party cookies and limiting support for third-party cookies and user agent strings.
+
+[-1.5252667665481567, 1.6476682424545288, 1.0261698961257935]
+
+ Some Internet users also download free or paid ad blocking software that not only prevents third-party cookies from being stored on a user’s computer, but also blocks all interaction with a third-party ad server.
+
+[-1.7445414066314697, 1.6271556615829468, 1.431248664855957]
+
+ In addition, Google has introduced ad blocking software in its Chrome web browser that will block certain ads based on quality standards established under a multi-stakeholder coalition.
+
+[-0.3456270694732666, -1.2340329885482788, 2.039121627807617]
+
+ If such a feature inadvertently or mistakenly blocks ads that are not within the established blocking standards, or if such capabilities become widely adopted and the advertising technology industry does not collaboratively develop alternative technologies, our business could be harmed.
+
+[-1.8061683177947998, 2.1294398307800293, 0.5123630166053772]
+
+ The Interactive Advertising Bureau and Digital Advertising Alliance have also developed frameworks that allow users to opt out of the “sale” of their personal information under the CCPA in ways that stop or severely limit the ability to show targeted ads.
+
+[-1.281323790550232, 0.48096439242362976, 1.6124216318130493]
+
+-----------
+
+30As the collection and use of data for digital advertising has received media attention over the past several years, some government regulators, such as the FTC, and privacy advocates have suggested creating a “Do Not Track” standard that would allow Internet users to express a preference, independent of cookie settings in their browser, not to have their online browsing activities tracked.
+
+[-0.9252372980117798, -0.5389681458473206, 2.3235864639282227]
+
+ “Do Not Track” has seen renewed emphasis from proponents of the CCPA, and the final regulations browser-based or similar “do not sell” signals.
+
+[0.08591949194669724, -0.9536492824554443, 1.4432684183120728]
+
+ California’s Privacy Rights Act (“CPRA”), similarly contemplates the use of technical opt outs for the sale and sharing of personal information for advertising purposes as well as to opt out of the use of sensitive information for advertising purposes and allows for AG rule-making to develop these technical signals.
+
+[-0.7190982103347778, -1.093262791633606, 2.4477858543395996]
+
+ If a “Do Not Track,” “Do Not Sell,” or similar control is adopted by many Internet users or if a “Do Not Track” standard is imposed by state, federal, or foreign legislation (as it arguably is to some degree under the CCPA regulations), or is agreed upon by standard setting groups, we may have to change our business practices, our customers may reduce their use of our platform, and our business, financial condition, and results of operations could be adversely affected.
+
+[-1.8667865991592407, 2.0449769496917725, 0.877303957939148]
+
+-----------
+
+ “Do Not Track” has seen renewed emphasis from proponents of the CCPA, and the final regulations browser-based or similar “do not sell” signals.
+
+[0.08591949194669724, -0.9536492824554443, 1.4432684183120728]
+
+ California’s Privacy Rights Act (“CPRA”), similarly contemplates the use of technical opt outs for the sale and sharing of personal information for advertising purposes as well as to opt out of the use of sensitive information for advertising purposes and allows for AG rule-making to develop these technical signals.
+
+[-0.7190982103347778, -1.093262791633606, 2.4477858543395996]
+
+ If a “Do Not Track,” “Do Not Sell,” or similar control is adopted by many Internet users or if a “Do Not Track” standard is imposed by state, federal, or foreign legislation (as it arguably is to some degree under the CCPA regulations), or is agreed upon by standard setting groups, we may have to change our business practices, our customers may reduce their use of our platform, and our business, financial condition, and results of operations could be adversely affected.
+
+[-1.8667865991592407, 2.0449769496917725, 0.877303957939148]
+
+Increased transparency into the collection and use of data for digital advertising, introduced both through features in browsers and devices and regulatory requirements, such as the GDPR, the CCPA, “Do Not Track”, and ePrivacy, as well as compliance with such requirements, may create operational burdens to implement and may lead more users to choose to block the collection and use of data about them.
+
+[-1.6770116090774536, 2.3973426818847656, 0.0850047618150711]
+
+ Adapting to these and similar changes has in the past and may in the future require significant time, resources and expense, which may increase our cost of operation or limit our ability to operate or expand our business.
+
+[-1.3398531675338745, 1.769046664237976, -0.28646397590637207]
+
+-----------
+
+32States have also begun to introduce more comprehensive privacy legislation.
+
+[1.3713700771331787, -2.6584036350250244, 0.9115548729896545]
+
+ For example, California enacted the CCPA, which took effect on January 1, 2020 and became enforceable by the California Attorney General on July 1, 2020.
+
+[-1.036089539527893, -0.5844406485557556, 2.270583152770996]
+
+ The CCPA creates new individual privacy rights for California consumers (as defined in the law) and places increased privacy and security obligations on entities handling personal data of consumers or households.
+
+[0.6652979850769043, -2.0819013118743896, 1.4249802827835083]
+
+ The CCPA gives California residents expanded rights to access and delete their personal information, opt out of sale of their personal information, and receive detailed information about how their personal information is used.
+
+[0.14576147496700287, -2.152208089828491, 2.0259218215942383]
+
+ The CCPA provides for civil penalties for violations, as well as a private right of action for certain data breaches that result in the loss of personal information.
+
+[-1.1842594146728516, -0.42244961857795715, 2.248932361602783]
+
+ This private right of action may increase the likelihood of, and risks associated with data breach litigation.
+
+[-1.1976726055145264, 1.3983649015426636, 0.4247351288795471]
+
+ In addition to increasing our compliance costs and potential liability, the CCPA created restrictions on “sales” of personal information that may restrict the disclosure of personal information for advertising purposes.
+
+[-1.4334752559661865, 0.7223281264305115, 1.5810573101043701]
+
+ Our advertising business relies, in part, on such disclosure and could be materially and adversely affected by the CCPA’s restrictions.
+
+[-1.5935646295547485, 0.814503014087677, 1.6684761047363281]
+
+-----------
+
+We will also be subject to the forthcoming CPRA, which was passed into law on November 3, 2020 but will not take substantial effect until January 1, 2023.
+
+[-0.6851807236671448, -1.6151238679885864, 2.5141305923461914]
+
+ The CPRA imposes additional obligations on companies covered by the legislation and will significantly modify the CCPA, including by expanding consumers’ rights with respect to certain sensitive personal information, such as increasing regulation on online advertising and particularly cross-context behavioral advertising.
+
+[0.5840831398963928, -2.1351816654205322, 1.5637916326522827]
+
+ The CPRA also creates a new state agency that will be vested with authority to implement and enforce the CCPA and the CPRA.
+
+[-0.13909746706485748, -1.9915046691894531, 2.29459810256958]
+
+ The CPRA potentially results in further uncertainty and requires us to incur additional costs and expenses in an effort to comply.
+
+[-1.5727394819259644, 2.320410966873169, -0.4962334632873535]
+
+-----------
+
+Certain other state laws impose similar privacy obligations.
+
+[-1.1433597803115845, -0.19879694283008575, 2.1446828842163086]
+
+ For example, Virginia has passed the Virginia Consumer Data Protection Act which will take effect on January 1, 2023.
+
+[0.35342878103256226, -2.216737985610962, 1.9913502931594849]
+
+ Colorado has passed the Colorado Privacy Act that will take effect on July 1, 2023.
+
+[0.5317389369010925, -2.1964352130889893, 1.7219806909561157]
+
+ Utah has passed the Utah Consumer Privacy Act that will take effect on December 31, 2023.
+
+[0.5360198020935059, -2.2420401573181152, 1.7260411977767944]
+
+ We also expect that more states may enact legislation similar to the CCPA, which provides consumers with new privacy rights and increases the privacy and security obligations of entities handling certain personal information of such consumers.
+
+[1.2452114820480347, -2.3604791164398193, 0.6926705241203308]
+
+ The CCPA has prompted a number of proposals for a new federal and state-level privacy legislation.
+
+[0.20521020889282227, -1.7520906925201416, 1.456653118133545]
+
+ Such proposed legislation, if enacted, may add additional complexity, variation in requirements, restrictions and potential legal risk, require additional investment of resources in compliance programs, impact strategies and the availability of previously useful data and could result in increased compliance costs and/or changes in business practices and policies.
+
+[-1.690425992012024, 2.198960065841675, 0.2305557280778885]
+
+-----------
+
+Children’s privacy has been a focus of recent enforcement activity under longstanding privacy laws as well as privacy and data protection laws enacted in recent years.
+
+[-0.8506002426147461, -0.42729565501213074, 1.8764289617538452]
+
+ EU and UK regulators focus, among other things, on the processing of personal data relating to children, with increased enforcement pending as well as additional guidance.
+
+[0.5297320485115051, -2.2249324321746826, 1.7389014959335327]
+
+ The U.S. Federal Trade Commission and state attorneys general have, in recent years, increased enforcement of the Children’s Online Privacy Protection Act (“COPPA”), which requires companies to obtain parental consent before collecting personal information from children under the age of 13 for purposes not permitted by COPPA.
+
+[0.20434178411960602, -1.1798851490020752, 1.4637166261672974]
+
+ COPPA also sets forth, among other things, a number of restrictions related to what information may be collected with respect to children under the age of 13.
+
+[-1.3232475519180298, -0.39130210876464844, 2.4099316596984863]
+
+ In addition, the GDPR and UK GDPR address the processing of children’s personal data, and specifically require that if processing of personal data of individuals is based on such individuals’ consent, and such individuals are children under the age of 13 to 16 (depending on the specific legislation of the UK or each EU member state), parental consent must be obtained.
+
+[-1.3615349531173706, -0.47837916016578674, 2.5620627403259277]
+
+ In addition, the CCPA requires companies to obtain the consent of children in California under 16 (or parental consent for children under 13) before selling their personal information.
+
+[-1.173805832862854, -0.738815426826477, 2.4792258739471436]
+
+-----------
+

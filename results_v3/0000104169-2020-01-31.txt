@@ -1,0 +1,26 @@
+The Company also has compliance obligations associated with new privacy laws enacted to protect personal information.
+
+[-0.829876720905304, 0.4956872761249542, 0.8455120921134949]
+
+ The California Consumer Privacy Act of 2018, (CCPA), grants California consumers certain rights over their personal information and imposes stringent requirements on the collection, use and sharing of “personal information” of California consumers.
+
+[-0.9326980710029602, -0.865329921245575, 2.33495831489563]
+
+ Other U.S. states are proposing similar laws related to the protection of personal information and the U.S. federal government is also  considering federal privacy legislation.
+
+[-0.22462211549282074, -1.6323211193084717, 2.2019143104553223]
+
+ Outside the U.S., the European Union’s (“EU”) General Data Protection Regulation (“GDPR”) greatly increases the jurisdictional reach of EU law and adds a broad array of requirements related to personal data.
+
+[1.9188791513442993, -2.7175838947296143, 0.1508096158504486]
+
+ Complying with changing regulatory requirements requires us to incur additional costs and expenses.
+
+[-1.4111868143081665, 2.2305891513824463, -0.5759544968605042]
+
+ If we fail to comply with CCPA, GDPR or other privacy related regulations, or if regulators assert we have failed to comply with them, it could lead to regulatory enforcement action, monetary fines or penalties (up to 4% of worldwide revenue in the case of GDPR), lawsuits or reputational damage and could materially and adversely affect our results of operations.
+
+[-1.9234715700149536, 2.754016399383545, -0.3236369490623474]
+
+-----------
+

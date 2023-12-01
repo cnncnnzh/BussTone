@@ -1,0 +1,62 @@
+”Data Privacy Laws.
+
+ Data protection legislation is becoming increasingly common in the United States at both the federal and state level.
+
+[0.10756652057170868, -2.092576503753662, 2.1586225032806396]
+
+ For example, in June 2018, the State of California enacted the California Consumer Privacy Act of 2018 ( “CCPA”), which will come into effect on January 1, 2020.
+
+[-0.2605210840702057, -1.684105396270752, 2.2841224670410156]
+
+ Unless an exemption applies, the CCPA requires companies that process information on California residents to make new disclosures to consumers about their data collection, use and sharing practices, allows consumers to opt out of certain data sharing with third parties and provides a new cause of action for data breaches.
+
+[-1.2729907035827637, 0.11127843707799911, 1.92249596118927]
+
+ Additionally, the Federal Trade Commission and many state attorney generals are interpreting federal and state consumer protection laws to impose standards for the online collection, use, dissemination and security of data.
+
+[-0.855187714099884, -0.7527258396148682, 2.299945831298828]
+
+ The compliance and other burdens imposed by the European Union ("EU") General Data Protection Regulation ("GDPR"), CCPA and similar privacy laws and regulations may be substantial since they are subject to differing interpretations and implementation among jurisdictions.
+
+[-1.4299556016921997, 0.6706520318984985, 1.5551048517227173]
+
+-----------
+
+As a participant in the healthcare industry, we are also subject to federal, state and foreign laws and regulations pertaining to fraud and abuse, physician payment transparency, false claims and misleading advertisements.
+
+[-1.2905311584472656, -0.12746155261993408, 2.2432565689086914]
+
+ These laws and regulations and their enforcement are constantly undergoing change, and we cannot predict what effect, if any, changes to these laws and regulations may have on our business or the businesses of our customers.
+
+[-1.5378224849700928, 0.6923906803131104, 1.6822543144226074]
+
+ Non-compliance with “anti-kickback”, “false claims” and transparency laws and regulations can result in substantial civil and criminal penalties and potential mandatory or discretionary exclusion from healthcare programs.
+
+[-1.7727280855178833, 2.580054998397827, 0.11353163421154022]
+
+We are also subject to laws and regulations related to the collection, processing, storage, transfer and use of personal data, including under the EU General Data Protection Regulation ("GDPR") and data protection legislation in other foreign jurisdictions and the California Consumer Privacy Act of 2018 (“CCPA”) and similar laws in the United States, at both the federal and state level.
+
+[-0.9337124228477478, -1.1588553190231323, 2.5433106422424316]
+
+ The compliance and other burdens imposed by the GDPR, CCPA and similar privacy laws and regulations may limit the use and adoption of our services, reduce overall demand for our services, require us to modify our data handling practices, slow the pace at which we close sales transactions and impose additional costs and burdens.
+
+[-1.8849493265151978, 2.815918207168579, -0.39013558626174927]
+
+ In particular, the collection, storage, transfer and use of patient information and data obtained through our AOI business operations is highly regulated by applicable law.
+
+[-0.7548270225524902, -1.4954971075057983, 2.5444390773773193]
+
+ In addition, non-compliance could result in proceedings against us by governmental entities or others and/or significant fines, could negatively impact our reputation, and may otherwise adversely impact our business, financial condition and operating results.
+
+[-1.8882426023483276, 2.4787912368774414, 0.03743407502770424]
+
+ As we enter new businesses or pursue new business opportunities that require clinical trials, we may seek to conduct clinical studies or trials in the United States or other countries on products that have not yet been cleared or approved for a particular indication.
+
+[-0.02575482614338398, -2.14752459526062, 2.2003977298736572]
+
+ Additional regulations govern the approval, initiation, conduct, monitoring, documentation and reporting of clinical studies to regulatory agencies in the countries or regions in which they are conducted.
+
+[-1.0112459659576416, -1.1189764738082886, 2.5904228687286377]
+
+-----------
+

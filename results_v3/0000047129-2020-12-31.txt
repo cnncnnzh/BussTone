@@ -1,0 +1,126 @@
+ We have also taken steps to address cyber security threats at third-parties that handle, possess, process and store our information to mitigate the potential risk to us.
+
+[1.6168239116668701, -2.647996425628662, 0.47351711988449097]
+
+ Such measures include contractually requiring the third-parties to maintain certain data security controls.
+
+[-0.36592966318130493, -1.6822096109390259, 2.2741689682006836]
+
+ However, because of the rapidly changing nature and sophistication of these security threats, which can be difficult to detect, there can be no assurance that our controls, policies and procedures have or will detect or prevent all of these threats, and we cannot predict the full impact of any such past or future incident.
+
+[-1.2224324941635132, -0.11181754618883133, 1.8620572090148926]
+
+ Any failure by us to effectively address, enforce and maintain our information technology infrastructure and cyber security requirements may result in substantial harm to our business, including major disruptions to business operations, loss of intellectual property, release of confidential information, malicious corruption of data, regulatory intervention and sanctions or fines, investigation and remediation costs and possible prolonged negative publicity.
+
+[-1.92595374584198, 2.7876503467559814, -0.33863580226898193]
+
+ Although we maintain insurance coverage to address cyber security events that we believe is adequate for our business, there can be no assurance that such insurance will cover substantially all of our potential costs and expenses related to cyber security incidents that may happen in the future.
+
+[-0.049974340945482254, -1.9870449304580688, 1.880566954612732]
+
+ In addition, privacy laws in the U.S., including the California Consumer Privacy Act (the "CCPA"), which went into effect on July 1, 2020, increasingly provide for private rights of action, with high statutory damages in the event of certain security breaches, which could increase our potential liability in the event that our information is impacted by a cyber security incident.
+
+[-1.0883058309555054, 0.50054931640625, 1.1808727979660034]
+
+-----------
+
+We may face particular data protection, data security and privacy risks in connection with the European Union's Global Data Protection Regulation and other privacy regulations.
+
+[-1.3248473405838013, 0.3427280783653259, 1.7425463199615479]
+
+ Strict data privacy laws regulating the collection, transmission, storage and use of employee data and consumers’ personally-identifying information are evolving in the European Union, U.S. and other jurisdictions in which we operate.
+
+[-1.0337871313095093, -0.6446975469589233, 2.316218614578247]
+
+ The GDPR, which became effective on May 25, 2018, imposes compliance obligations for the collection, use, retention, security, processing, transfer and deletion of personally identifiable information of individuals and 43Table of ContentsHERTZ GLOBAL HOLDINGS, INC.
+
+[-1.3354183435440063, -0.22113950550556183, 2.286942720413208]
+
+ AND SUBSIDIARIESTHE HERTZ CORPORATION AND SUBSIDIARIES(DEBTORS-IN-POSSESSION)ITEM 1A.
+
+[-1.1742546558380127, -0.7383681535720825, 2.6166458129882812]
+
+  RISK FACTORS (Continued)creates enhanced rights for individuals.
+
+[1.9261181354522705, -2.6690704822540283, -0.13416025042533875]
+
+ Additionally, the CCPA expands the definition of personal information and grants, among other things, individual rights to access and delete personal information, and the right to opt out of the sale of personal information.
+
+[0.17958293855190277, -2.1790337562561035, 2.0524351596832275]
+
+-----------
+
+ Strict data privacy laws regulating the collection, transmission, storage and use of employee data and consumers’ personally-identifying information are evolving in the European Union, U.S. and other jurisdictions in which we operate.
+
+[-1.0337871313095093, -0.6446975469589233, 2.316218614578247]
+
+ The GDPR, which became effective on May 25, 2018, imposes compliance obligations for the collection, use, retention, security, processing, transfer and deletion of personally identifiable information of individuals and 43Table of ContentsHERTZ GLOBAL HOLDINGS, INC.
+
+[-1.3354183435440063, -0.22113950550556183, 2.286942720413208]
+
+ AND SUBSIDIARIESTHE HERTZ CORPORATION AND SUBSIDIARIES(DEBTORS-IN-POSSESSION)ITEM 1A.
+
+[-1.1742546558380127, -0.7383681535720825, 2.6166458129882812]
+
+  RISK FACTORS (Continued)creates enhanced rights for individuals.
+
+[1.9261181354522705, -2.6690704822540283, -0.13416025042533875]
+
+ Additionally, the CCPA expands the definition of personal information and grants, among other things, individual rights to access and delete personal information, and the right to opt out of the sale of personal information.
+
+[0.17958293855190277, -2.1790337562561035, 2.0524351596832275]
+
+ We actively monitor compliance with data protection and privacy-related laws, including with the GDPR, CCPA and upcoming legislation (in the United States and abroad), however, these laws vary depending on the jurisdiction and may create inconsistent or conflicting requirements.
+
+[-1.5477665662765503, 1.3475215435028076, 0.883542001247406]
+
+ Such regulations may increase our compliance and administrative burden significantly and may require us to invest resources and management attention in order to update our IT systems to meet the new requirements.
+
+[-0.701107919216156, 1.3200976848602295, -0.6716800332069397]
+
+ It is possible that we could encounter significant liability for failing to comply with any such requirements.
+
+[-1.514644980430603, 2.18215274810791, -0.4569483995437622]
+
+-----------
+
+M'V*!
+
+3N783_'O 8MZ@=JY^_L?$<7CCPA ^I6DFM6VF7>ZX>-C%<8,8^< @C(.
+
+[0.3463037610054016, -0.7561907768249512, 0.7328590750694275]
+
+-----------
+
+C\V23@8[YK:
+
+
+M\0:5>WGCCPA?V\!
+
+-----------
+
+O.
+
+<5ZO03@9- 'F7CCPAK>H^)7.
+
+-----------
+
+H_A23Q$NH6MW9@[8O(G4^<_]Q3GE
+
+
+MNIQV -<AHFCJGCCPA::C-;:C)9>')"D\9WQN5DC574GK\IX-8?BJWAA\&?$^
+
+
+[-0.6009920239448547, -0.9821349382400513, 2.2640018463134766]
+
+-----------
+
+Q13L@)P'8NR@ GH,Y.
+
+*H?#?5Y=:LO$%W)<W$T?]MW*P"<MNCCPA5,-RH&
+
+
+[-0.35711491107940674, -1.316807508468628, 2.1997008323669434]
+
+-----------
+

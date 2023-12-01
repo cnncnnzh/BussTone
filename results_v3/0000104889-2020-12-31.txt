@@ -1,0 +1,54 @@
+ For example, general data privacy regulations adopted by the European Union known as the General Data Protection Regulation (GDPR), became effective in May 2018.
+
+[-0.5474063158035278, -1.5352790355682373, 2.415231704711914]
+
+ These regulations require companies to meet requirements regarding the handling of personal data, including its use, protection and transfer and the ability of persons whose data is stored to correct or delete such data about themselves.
+
+[-1.2772984504699707, -0.4818249046802521, 2.46061110496521]
+
+ Failure to meet the GDPR could result in fines of up to 4% of the Company’s annual global revenues.
+
+[-1.8191276788711548, 2.882094621658325, -0.7277770042419434]
+
+ Further, Brexit has created uncertainty with regard to the status of the U.K. as an “adequate country” for the purposes of data transfers outside the European Economic Area.
+
+[-1.0772289037704468, 1.2963849306106567, 0.19265028834342957]
+
+ It remains unclear how the U.K. data protection laws or regulations will develop in the medium to long term and how data transfers to and from the U.K. will be regulated.
+
+[-1.1447407007217407, -0.8188895583152771, 2.524078845977783]
+
+ In addition to the GDPR in Europe, new privacy laws and regulations are rapidly developing elsewhere around the globe, including amendments to the scope, penalties and other provisions of existing data protection laws.
+
+[0.7124810218811035, -2.439661741256714, 1.6725174188613892]
+
+ Failure to comply with these international data protection laws and regulations could have a negative impact on the Company’s reputation and subject the Company to significant fines, penalties or other liabilities, all of which may increase the cost of operations, reduce customer growth, or otherwise harm the Company’s business.
+
+[-1.8407520055770874, 2.80800461769104, -0.4891566336154938]
+
+The California Consumer Privacy Act of 2018 (CCPA), which became effective on January 1, 2020, provides a new private right of action for data breaches and requires companies that process information on California residents to make new disclosures to consumers about their data collection, use and sharing practices and allows consumers to opt out of certain data sharing with third parties.
+
+[-0.6191210746765137, -1.2266117334365845, 2.2074174880981445]
+
+ The enforcement of the CCPA by the California Attorney General commenced on July 1, 2020.
+
+[-1.1117790937423706, -0.8225584626197815, 2.5746984481811523]
+
+ The CCPA has been amended on multiple occasions and it is not clear what, if any, additional modifications will be made to this legislation or how it will be interpreted and enforced.
+
+[-1.2226992845535278, -0.29410305619239807, 2.193737506866455]
+
+ In November 2020, a new privacy law, the California Privacy Rights Act (CPRA) was approved by California voters, and modifies the 31CCPA.
+
+[0.4615916311740875, -2.383436679840088, 2.0534143447875977]
+
+ This and similar laws proposed at the state and federal level could result in further uncertainty and cause the Company to incur additional costs and expenses in order to comply.
+
+[-1.7332463264465332, 2.660449266433716, -0.569093644618988]
+
+ Compliance with the GDPR, the CCPA, the CPRA and other applicable international and U.S. privacy laws can be costly and time-consuming.
+
+[-1.882165789604187, 2.3174054622650146, 0.46257659792900085]
+
+-----------
+

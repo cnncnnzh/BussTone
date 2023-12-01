@@ -1,0 +1,24 @@
+Data Privacy.
+
+ Pfizer collects personal data as part of its regular business activities.
+
+[-1.2547307014465332, -0.579660952091217, 2.5056684017181396]
+
+ The collection and use of this data is subject to privacy and data security laws and regulations, including oversight by various regulatory or other governmental bodies.
+
+[-1.2076705694198608, -0.7409380078315735, 2.55246639251709]
+
+ For example, we are subject to the California Consumer Privacy Act (CCPA).
+
+[-0.8678134679794312, -1.1598948240280151, 2.5087199211120605]
+
+ The CCPA, which came into effect on January 1, 2020, imposes numerous obligations on us, including a duty to disclose the categories of personal data that we collect, sell, or share about California consumers, and gives those consumers rights regarding their personal data.
+
+[-1.355053186416626, -0.32915398478507996, 2.30769944190979]
+
+ Noncompliance with any of these laws could result in the imposition of fines, penalties, or orders to stop non-compliant activities, and could damage our reputation and harm our business.
+
+[-1.925139307975769, 2.611044406890869, -0.10680072009563446]
+
+-----------
+

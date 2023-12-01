@@ -1,0 +1,26 @@
+Many states and local authorities have considered legislative or other actions that would impose additional restrictions on our ability to collect, use and disclose certain information.
+
+[-1.6245145797729492, 0.9623252749443054, 1.5862250328063965]
+
+ Compliance with the CCPA may increase the cost of providing our services to customers who may be residents in California and increase our litigation exposure.
+
+[-1.232190728187561, 2.0963776111602783, -0.7486299872398376]
+
+ In 2020 the Virginia State government enacted a new consumer privacy law.
+
+[0.610295832157135, -2.2122437953948975, 1.8062397241592407]
+
+ Firms are expected to come into compliance by January 2023.
+
+[1.7254763841629028, -2.5828611850738525, 0.23308773338794708]
+
+ The Virginia privacy law imposes requirements on companies, like Shentel, regarding the handling of consumer data, including a requirement to conduct data protection impact assessments; obtain opt-in consent from consumers to use sensitive personal information; and allow consumers to access, delete, correct, and port their data, among other things.
+
+[-1.4723478555679321, 0.2423027753829956, 2.1069788932800293]
+
+ We will be working through 2022 to bring operations in compliance with the new Virginia law.
+
+[1.76095712184906, -2.6055173873901367, 0.1124836802482605]
+
+-----------
+

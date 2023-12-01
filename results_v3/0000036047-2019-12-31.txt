@@ -1,0 +1,132 @@
+•Privacy Laws.
+
+ The privacy and protection of consumer information remains a developing area and we continue to monitor legislative and regulatory developments at the federal, state, and local levels.
+
+[0.3682364225387573, -2.4338438510894775, 2.0192034244537354]
+
+ In addition to the GLBA, we expect that there will continue to be enhanced state and/or federal regulation in the area of financial and consumer data privacy, including regulation similar to the California Consumer Privacy Act (“CCPA”).
+
+[1.5452748537063599, -2.777909517288208, 0.9443493485450745]
+
+ Such regulation may impose additional registration  9Table of Contentsrequirements and/or require us to make new disclosures to consumers about our data collection, use, and sharing practices and afford consumers new abilities to opt out of certain data sharing with third parties.
+
+[-0.5036757588386536, -1.4019888639450073, 2.177896022796631]
+
+ Any such additional regulation could significantly impact some of our business practices.
+
+[-1.7934070825576782, 2.3711299896240234, -0.22931838035583496]
+
+ •Data Security.
+
+ Federal and state laws also impose requirements relating to the security of information held by us.
+
+[-1.4333313703536987, 0.05241357535123825, 2.292238235473633]
+
+ For our businesses that involve the collection, processing, and distribution of personal public and non-public data, certain of their solutions and services are subject to regulation under federal, state, and local laws in the US and, to a lesser extent, foreign countries.
+
+[-1.0930969715118408, -0.8770248889923096, 2.5645699501037598]
+
+ These laws impose requirements regarding the collection, protection, use, and distribution of some of the data we have, and provide for sanctions and penalties in the event of violations of these requirements.
+
+[-1.5182150602340698, 0.36601555347442627, 2.036461591720581]
+
+ In addition, certain state laws may impose breach notice responsibilities in the event of the loss of data due to third-party security breaches, employee error, or other events resulting in persons gaining unauthorized access to our data (including, in some cases, for losses that are incurred through our clients’ errors or systems).
+
+[-1.842978596687317, 1.9439997673034668, 0.9777227640151978]
+
+ Some of these laws require additional data protection measures over and above the GLBA data safeguarding requirements.
+
+[-0.008826184086501598, -1.9372116327285767, 2.1312131881713867]
+
+-----------
+
+ •Data Security.
+
+ Federal and state laws also impose requirements relating to the security of information held by us.
+
+[-1.4333313703536987, 0.05241357535123825, 2.292238235473633]
+
+ For our businesses that involve the collection, processing, and distribution of personal public and non-public data, certain of their solutions and services are subject to regulation under federal, state, and local laws in the US and, to a lesser extent, foreign countries.
+
+[-1.0930969715118408, -0.8770248889923096, 2.5645699501037598]
+
+ These laws impose requirements regarding the collection, protection, use, and distribution of some of the data we have, and provide for sanctions and penalties in the event of violations of these requirements.
+
+[-1.5182150602340698, 0.36601555347442627, 2.036461591720581]
+
+ In addition, certain state laws may impose breach notice responsibilities in the event of the loss of data due to third-party security breaches, employee error, or other events resulting in persons gaining unauthorized access to our data (including, in some cases, for losses that are incurred through our clients’ errors or systems).
+
+[-1.842978596687317, 1.9439997673034668, 0.9777227640151978]
+
+ Some of these laws require additional data protection measures over and above the GLBA data safeguarding requirements.
+
+[-0.008826184086501598, -1.9372116327285767, 2.1312131881713867]
+
+ If data within our system is compromised by a breach, we may be subject to provisions of various state security breach laws.
+
+[-1.7077600955963135, 1.4085005521774292, 1.1818259954452515]
+
+ All states have adopted data security breach laws that require notice be given to affected consumers in the event of a breach of personal information, and in some cases the provision of additional benefits such as free credit monitoring to affected individuals.
+
+[-1.619574785232544, 1.8584166765213013, 0.8775132298469543]
+
+ In addition, the CCPA provides consumers with a private right of action under certain circumstances if their personal information is subject to a breach.
+
+[-0.7231557965278625, -1.1496644020080566, 2.2714219093322754]
+
+ If data within our system is compromised by a breach, we may be subject to provisions of these various state security breach laws.
+
+[-1.637792706489563, 1.0585048198699951, 1.4609543085098267]
+
+-----------
+
+Public concern is high with regard to the collection, use, accuracy, correction, and sharing of personal information, including Social Security numbers, dates of birth, financial information, and other behavioral data.
+
+[-1.6133840084075928, 0.9437744617462158, 1.7985866069793701]
+
+ In addition, many consumer advocates, privacy advocates, legislatures, and government regulators believe that existing laws and regulations do not adequately protect consumer privacy and have become increasingly concerned with the collection and use of personal information.
+
+[-1.8255608081817627, 2.3071229457855225, 0.5357666611671448]
+
+ Highly publicized data incidents have resulted in significantly increased legislative and regulatory activity at the federal and state levels as lawmakers and regulators continue to propose a wide range of further restrictions on the collection, dissemination or commercial use of personal information, information security standards, data security incident disclosure standards.
+
+[-1.1802693605422974, 0.7864567637443542, 1.1529709100723267]
+
+ Because our databases include certain public and non-public personal information concerning consumers, we are  12Table of Contentssubject to government regulation and potential adverse publicity concerning our use of consumer data.
+
+[-1.6494179964065552, 1.6238683462142944, 1.1406407356262207]
+
+ We acquire, store, use, and provide many types of consumer data and related services, some of which are subject to regulation under the FCRA, the GLBA, the CCPA and the Driver's Privacy Protection Act and, to a lesser extent, various other federal, state, and local laws and regulations.
+
+[-0.9363789558410645, -1.183497428894043, 2.563951253890991]
+
+ These laws and regulations are designed to protect the privacy of consumers and to prevent the unauthorized access and misuse of personal information in the marketplace.
+
+[-0.923903226852417, -0.8213071227073669, 2.358700752258301]
+
+ The CCPA, for example, which became effective January 1, 2020, imposes new obligations on certain companies doing business in California with respect to the personal information of California residents.
+
+[-1.3005439043045044, 0.01348065584897995, 2.1319081783294678]
+
+ This includes new notice and privacy policy requirements, and new obligations to respond to requests to know and access to personal information, to delete personal information, and to say no to the sale of personal information.
+
+[-0.7512578368186951, -1.2440791130065918, 2.339526653289795]
+
+ We expect that there will be enhanced state and/or federal regulation in the area of financial and consumer data privacy, including regulations similar to the GDPR, a data protection and privacy law in the European Union that became effective in 2018, and the CCPA.
+
+[1.6657958030700684, -2.7865326404571533, 0.7277923226356506]
+
+ Compliance with these laws may impose significant regulatory burdens and costs on us.
+
+[-1.6783568859100342, 2.594416379928589, -0.5378653407096863]
+
+ Further, a growing number of legislative and regulatory bodies have adopted consumer notification and other requirements in the event that consumer information is accessed by unauthorized persons and additional regulations regarding the use, access, accuracy, and security of such data are possible.
+
+[-0.9379662275314331, -0.7672492861747742, 2.2673301696777344]
+
+ In the US, state laws provide for disparate notification regimes.
+
+[-1.2512476444244385, -0.2835327982902527, 2.263401508331299]
+
+-----------
+

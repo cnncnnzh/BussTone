@@ -32,13 +32,13 @@ parser.add_argument(
 )
 parser.add_argument(
         "--write_script",
-        default='False',
+        default='true',
         type=str,
         help="determine if the extracted paragraphs are saved"
 )
 parser.add_argument(
         "--to_txt",
-        default='false',
+        default='true',
         type=str,
         help="determine if the html is converted to txt"
 )

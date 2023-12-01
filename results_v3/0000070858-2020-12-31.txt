@@ -1,0 +1,118 @@
+ Privacy and Information SecurityWe are subject to many U.S. federal, state and international laws and regulations governing requirements for maintaining policies and procedures regarding the disclosure, use and protection of the non-public confidential information of our customers and employees.
+
+[-1.248422622680664, -0.46449100971221924, 2.446161985397339]
+
+ The Gramm-Leach-Bliley Act requires us to periodically disclose Bank of America’s privacy policies and practices relating to sharing such information and enables retail customers to opt out of our ability to share information with unaffiliated third parties, under certain circumstances.
+
+[-1.307108998298645, -0.29515740275382996, 2.27329158782959]
+
+ The Gramm-Leach-Bliley Act and other laws also require us to implement a comprehensive information security program that includes administrative, technical and physical safeguards to provide the security and confidentiality of customer records and information.
+
+[0.5571331977844238, -2.4108755588531494, 1.7656159400939941]
+
+ Security and privacy policies and procedures for the protection of personal and confidential information are in effect across all businesses and geographic locations.
+
+[-0.8448420166969299, -1.3324850797653198, 2.5216012001037598]
+
+ Other laws and regulations, at the international, federal and state level, impact our ability to share certain information with affiliates and non-affiliates for marketing and/or non-marketing purposes, or contact customers with marketing offers and establish certain rights of consumers in connection with their personal information.
+
+[-1.2378216981887817, -0.6559398174285889, 2.4566519260406494]
+
+ For example, California’s Consumer Privacy Act (CCPA), which went into effect in January 2020, as modified by the California Privacy Rights Act (CPRA), provides consumers with the right to know what personal data is being collected, know whether their personal data is sold or disclosed and to whom and opt out of the sale of their personal data, among other rights.
+
+[-1.1896605491638184, -0.5129870772361755, 2.3759708404541016]
+
+ In addition, in the EU, the General Data Protection Regulation (GDPR) replaced the Data Protection Directive and related implementing national laws in its member states.
+
+[-0.7907809019088745, -0.764232337474823, 2.0020482540130615]
+
+ The CCPA's, CPRA's and GDPR’s impact on the Corporation was assessed and addressed through comprehensive compliance implementation programs.
+
+[1.2835876941680908, -2.576124668121338, 0.947897732257843]
+
+ These existing and evolving legal requirements in the U.S. and abroad, Bank of America  6as well as court proceedings and changing guidance from regulatory bodies with respect to the validity of cross-border data transfer mechanisms from the EU, continue to lend uncertainty to privacy compliance globally.
+
+[-1.2991628646850586, 2.037371873855591, -0.2979521155357361]
+
+-----------
+
+ The cumulative effect of all of the legislation and regulations on our business, operations and profitability remains uncertain.
+
+[-1.5768336057662964, 0.9547670483589172, 1.3380743265151978]
+
+ This uncertainty necessitates that in our business planning we make certain assumptions with respect to the scope and requirements of prospective and proposed rules.
+
+[-0.9493739604949951, -0.8787299394607544, 2.319861650466919]
+
+ If these assumptions prove incorrect, we could be subject to increased regulatory and compliance risks and costs as well as potential reputational harm.
+
+[-1.50596022605896, 2.3622164726257324, -0.6527944803237915]
+
+ In addition, U.S. and international regulatory initiatives may overlap, and non-U.S. regulations and initiatives may be inconsistent or may conflict with current or proposed U.S. regulations, which could lead to compliance risks and increased costs.
+
+[-1.7846792936325073, 2.651643991470337, -0.31705909967422485]
+
+  Our regulators’ prudential and supervisory authority gives them broad power and discretion to direct our actions, and they have assumed an active oversight, inspection and investigatory role across the financial services industry.
+
+[0.20310236513614655, -2.2517592906951904, 2.019223690032959]
+
+ However, regulatory focus is not limited to laws and regulations applicable to the financial services industry, but extends to other significant laws and regulations that apply across industries and jurisdictions, including those related to data management and privacy, anti-money laundering, anti-corruption and economic sanctions.
+
+[-0.8351356983184814, -1.240297555923462, 2.410893678665161]
+
+ We are also subject to laws, rules and regulations in the U.S. and abroad, including GDPR, CCPA and CPRA, regarding compliance with our privacy policies and the disclosure, collection, use, sharing and safeguarding of personal identifiable information of certain parties, such as our employees, customers, suppliers, counterparties and other third parties, the violation of which could result in litigation, regulatory fines and enforcement actions.
+
+[-1.569996953010559, 0.5512179136276245, 1.9399621486663818]
+
+ Additionally, we will likely be subject to new and evolving data privacy laws in the U.S. and abroad, which could result in additional costs of compliance, litigation, regulatory fines and enforcement actions.
+
+[-1.5883171558380127, 2.24637508392334, -0.2852265238761902]
+
+ In particular, there is increased complexity and uncertainty, including potential suspension or prohibition, regarding the standards used by the Corporation for cross-border flows and transfers of personal data from the European Economic Area (EEA) to the U.S. and other jurisdictions outside of the EEA resulting from a decision of the Court of Justice of the EU and guidance from the European Data Protection Board.
+
+[-1.592543601989746, 1.3449220657348633, 1.2472782135009766]
+
+ Additionally, the European Commission has proposed new standards of personal data transfer.
+
+[0.8230059742927551, -2.595548391342163, 1.8152636289596558]
+
+ If our personal data transfers are suspended or prohibited or we are required to implement new standards, this could result in operational disruptions to our businesses, additional costs, increased enforcement activity, new contract negotiations with third parties, and/or modification of our cross-border data management.
+
+[-1.9538536071777344, 2.8164336681365967, -0.35701268911361694]
+
+-----------
+
+ For example, our reputation may be harmed in connection with our implementation of government programs to provide relief to address the economic impact of the pandemic.
+
+[-1.306480050086975, 2.3009068965911865, -0.8585677146911621]
+
+ Our reputation may also be negatively impacted by our ESG practices and disclosures, our businesses and our customers, including practices and disclosures related to climate change.
+
+[-1.8042199611663818, 1.997580885887146, 0.7427604794502258]
+
+ Actions by the financial services industry generally or by certain members or individuals in the industry also can adversely affect our reputation.
+
+[-1.8186589479446411, 1.7556525468826294, 1.0978899002075195]
+
+ In addition, adverse publicity or negative information posted on social media by employees, the media or otherwise, whether or not factually Bank of America  18correct, may adversely impact our business prospects or financial results.
+
+[-1.829011082649231, 1.912070393562317, 0.9195529818534851]
+
+We are subject to complex and evolving laws and regulations regarding privacy, know-your-customer requirements, data protection, including the GDPR, CCPA and CPRA, cross-border data movement and other matters.
+
+[-1.0962271690368652, -0.8671692609786987, 2.401724338531494]
+
+ Principles concerning the appropriate scope of consumer and commercial privacy vary considerably in different jurisdictions, and regulatory and public expectations regarding the definition and scope of consumer and commercial privacy may remain fluid.
+
+[-1.3430269956588745, 0.04003234952688217, 1.9669275283813477]
+
+ It is possible that these laws may be interpreted and applied by various jurisdictions in a manner inconsistent with our current or future practices, or that is inconsistent with one another.
+
+[-1.6978803873062134, 1.2789992094039917, 1.3729149103164673]
+
+ If personal, confidential or proprietary information of customers or clients in our possession, or in the possession of third parties (including their downstream service providers) or financial data aggregators, is mishandled, misused or mismanaged, or if we do not timely or adequately address such information, we may face regulatory, reputational and operational risks which could  adversely affect our financial condition and results of operations.
+
+[-1.9150968790054321, 2.2147552967071533, 0.4704475998878479]
+
+-----------
+

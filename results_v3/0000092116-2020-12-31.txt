@@ -1,0 +1,42 @@
+  Moreover, if a security breach affects our systems or results in the unauthorized release of sensitive data, our reputation could be materially damaged.
+
+[-1.8577128648757935, 2.4679718017578125, -0.1331198811531067]
+
+  We may not discover any security breach and loss of information for a significant period of time after the security breach.
+
+[-1.749932885169983, 0.9794186949729919, 1.5609098672866821]
+
+  We could also be exposed to a risk of loss or litigation and possible liability.
+
+[-1.7770458459854126, 1.7104662656784058, 0.7983284592628479]
+
+  In addition, pursuant to U.S. government regulations regarding cyber-security of government contractors, we might be subject to fines, penalties or other actions, including debarment, with respect to current contracts or with respect to future contract opportunities.
+
+[-1.6387286186218262, 1.3160887956619263, 1.090580701828003]
+
+  We maintain cybersecurity insurance to provide coverage for a portion of the losses and damages that may result from a security breach, but such insurance is subject to a number of exclusions and may not cover the total loss caused by a breach.
+
+[-1.4642030000686646, -0.1627076417207718, 2.2120466232299805]
+
+  Other costs associated with cyber events may not be covered by insurance or recoverable in rates.
+
+[-1.1427825689315796, -0.7707520127296448, 2.498337745666504]
+
+  The market for cybersecurity insurance continues to evolve and may affect the future availability of cyber insurance at reasonable rates.
+
+[-0.4498417377471924, -1.2248172760009766, 1.9915274381637573]
+
+In addition, we must comply with privacy rights regulations such as The California Consumer Privacy Act (“CCPA”), a state statute that became effective January 1, 2020, which enhances the privacy rights and consumer protections for California residents.
+
+[0.6751381158828735, -2.422516345977783, 1.7042393684387207]
+
+  Among other things, the CCPA establishes statutory damages for victims of data security breaches, and provides additional rights for consumers to obtain their data from any business that has their personally identifying information.
+
+[-0.17793656885623932, -1.7892016172409058, 2.1434295177459717]
+
+  Any actual or perceived failure to comply with the CCPA could lead to investigations, claims, and proceedings by governmental entities and private parties, damages for breach, and other significant costs, penalties, and other liabilities, as well as harm to our reputation.
+
+[-1.893846869468689, 2.4167144298553467, 0.23779305815696716]
+
+-----------
+

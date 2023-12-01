@@ -1,0 +1,26 @@
+  Moreover, if a computer security breach affects our systems or results in the unauthorized release of sensitive data, our reputation could be materially damaged.
+
+[-1.8720345497131348, 2.447327136993408, -0.03565854951739311]
+
+  We could also be exposed to a risk of loss or litigation and possible liability.
+
+[-1.7770458459854126, 1.7104662656784058, 0.7983284592628479]
+
+  In addition, pursuant to U.S. government regulations regarding cyber-security of government contractors, we might be subject to fines, penalties or other actions, including debarment, with respect to current contracts or with respect to future contract opportunities.
+
+[-1.6387286186218262, 1.3160887956619263, 1.090580701828003]
+
+In addition, we must comply with privacy rights regulations such as The California Consumer Privacy Act (“CCPA”), a state statute that became effective January 1, 2020 which enhances the privacy rights and consumer protections for California residents.
+
+[0.6703112125396729, -2.4191598892211914, 1.7221722602844238]
+
+  Among other things, the CCPA establishes statutory damages for victims of data security breaches, and provides additional rights for consumers to obtain their data from any business that has their personally identifying information.
+
+[-0.17793656885623932, -1.7892016172409058, 2.1434295177459717]
+
+  Any actual or perceived failure to comply with the CCPA could lead to investigations, claims, and proceedings by governmental entities and private parties, damages for breach, and other significant costs, penalties, and other liabilities, as well as harm to our reputation.
+
+[-1.893846869468689, 2.4167144298553467, 0.23779305815696716]
+
+-----------
+

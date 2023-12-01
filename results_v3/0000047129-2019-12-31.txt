@@ -1,0 +1,62 @@
+ Although we maintain insurance coverage to address cyber security events that we believe is adequate for our business, there can be no assurance that such insurance will cover substantially all of our potential costs and expenses related to cyber security incidents that may happen in the future.
+
+[-0.049974340945482254, -1.9870449304580688, 1.880566954612732]
+
+ In addition, privacy laws in the U.S., including the California Consumer Privacy Act (the "CCPA"), which went into effect on January 1, 2020, increasingly provide for private rights of action, with high statutory damages in the event of certain security breaches, which could increase our potential liability in the event that our information is impacted by a cyber security incident.
+
+[-1.0921590328216553, 0.5141620635986328, 1.1684037446975708]
+
+-----------
+
+We may face particular data protection, data security and privacy risks in connection with the European Union's Global Data Protection Regulation and other privacy regulations.
+
+[-1.3248473405838013, 0.3427280783653259, 1.7425463199615479]
+
+ Strict data privacy laws regulating the collection, transmission, storage and use of employee data and consumers’ personally-identifying information are evolving in the European Union, U.S. and other jurisdictions in which we operate.
+
+[-1.0337871313095093, -0.6446975469589233, 2.316218614578247]
+
+ The GDPR, which became effective on May 25, 2018, imposes new compliance obligations for the collection, use, retention, security, processing, transfer and deletion of personally identifiable information of individuals and creates enhanced rights for individuals.
+
+[0.3046395182609558, -2.0918262004852295, 1.8723214864730835]
+
+ In the CCPA, which grants expanded rights to access and delete personal information, and the right to opt out of the sale of personal information, among other things, became effective on January 1, 2020.
+
+[-0.5045415163040161, -1.6491926908493042, 2.43477463722229]
+
+-----------
+
+ Strict data privacy laws regulating the collection, transmission, storage and use of employee data and consumers’ personally-identifying information are evolving in the European Union, U.S. and other jurisdictions in which we operate.
+
+[-1.0337871313095093, -0.6446975469589233, 2.316218614578247]
+
+ The GDPR, which became effective on May 25, 2018, imposes new compliance obligations for the collection, use, retention, security, processing, transfer and deletion of personally identifiable information of individuals and creates enhanced rights for individuals.
+
+[0.3046395182609558, -2.0918262004852295, 1.8723214864730835]
+
+ In the CCPA, which grants expanded rights to access and delete personal information, and the right to opt out of the sale of personal information, among other things, became effective on January 1, 2020.
+
+[-0.5045415163040161, -1.6491926908493042, 2.43477463722229]
+
+ We actively monitor compliance with data protection and privacy-related laws, including with the GDPR and CCPA, however, these laws may be interpreted and applied differently from country to country and may create inconsistent or conflicting requirements.
+
+[-1.6319915056228638, 1.7011116743087769, 0.6838690638542175]
+
+ Such regulations may increase our compliance and administrative burden significantly and 25Table of ContentsHERTZ GLOBAL HOLDINGS, INC.
+
+[-1.1611014604568481, 2.1841530799865723, -0.6830489039421082]
+
+ AND SUBSIDIARIESTHE HERTZ CORPORATION AND SUBSIDIARIESITEM 1A.
+
+[-0.8991360068321228, -1.1643251180648804, 2.6206932067871094]
+
+  RISK FACTORS (Continued)may require us to invest resources and management attention in order to update our IT systems to meet the new requirements.
+
+[1.2801355123519897, -2.1371712684631348, -0.03921298310160637]
+
+ It is possible that we could encounter significant liability for failing to comply with any such requirements.
+
+[-1.514644980430603, 2.18215274810791, -0.4569483995437622]
+
+-----------
+

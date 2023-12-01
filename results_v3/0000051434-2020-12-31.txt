@@ -1,0 +1,64 @@
+ These risks also include the increased pressure to make commitments, set targets, or establish additional goals and take actions to meet them.
+
+[-0.9280455708503723, 0.14493724703788757, 1.7153888940811157]
+
+ These risks could expose us to market, operational, and execution costs or risks.
+
+[-1.7762129306793213, 1.7553285360336304, 0.8421115875244141]
+
+ There can be no assurance that future remediation requirements and compliance with existing and new laws and requirements will not require significant expenditures, or that existing reserves for specific matters will be adequate to cover future costs.
+
+[0.025080902501940727, -1.9736474752426147, 1.9428799152374268]
+
+ We could also incur substantial fines or sanctions, enforcement actions (including orders limiting our operations or requiring corrective measures), natural resource damages claims, cleanup and closure costs, and third-party claims for property damage and personal injury as a result of violations of, or liabilities under, environmental laws, regulations, codes and common law.
+
+[-1.908668875694275, 2.654402732849121, -0.016548123210668564]
+
+ The amount and timing of environmental expenditures is difficult to predict, and, in some cases, liability may be imposed without regard to contribution or to whether we knew of, or caused, the release of hazardous substances.
+
+[-1.6869114637374878, 0.7971533536911011, 1.806032657623291]
+
+Our global operations subject us to complex and evolving U.S and international privacy laws and regulations, such as General Data Protection Regulation (“GDPR”), Brazil's Lei Geral de Pnoteçāo de Dados ("LGPD") and the California Consumer Privacy Act of 2018 (“CCPA”) and the California Privacy Rights Act ("CPRA").
+
+[-0.7034435868263245, -1.361587405204773, 2.42177414894104]
+
+ These laws require the Company to comply with a range of compliance obligations regarding the handling of personal data.
+
+[-0.41255468130111694, -1.6396242380142212, 2.2265377044677734]
+
+ These are significant penalties for non-compliance including monetary fines, disruption of operations and reputational harm.
+
+[-1.7473061084747314, 2.491391897201538, -0.08086793124675751]
+
+ Moreover, governmental authorities around the world are considering, or are in the process of implementing new data protection regulations.
+
+[0.5249052047729492, -2.3163516521453857, 1.9093482494354248]
+
+ Many of these laws and regulations are subject to uncertain application, interpretation or enforcement standards that could result in claims, changes to our business practices, data processing and security systems, penalties, increased operating costs or other impacts on our businesses.
+
+[-1.8717230558395386, 2.550117015838623, -0.08332322537899017]
+
+ The recently enacted laws often provide for civil penalties for violations, as well as private rights of action for data breaches that may increase data breach litigation.
+
+[-1.5042082071304321, 1.1570690870285034, 1.4169126749038696]
+
+ IP proactively uses internal and external resources to monitor compliance with relevant legislation and continually evaluates and, where necessary, modifies its data processing practices and policies in order to comply with evolving privacy laws.
+
+[0.6811193227767944, -2.596377372741699, 1.8523262739181519]
+
+-----------
+
+ Nevertheless, relevant regulatory authorities could determine that our data handling practices fail to address all the requirements of certain new laws, which could subject us to penalties and/or litigation.
+
+[-1.6247912645339966, 2.0821619033813477, -0.11923645436763763]
+
+ In addition, there is no assurance that our security controls over personal data, the training of employees and vendors on data privacy and data security, and the policies, procedures and practices we implemented or may implement in the future will prevent the improper disclosure of personal data.
+
+[-0.9006022214889526, -0.7857072353363037, 2.1586434841156006]
+
+ Improper disclosure of personal data in violation of the GDPR, the CCPA and/or of other personal data protection laws could harm our reputation, cause loss of consumer 15Table of Contentsconfidence, subject us to government enforcement actions (including fines), or result in private litigation against us, which could result in loss of revenue, increased costs, liability for monetary damages, fines and/or criminal prosecution, all of which could negatively affect our business and operating results.
+
+[-1.92485773563385, 2.702988386154175, -0.2549830675125122]
+
+-----------
+

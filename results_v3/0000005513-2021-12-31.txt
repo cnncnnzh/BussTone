@@ -1,0 +1,66 @@
+  These laws and regulations vary significantly across jurisdictions.
+
+[-0.9780073165893555, -0.7500773668289185, 2.447892904281616]
+
+ Cybersecurity has been an area of significant, and increasing, focus on the part of insurance regulators.
+
+[1.3137667179107666, -2.558278799057007, 0.7954553365707397]
+
+  The NAIC has adopted the Insurance Data Security Model Law (the Cybersecurity Model Law), which creates a legal framework that requires insurance companies to establish cybersecurity programs designed to protect the private data of consumers.
+
+[0.24780438840389252, -2.1467950344085693, 2.039332389831543]
+
+  The law outlines planned cybersecurity testing and the development of incident response plans for breach notification procedures.
+
+[-0.39989137649536133, -1.711250901222229, 2.3103725910186768]
+
+  The model law must be adopted by individual state legislatures and insurance regulators in order to be effective in a particular state.
+
+[-0.37514346837997437, -1.7408207654953003, 2.4397902488708496]
+
+  At this time, among the states in which our insurance subsidiaries are domiciled, the model law has been adopted in Maine, South Carolina, and Tennessee.
+
+[0.044251035898923874, -2.0832126140594482, 2.3093409538269043]
+
+  In March of 2017, The New York State Department of Financial Services' cybersecurity regulation (the NY DFS Cybersecurity Regulation) went into effect.
+
+[-1.2592436075210571, -0.4613526165485382, 2.4332690238952637]
+
+  This regulation contains similar provisions to the Cybersecurity Model Law.
+
+[-0.7266843318939209, -1.2503844499588013, 2.491922378540039]
+
+  We are also subject to several disparate laws and regulations governing the collection, processing, storage, and destruction of personally identifiable information.
+
+[-1.4445332288742065, -0.1555730700492859, 2.3273608684539795]
+
+  The California Consumer Privacy Act of 2018 (CCPA) was signed into law in June of 2018.
+
+[0.2617429196834564, -2.1347851753234863, 2.070606231689453]
+
+  The CCPA grants Californians several substantive rights with regard to personally identifiable information collected by businesses, including: (i) the right to know what information has been collected about them; (ii) the source of that information; (iii) how it has been shared; (iv) the right to require a business to delete such information; and (v) the right to opt out of certain transactions involving their information.
+
+[-0.42624691128730774, -1.5756690502166748, 2.138293743133545]
+
+  In 2020, California adopted the California Privacy Rights Act (CPRA) which amends the CCPA.
+
+[-0.10897524654865265, -1.5755996704101562, 2.143482208251953]
+
+  The majority of the provisions of the CPRA will go into effect on January 1, 2023.
+
+[-0.9472143650054932, -1.2718995809555054, 2.593878746032715]
+
+  In 2021, both Virginia and Colorado adopted comprehensive privacy regulations similar to the CCPA/CPRA.
+
+[0.3320714235305786, -2.1181933879852295, 1.9818578958511353]
+
+  Other states are considering adopting similar frameworks.
+
+[0.27274712920188904, -2.153907060623169, 2.046591281890869]
+
+  Currently, significant portions of our business are exempt from the requirements of these laws, but it is uncertain whether that will continue to be the case as additional laws are adopted and current laws continue to be amended.
+
+[-0.6652549505233765, -1.1294556856155396, 1.9036641120910645]
+
+-----------
+

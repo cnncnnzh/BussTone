@@ -1,0 +1,61 @@
+ The Dodd-Frank Act also established a Federal Insurance Office (FIO) under the U.S. Treasury Department to monitor all aspects of the insurance industry and of lines of business other than certain health insurance, certain long-term care insurance and crop insurance.
+
+[-0.5510105490684509, -1.645708680152893, 2.3741955757141113]
+
+ •Privacy and Cybersecurity In the absence of a comprehensive federal privacy law, many States are making a push towards privacy legislation.
+
+[-0.3034396767616272, -0.9298926591873169, 1.4295024871826172]
+
+ Personally identifiable information is used in support of many of the Company's business processes.
+
+[-0.6094843149185181, -1.560935616493225, 2.5204429626464844]
+
+ For many years, the standard for protection and treatment of that data was benchmarked by privacy and security provisions of the federal Gramm-Leach-Bliley Act of 1999 (GLBA) and in the Health Insurance Portability and Accountability Act of 1996 (HIPAA).
+
+[-0.605596661567688, -1.2738533020019531, 2.3368964195251465]
+
+ As consumers have grown more concerned about the protection of their data, as well as how their data is used by an organization, many jurisdictions within and outside of the U.S. have created legislation and issued regulations that apply or may in the future apply to aspects of Aflac U.S. operations and allow consumers the right to access, correct, delete and the right to opt out of sales or use of their data.
+
+[-0.4670153856277466, -1.5182071924209595, 2.2213988304138184]
+
+ The 8Item 1.
+
+ BusinessCalifornia Consumer Privacy Act (CCPA), the California Privacy Rights Act (CPRA), the UK General Data Protection Regulation (UK GDPR), the UK Data Protection Act of 2018 (DPA Act) and most recently the Virginia Consumer Data Privacy Act (CDPA) and the Colorado Privacy Act (CPA), which both go into effect in 2023, are examples of these types of legislation.
+
+[-1.1212753057479858, -0.6705479025840759, 2.454763412475586]
+
+ Cybersecurity continues to be an area of evolving focus for legislation and regulatory activity.
+
+[0.33043795824050903, -2.3770291805267334, 2.116792678833008]
+
+ Industry regulators as well as the federal government have updated existing standards and increased their focus on enforcement.
+
+[1.535047173500061, -2.5136618614196777, 0.5648255348205566]
+
+  For example, the National Institute of Standards and Technology (NIST) issued enhanced security guidelines of the software supply chain and New York Department of Financial Services (NYDFS) published increased security guidelines related to ransomware.
+
+[0.8572028279304504, -2.2332990169525146, 1.3016810417175293]
+
+ The Company has a cross-functional team that tracks and monitors new and emerging legislation and regulations to ensure privacy and cybersecurity programs are evaluated and comply with regulatory requirements.
+
+[0.4088204503059387, -2.499054431915283, 2.065105438232422]
+
+ This includes a robust third party risk management and assessment program.
+
+[1.8852684497833252, -2.915360689163208, 0.5127339363098145]
+
+ Over the last several years, processes have developed to support the data subject request process required by CCPA, privacy impact assessments have been implemented as required by CPRA and a dedicated privacy and security center has been added to the Company website to provide consumers with information about the use of and protection of their data.
+
+[0.5499690771102905, -2.5721595287323, 1.9731818437576294]
+
+-----------
+
+4VJ?#-1\Q[-2;\"%@W]RGU)O?Q1>N\+Z\>H 5QR<*U/I
+
+
+[-0.5058848857879639, -0.5456184148788452, 1.9708248376846313]
+
+M/HK'#D#""6V\ CCPA>-?!
+
+-----------
+

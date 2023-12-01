@@ -1,0 +1,56 @@
+Data Protection and Cybersecurity Laws Our business is subject to federal and state privacy and data security laws, with respect to our receipt, use and disclosure by us of personally identifiable information (“PII”), which laws require us to provide appropriate privacy and security safeguards for such information.
+
+[-0.9874560832977295, -1.1579272747039795, 2.525008201599121]
+
+ The Cybersecurity Information Sharing Act of 2015 invites business entities to share cyber threat indicators with the federal government and directs HHS to create a set of voluntary cybersecurity best practices for health care entities.
+
+[0.48955094814300537, -2.3902108669281006, 1.9720269441604614]
+
+ In addition, we are subject to the California Consumer Privacy Act (“CCPA”), which established numerous consumer rights including rights of access and deletion of consumer’s data upon request.
+
+[-0.471358060836792, -1.6770635843276978, 2.41162109375]
+
+ The approved California Privacy Rights Act (the “CPRA”) with a January 1, 2023 compliance deadline amends and expands the CCPA.
+
+[0.15563040971755981, -1.8243952989578247, 1.7151521444320679]
+
+ Virginia, Colorado, and Utah have enacted similar laws to provide for consumer privacy rights and protections.
+
+[0.013219607062637806, -1.7995795011520386, 2.0400803089141846]
+
+ Other states are considering similar laws that would give consumers increased protection and control over their personal data.
+
+[0.4698067605495453, -2.1930606365203857, 1.7372902631759644]
+
+ Other states have more limited protections for consumer data.
+
+[-1.223085641860962, -0.04391267150640488, 2.080658435821533]
+
+ In addition, certain states have data protection laws that provide for the protection of biometric data of individuals.
+
+[-0.721259593963623, -1.2195793390274048, 2.3547425270080566]
+
+ The scope and reach of these biometric laws vary by state and may continue to change.
+
+[-1.2981008291244507, -0.26834574341773987, 2.393578052520752]
+
+ Courts also may adopt the standards for fair information practices promulgated by the FTC that concern consumer notice, choice, security, and access.
+
+[-0.7179229259490967, -1.1960495710372925, 2.413647174835205]
+
+ Likewise, a number of states that have passed data safeguard legislation, most notably New York’s Stop Hacks and Improve Electronic Data Security Act (the “SHIELD Act”), that requires any person or business owning or licensing computerized data that includes the private information of a resident of New York to implement and maintain reasonable safeguards to protect the security, 17
+
+
+[-0.3286776840686798, -1.0983408689498901, 1.9621001482009888]
+
+-----------
+
+\97"CE;T'JUZ;K3$5^MMDZN/2VY2\_IT
+
+
+M=@[$CCPA=-CH6=Z>J67 5V%HWR1J*5'/V0K4D2AM@Q$+>4OBVV!
+
+[-0.629489004611969, -0.5992411971092224, 2.0388076305389404]
+
+-----------
+

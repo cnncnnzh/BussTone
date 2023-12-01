@@ -1,0 +1,36 @@
+Except to the extent required by law, the Bank specifically disclaims any obligation to update any factors or to publicly announce the result of revisions to any of the forward-looking statements included herein to reflect future events or developments.
+
+[-1.4036930799484253, -0.518515408039093, 2.495694398880005]
+
+-----------
+
+State regulators have been increasingly active in implementing privacy and cybersecurity standards and regulations.
+
+[0.0347435288131237, -1.8017899990081787, 1.9014924764633179]
+
+ Recently, several states have adopted regulations requiring certain financial institutions to implement cybersecurity programs and providing detailed requirements with respect to these programs, including date encryption requirements.
+
+[-0.48697471618652344, -1.3684433698654175, 2.210655450820923]
+
+ Many states have also recently implemented or modified their data breach notification and data privacy requirements.
+
+[-1.2345658540725708, 0.8461869359016418, 1.247100830078125]
+
+ In June 2018, the California legislature passed the California Consumer Privacy Act of 2018 (the “CCPA”), which is scheduled to take effect on January 1, 2020.
+
+[0.18003560602664948, -1.900740385055542, 2.0235204696655273]
+
+ The CCPA, which covers businesses that obtain or access personal information on California resident consumers, grants consumers enhanced privacy rights and 11Table of ContentsZIONS BANCORPORATION, NATIONAL ASSOCIATION AND SUBSIDIARIEScontrol over their personal information and imposes significant requirements on covered companies with respect to consumer data privacy rights.
+
+[0.2721244692802429, -2.0207836627960205, 1.9418033361434937]
+
+ We expect this trend of state-level activity to continue and are continually monitoring developments in the states in which we operate.
+
+[1.528489589691162, -2.5859315395355225, 0.38169947266578674]
+
+ Other states have implemented, or are considering, similar privacy laws.
+
+[-0.43323495984077454, -1.3130396604537964, 2.1635355949401855]
+
+-----------
+

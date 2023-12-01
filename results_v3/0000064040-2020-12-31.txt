@@ -1,0 +1,56 @@
+•Failure to comply with GDPR requirements could result in penalties of up to 4% of worldwide revenue.
+
+[-1.801201581954956, 2.8481991291046143, -0.7326676845550537]
+
+ GDPR and other similar laws and regulations, as well as any associated inquiries or investigations or any other government actions, may be costly to comply with, result in negative publicity, increase our operating costs, require significant management time and attention, and subject us to remedies that may harm our business, including fines or demands or orders that we modify or cease existing business practices.
+
+[-1.903314232826233, 2.533695936203003, 0.003667134325951338]
+
+•The California Consumer Privacy Act (“CCPA”) became fully effective January 1, 2020, requiring, among other things, covered companies to provide new disclosures to California consumers, and afford such consumers new abilities to opt-out of certain sales of personal information.
+
+[0.12229926884174347, -2.1506738662719727, 2.026414394378662]
+
+  The CCPA provides a new private right of action for data breaches and requires companies that process information on California residents to make new disclosures to consumers about their data collection, use and sharing practices and allow consumers to opt out of certain data sharing with third parties.
+
+[-0.3717852234840393, -1.553220272064209, 2.130742311477661]
+
+ •Our reputation and brand and our ability to attract new customers could also be adversely impacted if we fail, or are perceived to have failed, to properly respond to security breaches of our or third party’s information technology systems.
+
+[-1.4310526847839355, 2.076585531234741, -0.44497233629226685]
+
+ Such failure to properly respond could also result in similar exposure to liability.
+
+[-1.7143102884292603, 1.912023901939392, 0.7949995398521423]
+
+-----------
+
+•The California Consumer Privacy Act (“CCPA”) became fully effective January 1, 2020, requiring, among other things, covered companies to provide new disclosures to California consumers, and afford such consumers new abilities to opt-out of certain sales of personal information.
+
+[0.12229926884174347, -2.1506738662719727, 2.026414394378662]
+
+  The CCPA provides a new private right of action for data breaches and requires companies that process information on California residents to make new disclosures to consumers about their data collection, use and sharing practices and allow consumers to opt out of certain data sharing with third parties.
+
+[-0.3717852234840393, -1.553220272064209, 2.130742311477661]
+
+ •Our reputation and brand and our ability to attract new customers could also be adversely impacted if we fail, or are perceived to have failed, to properly respond to security breaches of our or third party’s information technology systems.
+
+[-1.4310526847839355, 2.076585531234741, -0.44497233629226685]
+
+ Such failure to properly respond could also result in similar exposure to liability.
+
+[-1.7143102884292603, 1.912023901939392, 0.7949995398521423]
+
+16Table of Contents     •We devote meaningful time and financial resources to compliance with the GDPR, the CCPA and other current and future applicable international and U.S. privacy, cybersecurity and related laws.
+
+[0.9346320629119873, -2.537156820297241, 1.506198763847351]
+
+ We have made capital investments and other expenditures to address cybersecurity preparedness and prevent future breaches, including costs associated with additional security technologies, personnel, experts and credit monitoring services for those whose data has been breached, but there can be no assurance that we will not need to make significant additional expenditures.
+
+[0.3508230745792389, -1.3684018850326538, 0.5299907922744751]
+
+ These costs, which could be material, could adversely impact our results of operations in the period in which they are incurred and may not meaningfully limit the success of future attempts to breach our information technology systems.
+
+[-1.7204300165176392, 1.6711015701293945, 0.5780566930770874]
+
+-----------
+

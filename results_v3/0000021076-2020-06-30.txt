@@ -1,0 +1,40 @@
+ In addition, such incidents could result in unauthorized disclosure and misuse of material confidential information.
+
+[-1.7768068313598633, 1.8409233093261719, 1.1944175958633423]
+
+ Cyber threats are becoming more sophisticated, are constantly evolving and are being made by groups and individuals with a wide range of expertise and motives, and this increases the difficulty of detecting and successfully defending against them.
+
+[-0.8087886571884155, -0.4496881365776062, 1.9735232591629028]
+
+ In addition, data breaches or theft of personal information collected by the Company and its third-party service providers as well as company information and assets may occur in the future.
+
+[-1.8438239097595215, 1.9253371953964233, 0.981034517288208]
+
+ The Company is subject to the laws of various countries where it operates or does business related to solicitation, collection, processing, transferring, storing or use of consumer, customer, vendor or employee information or related data, including the European Union’s General Data Protection Regulation (“GDPR”), which went into effect in May 2018, and the California Consumer Privacy Act of 2018 (“CCPA”), which went into effect in January 2020.
+
+[-1.074213981628418, -0.9492331743240356, 2.6097536087036133]
+
+ The changes introduced by the GDPR and the CCPA increase the complexity of regulations enacted to protect business and personal data and they subject the Company to additional costs and have required, and may in the future require, costly changes to the Company’s security systems, policies, procedures and practices.
+
+[-1.52664315700531, 1.8831042051315308, 0.19498559832572937]
+
+-----------
+
+The Company is also required to comply with increasingly complex and changing laws and regulations enacted to protect business and personal data in the United States and other jurisdictions regarding privacy, data protection and data security, including those related to the collection, storage, use, transmission and protection of personal information and other consumer, customer, vendor or employee data.
+
+[-0.7280967235565186, -0.9830883145332336, 2.150219440460205]
+
+ Such privacy and data protection laws and regulations, including with respect to the GDPR and the CCPA, and the interpretation and enforcement of such laws and regulations, are continuously developing and evolving and there is significant uncertainty with respect to compliance with them.
+
+[-1.1023904085159302, -0.03953135758638382, 1.9764745235443115]
+
+ The changes introduced by the GDPR and the CCPA, as well as any other changes to existing privacy and data protection laws and regulations and the introduction of similar laws and regulations in other jurisdictions, have subjected, and may continue in the future to subject, the Company to additional costs and have required, and may in the future require, costly changes to the Company’s security systems, policies, procedures and practices.
+
+[-1.3684297800064087, 1.394666075706482, 0.438740074634552]
+
+ The Company’s efforts to comply with privacy and data protection laws and regulations may impose significant costs and challenges that are likely to increase over time, which could have a material adverse effect on the Company’s financial condition and results of operations.
+
+[-1.6595218181610107, 2.443204879760742, -0.2741365432739258]
+
+-----------
+

@@ -1,0 +1,40 @@
+ There are a number of U.S. and international laws protecting the privacy and security of personal information.
+
+[-1.1420291662216187, -0.4669009745121002, 2.2970399856567383]
+
+ These laws include the U.S. Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) and related regulations, U.S. state laws (such as the California Consumer Privacy Act (“CCPA”)), Canada’s Personal Information Protection and Electronic Documents Act (“PIPEDA”) or the applicable provincial alternatives, the EU’s General Data Protection Regulation (“GDPR”), EU member states directives, or similar applicable laws.
+
+[-1.0515631437301636, -0.7510383725166321, 2.5192511081695557]
+
+ These laws place limits on how we may collect, use, share and store medical information and other personal information, and they impose obligations to protect that information against unauthorized access, use, loss, and disclosure.
+
+[-1.5592387914657593, 0.25186657905578613, 2.2735443115234375]
+
+  If we, or any of our service providers who have access to the personal data for which we are responsible, are found to be in violation of the privacy or security requirements of HIPAA, PIPEDA, GDPR, or applicable foreign, U.S. state and Canadian provincial laws, we could be subject to civil or criminal penalties, which could increase our liabilities, harm our reputation and have a material adverse effect on our business, financial condition and operating results.
+
+[-1.8991708755493164, 2.300652265548706, 0.3230530917644501]
+
+ In addition, entities operating in the healthcare industry have increasingly become targets for hackers.
+
+[-1.58385169506073, 1.8789201974868774, 0.8008838891983032]
+
+ Although we utilize a variety of measures to secure the data that we control, even compliant entities can experience security breaches or have inadvertent failures despite employing reasonable practices and safeguards.
+
+[-1.5156394243240356, 1.7286823987960815, 0.3495384752750397]
+
+-----------
+
+  23Table of Contents We may also face new risks relating to data privacy and security as the United States, individual U.S. states or Canadian provinces, E.U. member states, and other international jurisdictions adopt or implement new data privacy and security laws and regulations as we continue to commercialize our products worldwide.
+
+[-0.47062844038009644, -1.2111107110977173, 2.073357582092285]
+
+ For example, amendments to privacy and security laws (such as the CCPA) may impose additional requirements on us and increase our regulatory and litigation risk.
+
+[-1.4855692386627197, 1.9563041925430298, -0.20614422857761383]
+
+ As we continue to expand, our business will need to adapt to meet these and other similar legal requirements.
+
+[1.7777162790298462, -2.773118257522583, 0.5427772402763367]
+
+-----------
+

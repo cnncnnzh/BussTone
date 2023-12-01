@@ -1,0 +1,40 @@
+g.
+
+, fines of up to 4% of worldwide revenue under the European Union General Data Protection Regulation (GDPR) and to $7,500 per intentional violation under the California Consumer Privacy Act (CCPA).
+
+[-1.5815953016281128, 2.6608312129974365, -0.6194881796836853]
+
+ In the U.S., several states have proposed their own comprehensive data privacy bills similar to the GDPR and CCPA.
+
+[-0.3711421489715576, -1.521645426750183, 2.299109935760498]
+
+  In addition, in the U.S., legislators are continuing to enact comprehensive cybersecurity laws.
+
+[0.8754122257232666, -2.4256110191345215, 1.602887511253357]
+
+ For example, we are subject to the New York State Department of Financial Services Cybersecurity Regulation for Financial Services Companies and CCPA.
+
+[-0.9766274690628052, -1.0032790899276733, 2.5606911182403564]
+
+ India has also proposed sweeping new data protection laws, in some cases including data localization laws that may require that personal data stay within their borders.
+
+[0.04865574464201927, -1.4579793214797974, 1.5952452421188354]
+
+  Complying with enhanced obligations imposed by various new and emerging laws is resulting in significant costs of developing, implementing or securing our servers and is requiring us to allocate more resources to new privacy compliance processes and to improved technologies, adding to our IT and compliance costs.
+
+[-1.3413907289505005, 2.3216049671173096, -0.6743500232696533]
+
+ In addition, enforcement actions and investigations by regulatory authorities related to data security incidents and privacy violations continue to increase.
+
+[-0.4079476296901703, 0.9315762519836426, -0.7477968335151672]
+
+ The enactment of more restrictive laws, rules, regulations, or future enforcement actions or investigations could impact us through increased costs or restrictions on our business, and noncompliance could result in regulatory penalties and significant legal liability.
+
+[-1.8477058410644531, 2.686647891998291, -0.26490187644958496]
+
+  We are subject to regulation worldwide.
+
+[-0.8457574844360352, -1.1716560125350952, 2.417832136154175]
+
+-----------
+

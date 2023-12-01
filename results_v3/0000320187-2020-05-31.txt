@@ -1,0 +1,22 @@
+In addition, we must comply with increasingly complex and rigorous, and sometimes conflicting, regulatory standards enacted to protect business and personal data in the United States, Europe and elsewhere.
+
+[-0.6122186183929443, -0.20478050410747528, 1.0427151918411255]
+
+ For example, the European Union adopted the General Data Protection Regulation (the “GDPR”), which became effective on May 25, 2018; and California passed the California Consumer Privacy Act (the "CCPA") which became effective on January 1, 2020.
+
+[-0.1781153529882431, -1.7090345621109009, 2.1684317588806152]
+
+ These laws impose additional obligations on companies regarding the handling of personal data and provide certain individual privacy rights to persons whose data is stored.
+
+[-1.32850980758667, -0.03252119570970535, 2.323232650756836]
+
+ Compliance with existing, proposed and recently enacted laws (including implementation of the privacy and process enhancements called for under GDPR and CCPA) and regulations can be costly and time consuming, and any failure to comply with these regulatory standards could subject us to legal and reputational risks.
+
+[-1.8764461278915405, 2.4567534923553467, 0.02932806685566902]
+
+ Misuse of or failure to secure personal information could also result in violation of data privacy laws and regulations, proceedings against the Company by governmental entities or others, imposition of fines by governmental authorities and damage to our reputation and credibility and could have a negative impact on revenues and profits.
+
+[-1.9473915100097656, 2.681095838546753, 0.03267895057797432]
+
+-----------
+

@@ -1,0 +1,38 @@
+A number of U.S. states have enacted data privacy and security laws and regulations that govern the collection, use, disclosure, transfer, storage, disposal, and protection of personal information, such as social security numbers, financial information and other sensitive personal information.
+
+[-1.1320101022720337, -0.6301116347312927, 2.3951425552368164]
+
+ For example, all 50 states and several U.S. territories now have data breach laws that require timely notification to affected individuals, and at times regulators, credit reporting agencies and other bodies, if a company has experienced the unauthorized access or acquisition of certain personal information.
+
+[-1.7825404405593872, 1.700087308883667, 1.226827621459961]
+
+ Other state laws include the California Consumer Privacy Act, as amended (“CCPA”).
+
+[-0.7556774020195007, -1.1095198392868042, 2.4844565391540527]
+
+ The CCPA, among other things, contains disclosure obligations for businesses that collect personal information about California residents and affords those individuals new rights relating to their personal information that may affect our ability to collect and/or use personal information.
+
+[-0.6700407266616821, -1.2932398319244385, 2.2534561157226562]
+
+ Meanwhile, several other states and the federal government have considered or are considering privacy laws like the CCPA.
+
+[-0.09327957034111023, -1.6772195100784302, 1.9828494787216187]
+
+ We will continue to monitor and assess the impact of these laws, which may impose substantial penalties for violations, impose significant costs for investigations and compliance, allow private class-action litigation and carry significant potential liability for our business.
+
+[-1.5817556381225586, 1.6264201402664185, 0.5463442206382751]
+
+-----------
+
+M%JE&<W2=;$XJ(1T'8 >G?%-37Q*%_V4J/X$ODE;K *J I70,J=> 5]D&HEDB
+
+
+[-0.6620497703552246, -0.37986308336257935, 1.9788587093353271]
+
+M4%UTTD'@CQT9^O8$JX8V*Y5ZL5^E7E2I%RN>VUM:GVO*:ZW0'1*RCCPA1BA8
+
+
+[0.052559953182935715, -1.822344183921814, 2.0417301654815674]
+
+-----------
+

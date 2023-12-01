@@ -1,0 +1,22 @@
+Privacy and CybersecurityIn 2018, there was a proliferation of state and federal legislative proposals to protect customer privacy and augment cybersecurity protections.
+
+[-0.29951339960098267, -1.19172203540802, 1.7725887298583984]
+
+ Noteworthy for 2018 is the California Consumer Privacy Act (“CCPA”) passed in July 2018.
+
+[0.6295621395111084, -2.409686803817749, 1.8987321853637695]
+
+ At this time, all companies operating in California are required to comply with the law by January 1, 2020.
+
+[-1.0149787664413452, -0.9851294159889221, 2.455904483795166]
+
+ The law creates numerous consumer rights, including increased access to personal information and its disclosures.
+
+[0.7108889222145081, -2.387636423110962, 1.7993528842926025]
+
+ The precise impact of many of the CCPA’s provisions will not be fully known until the California Attorney General provides guidance and adopts corresponding regulations.
+
+[-1.1802159547805786, -0.6830279231071472, 2.4338173866271973]
+
+-----------
+

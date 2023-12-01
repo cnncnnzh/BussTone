@@ -1,0 +1,42 @@
+ The regulation requires these entities to establish and maintain a cybersecurity program designed to protect consumers’ private data and the confidentiality, integrity and availability of the licensee’s information systems.
+
+[-0.3033134937286377, -1.692565679550171, 2.199045419692993]
+
+ On October 24, 2017, the NAIC adopted the Insurance Data Security Model Law (the “Cybersecurity Model Law”), which establishes standards for data security, the investigation of cybersecurity events involving unauthorized access to, or the misuse of, certain nonpublic information, and reporting to insurance commissioners.
+
+[-0.8373724818229675, -1.0205732583999634, 2.3337974548339844]
+
+ The Cybersecurity Model Law imposes significant new regulatory burdens intended to protect the confidentiality, integrity and availability of information systems.
+
+[-0.9175511598587036, 0.2528017461299896, 1.4128286838531494]
+
+ Its implementation will be based on adoption by state legislatures.
+
+[-0.014618086628615856, -2.085779905319214, 2.2640905380249023]
+
+ To date, the Cybersecurity Model Law has only been adopted in a few states, including one of our domiciliary states.
+
+[0.04840971156954765, -1.975456953048706, 2.1283674240112305]
+
+ Importantly, a drafting note in the Cybersecurity Model Law states that a licensee’s compliance with the New York cybersecurity regulation is intended to constitute compliance with the Cybersecurity Model Law.
+
+[-0.19630898535251617, -1.7044243812561035, 2.068075656890869]
+
+ Certain states are developing or have developed regulations related to privacy and data security.
+
+[-0.3372414708137512, -1.5444241762161255, 2.1829123497009277]
+
+ For example, in 2018 California enacted the California Consumer Privacy Act (“CCPA”), which broadly regulates the sale of California residents’ personal information and grants California residents certain rights to, among other things, access and delete data about them in certain circumstances.
+
+[-0.5269786715507507, -1.4216808080673218, 2.3056647777557373]
+
+ CCPA became effective on January 1, 2020, and compliance with the CCPA may increase the cost of providing our services in California.
+
+[-0.48063498735427856, 0.7701078653335571, -0.6129288077354431]
+
+ Other states have considered - and may adopt - similar proposals.
+
+[0.14817510545253754, -1.863282561302185, 1.949427843093872]
+
+-----------
+

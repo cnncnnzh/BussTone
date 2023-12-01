@@ -1,0 +1,18 @@
+California also adopted a new law to address data privacy.
+
+[0.8076217174530029, -2.003051280975342, 1.122111201286316]
+
+ The California Consumer Privacy Act (CCPA) took effect at the beginning of 2020, and imposes stringent data security standards, which might apply more broadly than only within the borders of that state (for example, if a California resident buys products or has them shipped into the state and pays with a credit or debit card).
+
+[-1.171133041381836, -0.4623308777809143, 2.362579822540283]
+
+ Both New York and Virginia have since adopted similar requirements, which take effect in 2021.
+
+[-0.2102237492799759, -1.7841352224349976, 2.1832330226898193]
+
+ It is still uncertain whether the CCPA and the laws adopted in New York and Virginia will have a material impact on our operations or that of our franchisees.
+
+[-1.3087047338485718, -0.18885841965675354, 2.0144662857055664]
+
+-----------
+

@@ -1,0 +1,42 @@
+We are subject to data privacy and security laws and regulations globally, the number and complexity of which are increasing.
+
+[-0.8252382278442383, -0.2559385895729065, 1.3600130081176758]
+
+ We may be the subject of enforcement or other legal actions despite our compliance efforts.
+
+[-1.6013332605361938, 2.0665969848632812, 0.031821344047784805]
+
+ We collect, use, store, and otherwise process or rely upon access to data, including personally identifiable information, of consumers, employees, and other individuals in the daily conduct of our business.
+
+[-1.092415452003479, -1.0023260116577148, 2.5304155349731445]
+
+ There have been significant enactments and developments in the area of data privacy and cybersecurity laws and regulations, such as the GDPR in the European Union, the CCPA/CPRA in California, PIPL in China and LGPD in Brazil.
+
+[0.6339582204818726, -2.3828465938568115, 1.7574384212493896]
+
+ These laws and regulations have caused and could continue to cause us to change the way we operate, including in a less efficient manner, in order to comply with these laws.
+
+[-1.4859601259231567, 1.6282271146774292, 0.7019737362861633]
+
+ We have a global data privacy program and, as discussed above, have guidelines and a training program to ensure our associates understand the laws and how to collect, use and protect our confidential data (including personally identifiable information).
+
+[0.2432948797941208, -2.368523597717285, 2.0598831176757812]
+
+ However, our compliance efforts are not an assurance that we will not be the subject of regulatory or other legal actions.
+
+[-0.6775367856025696, -1.157227635383606, 2.1621835231781006]
+
+ We could expend significant management and associate time and incur significant cost investigating and defending ourselves against the claims in any such matter, which matters also could result in us being the subject of significant fines, judgments or settlements.
+
+[-1.7138561010360718, 2.525744676589966, -0.4756661057472229]
+
+ In addition, any such claim could give rise to significant reputational damages, whether or not we ultimately are successful in defending ourselves.
+
+[-0.7860362529754639, 0.6535390019416809, 0.31978467106819153]
+
+    Item 1B.
+
+ Unresolved Staff CommentsNone.
+
+-----------
+

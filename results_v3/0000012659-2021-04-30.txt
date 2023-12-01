@@ -1,0 +1,43 @@
+Numerous jurisdictions have passed, and may in the future pass, new laws related to the use and retention of consumer or employee information and this area continues to be an area of interest for U.S. federal, state, and foreign governmental authorities.
+
+[-0.13157980144023895, -1.9907581806182861, 2.2531630992889404]
+
+ For example, the State of California adopted the California Consumer Privacy Act (CCPA), which became effective January 1, 2020, as amended by the California Privacy Rights Act (CPRA), which will be effective January 1, 2023.
+
+[-0.7046446800231934, -1.2453771829605103, 2.4061203002929688]
+
+ Subject to certain exceptions, these laws impose new requirements on how businesses collect, process, manage, and retain certain personal information of California residents and provide California residents with various rights regarding personal information collected by a business.
+
+[-0.8467280864715576, -1.024237871170044, 2.3881735801696777]
+
+ Other states have adopted or may in the future adopt their own, different privacy laws.
+
+[-0.7850394248962402, -1.0416382551193237, 2.330343246459961]
+
+ These laws may contain different requirements or may be interpreted and applied inconsistently from jurisdiction to jurisdiction.
+
+[-1.6362491846084595, 0.8347489237785339, 1.8149076700210571]
+
+ Our current privacy and data protection policies and practices may not be consistent with all of those requirements, interpretations, or applications.
+
+[-1.4347385168075562, 0.5761058926582336, 1.638020396232605]
+
+ In addition, changes in U.S. federal and state regulatory requirements, as well as requirements imposed by governmental authorities in foreign jurisdictions in which we operate, could result in more stringent requirements and in a need to change business practices, including the types of information we can use and the manner in which we can use such information.
+
+[-1.5532158613204956, 1.2874218225479126, 1.2935377359390259]
+
+ Establishing systems and processes, or making changes to our existing policies, to achieve compliance with these complex and evolving requirements may increase our costs or limit our ability to pursue certain business opportunities.
+
+[-1.5490789413452148, 2.231072187423706, -0.3269844949245453]
+
+-----------
+
+MF0( "#DD#!
+
+SB@#,\%_%[3O%5QKT%[9WGAR72VDF"ZS:SV9FLEX%W^_CCPA(;
+
+
+[-0.7557120323181152, -0.9916937947273254, 2.4752678871154785]
+
+-----------
+

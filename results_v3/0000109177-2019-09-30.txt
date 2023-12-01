@@ -1,0 +1,34 @@
+ In addition, we must comply with increasingly complex and rigorous regulatory standards enacted to protect business and personal data in the U.S., Europe and elsewhere.
+
+[0.3714051842689514, -2.0585689544677734, 1.7763184309005737]
+
+ For example, the European Union adopted the General Data Protection Regulation (the “GDPR”), which became effective on May 25, 2018, and California passed the California Consumer Privacy Act (the "CCPA"), which goes into effect January 1, 2020.
+
+[-0.2217685729265213, -1.6771081686019897, 2.1689624786376953]
+
+ These laws impose additional obligations on companies such as ours regarding the handling of personal data and provides certain individual privacy rights to persons whose data is stored.
+
+[-1.1658183336257935, -0.17683832347393036, 2.265589714050293]
+
+ Compliance with existing, proposed and recently enacted laws (including implementation of the privacy and process enhancements called for under GDPR and CCPA and regulations can be costly; any failure to comply with these regulatory standards could subject us to legal and reputational risks.
+
+[-1.7498213052749634, 2.3009321689605713, -0.03621717914938927]
+
+ Misuse of or failure to secure personal information could also result in violation of data privacy laws and regulations, proceedings against the Company by governmental entities or others, damage to our reputation and credibility and could have a negative impact on revenues and profits.
+
+[-1.939997911453247, 2.656778335571289, 0.08615502715110779]
+
+ If we are unable to negotiate satisfactory terms to continue existing or enter into additional collective bargaining agreements, we may experience an increased risk of labor disruptions and our results of operations and financial condition may suffer.
+
+[-1.5818151235580444, 2.819350481033325, -1.024255394935608]
+
+  See the discussion over the Company’s labor force subject to collective bargaining agreements under the caption Employees in Item 1 above.
+
+[-1.5667742490768433, 0.4455541670322418, 1.9512344598770142]
+
+ While we currently expect to negotiate continuations to the terms of these agreements, there can be no assurances that we will be able to obtain terms that are satisfactory to us or otherwise to reach agreement at all with the applicable parties.
+
+[1.5301541090011597, -2.4343230724334717, 0.0427289642393589]
+
+-----------
+

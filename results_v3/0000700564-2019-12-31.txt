@@ -1,0 +1,22 @@
+In addition, certain states have enacted laws establishing consumer privacy protections and data security requirements in their respective states.
+
+[0.21782882511615753, -2.029926061630249, 1.917015552520752]
+
+ For example, the California Consumer Privacy Act (“CCPA”) gives California residents new rights to receive certain disclosures regarding the collection, use, and sharing of “Personal Information,” as well as rights to access, delete, and restrict the sale of certain personal information collected about them.
+
+[-0.1882265955209732, -1.807204008102417, 2.113970994949341]
+
+ The CCPA went into effect on January 1, 2020, and Fulton Bank will need to comply with the CCPA in serving the small number of its customers that are residents of California.
+
+[0.10435937345027924, -1.9995235204696655, 1.8986217975616455]
+
+ Privacy and data security legislation remained a priority issue in 2019.
+
+[0.24251163005828857, -1.9629279375076294, 1.9247468709945679]
+
+ Attempts by state and local governments to regulate consumer privacy have the potential to create a patchwork of differing and/or conflicting state regulations.
+
+[-1.8164950609207153, 2.339918375015259, 0.28171682357788086]
+
+-----------
+

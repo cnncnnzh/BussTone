@@ -1,0 +1,22 @@
+In October 2017, the NAIC adopted the Insurance Data Security Model Law (NAIC Model Law), which would require insurers, insurance producers and other entities required to be licensed under state insurance laws to develop and maintain a written information security program, conduct risk assessments, oversee the data security practices of third-party service providers and other related requirements.
+
+[-0.46768495440483093, -1.6614848375320435, 2.364792823791504]
+
+ Legislation based on the NAIC Model Law has been enacted in eleven states and may be enacted in other states.
+
+[0.2325063794851303, -2.243091583251953, 2.228947162628174]
+
+ Effective January 1, 2020, California enacted the California Consumer Privacy Act of 2018 (CCPA).
+
+[0.768316388130188, -2.047111988067627, 1.4549142122268677]
+
+ The CCPA contains a number of new requirements regarding the personal information of California consumers as defined by the statute, including new individual rights and mandatory disclosures regarding consumers’ personal information.
+
+[-0.37883326411247253, -1.746511697769165, 2.1864824295043945]
+
+ The statute also establishes a private right of action in some cases if consumers’ personal information is subject to a data breach as a result of a business’ failure to implement and maintain reasonable security practices.
+
+[-1.478319525718689, 0.5908829569816589, 1.902268886566162]
+
+-----------
+

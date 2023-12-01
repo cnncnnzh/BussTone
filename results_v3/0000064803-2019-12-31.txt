@@ -1,0 +1,56 @@
+The Cybersecurity Information Sharing Act of 2015 encourages organizations to share cyber threat indicators with the federal government and, among other things, directs HHS to develop a set of voluntary cybersecurity best practices for organizations in the health care industry.
+
+[1.1544914245605469, -2.5479342937469482, 1.3510936498641968]
+
+ In addition, states have begun to enact more comprehensive privacy laws and regulations addressing consumer rights to data access, deletion, protection or transparency, such as the California Consumer Privacy Act (“CCPA”).
+
+[-0.02657400257885456, -1.7779532670974731, 1.9856241941452026]
+
+ States also are starting to issue regulations and proposed regulations specifically related to cybersecurity, such as the regulations issued by the New York Department of Financial Services.
+
+[-0.48758435249328613, -1.4286192655563354, 2.2707595825195312]
+
+ Complying with conflicting cybersecurity regulations, which may differ from state to state, requires significant resources.
+
+[-0.5193567872047424, -0.47575363516807556, 0.9279548525810242]
+
+ In addition, differing approaches to state privacy and/or cyber-security regulation and varying enforcement philosophies may materially and adversely affect the Company’s ability to standardize its products and services across state lines.
+
+[-1.6149686574935913, 1.5142072439193726, 0.7980602383613586]
+
+ Widely-reported large scale commercial data breaches in the United States and abroad increase the likelihood that additional data security legislation will be considered by additional states.
+
+[-0.7140072584152222, 1.4737142324447632, -0.786998450756073]
+
+ These legislative and regulatory developments will impact the design and operation of the Company’s businesses, its privacy and security strategy and its web-based and mobile assets.
+
+[-1.5423474311828613, 0.7075525522232056, 1.9859896898269653]
+
+-----------
+
+Consumer Protection Laws - The federal government has many consumer protection laws, such as the Federal Trade Commission Act, the Federal Postal Service Act, the Consumer Product Safety Act and the FTC’s Telemarketing Sales Rule.
+
+[-0.9357413649559021, -0.8758730888366699, 2.311566114425659]
+
+ Most states also have similar consumer protection laws.
+
+[-0.48252445459365845, -1.3662152290344238, 2.2945821285247803]
+
+ In addition, the federal government and most states have adopted laws and/or regulations requiring places of public accommodation, health care services and other goods and services to be accessible to people with disabilities.
+
+[-0.47440338134765625, -1.404524803161621, 2.102005958557129]
+
+ As a result of the Company’s direct-to-consumer activities, including mobile and web-based solutions offered to members and to other consumers, the Company also is subject to federal and state regulations applicable to electronic communications and to other general consumer protection laws and regulations.
+
+[-0.8448467254638672, -1.130569338798523, 2.5101523399353027]
+
+ For example, the CCPA became effective in 2020, and additional federal and state regulation of consumer privacy protection may be proposed or enacted in 2020.
+
+[-0.1291729360818863, -1.8659013509750366, 2.212324619293213]
+
+ The Company expects these new laws and regulations to impact the design of its products and services and the management and operation of its businesses and to increase its compliance costs.
+
+[0.3391359746456146, -0.3493199050426483, -0.5244432091712952]
+
+-----------
+

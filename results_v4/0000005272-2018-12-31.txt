@@ -1,0 +1,16 @@
+California enacted the California Consumer Privacy Act of 2018 (CCPA), which
+
+
+[0.8083658814430237, -2.135890007019043, 1.5196911096572876]
+
+-----------
+
+will go into effect in 2020.
+
+ The CCPA contains a number of new requirements
+
+
+[-0.13894648849964142, -1.866839051246643, 2.3203845024108887]
+
+-----------
+

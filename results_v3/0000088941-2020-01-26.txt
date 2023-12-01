@@ -1,0 +1,46 @@
+We, our suppliers, and our customers are subject to a variety of U.S. federal, foreign, state and local governmental laws, rules and regulations, including laws, rules and regulations governing data privacy protections for personal information, and corrupt practices/anti-bribery prohibitions, impact our business in terms of ongoing monitoring of compliance.
+
+[-1.0975912809371948, -0.6989693641662598, 2.32094669342041]
+
+ Legislation and related regulations in the United Kingdom under that country’s Bribery Act could have extra-territorial application of compliance standards that may be inconsistent with comparable U.S. law, requiring us to re-evaluate and amend our compliance programs, policies and initiatives.
+
+[-1.6839168071746826, 2.0591022968292236, 0.543123722076416]
+
+ The General Data Protection Regulation ("GDPR") is a comprehensive update to the data protection regime in the European Economic Area that became effective as of May 25, 2018.
+
+[-0.3939570486545563, -1.8769227266311646, 2.3660287857055664]
+
+ In addition, the California Consumer Privacy Act (“CCPA”), which enhances privacy rights and consumer protection for residents of California, became effective as of January 1, 2020.
+
+[-0.2292184680700302, -1.8707059621810913, 2.255223035812378]
+
+ The cost of compliance with the GDPR and the CCPA and the potential for fines and penalties in the event of a breach may have an adverse effect on our operations.
+
+[-1.8734145164489746, 2.5276355743408203, -0.18667036294937134]
+
+ The SEC and The Nasdaq Stock Market LLC ("Nasdaq") have revised, and continue to revise, their regulations and listing standards.
+
+[-1.11124849319458, -0.08709872514009476, 1.9438749551773071]
+
+ These developments have increased, and may continue to increase, our legal compliance and financial reporting costs.
+
+[0.6910279989242554, 0.18386231362819672, -1.8299047946929932]
+
+ These developments also may make it more difficult and more expensive for us to obtain director and officer liability insurance, and we may be required to accept reduced coverage or incur substantially higher costs to obtain coverage.
+
+[-1.4400829076766968, 2.453514575958252, -0.7751027345657349]
+
+ This, in turn, could make it more difficult for us to attract and retain qualified members of our Board of Directors, or qualified executive officers.
+
+[-1.32503342628479, 1.0809128284454346, 0.3000014126300812]
+
+ Failure to comply with present or future laws, rules and regulations of any kind that govern our business could result in suspension of all or a portion of production, cessation of all or a portion of operations, or the imposition of significant regulatory, administrative, civil, or criminal penalties or sanctions, any of which could harm our business.
+
+[-1.9290660619735718, 2.1065800189971924, 0.7141860723495483]
+
+ Economic conditions and regulatory changes leading up to and following the United Kingdom’s exit from the European Union could have a material adverse effect on our business and results of operations.
+
+[-1.914925217628479, 2.440882682800293, 0.2566101849079132]
+
+-----------
+

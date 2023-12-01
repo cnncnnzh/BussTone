@@ -1,0 +1,26 @@
+ In addition, our increased use of mobile and cloud technologies could heighten these and other operational risks, and any failure by mobile or cloud technology service providers to adequately safeguard their systems and prevent cyber attacks could disrupt our operations and result in misappropriation, corruption or loss of confidential or propriety information.
+
+[-1.8720933198928833, 2.5639219284057617, -0.010218051262199879]
+
+ Moreover, the loss of confidential customer identification information could harm our reputation, result in the termination of contracts by our existing customers and subject us to liability under state, federal and international laws that protect confidential personal data, resulting in increased costs, loss of revenues and substantial penalties.
+
+[-1.8451074361801147, 2.852780342102051, -0.6333984136581421]
+
+ In 2018, the E.U. significantly increased the potential penalties for noncompliance with requirements for the handling and maintenance of personal and sensitive data concerning customers and employees.
+
+[0.8516348600387573, -0.26132258772850037, -1.2638607025146484]
+
+ Our failure to comply with these requirements could result in penalties of up to four percent of our global revenues, regulatory action and reputational risk.
+
+[-1.7630001306533813, 2.851449728012085, -0.7681326270103455]
+
+ The recently enacted California Consumer Privacy Act (CCPA) will take effect in January 2020 and provide for enhanced consumer protections for California residents and statutory24 fines for data security breaches or other CCPA violations.
+
+[0.19824330508708954, -1.4359560012817383, 1.4861823320388794]
+
+ Recent well-publicized security breaches at other companies have led to enhanced government and regulatory scrutiny of the measures taken by companies to protect against cyber attacks, and may in the future result in heightened cyber security requirements, including additional regulatory expectations for oversight of vendors and service providers.
+
+[0.171525239944458, -0.8025684952735901, 0.8227276802062988]
+
+-----------
+

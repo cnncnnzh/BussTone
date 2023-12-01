@@ -1,0 +1,38 @@
+The regulatory environment surrounding information security and privacy is increasingly demanding.
+
+[-1.6326254606246948, 1.4826480150222778, 1.1990035772323608]
+
+ We are subject to numerous U.S. federal and state laws and non-U.S. laws and regulations governing the protection of personal and confidential information of our customers and employees.
+
+[-1.158744215965271, -0.7083196640014648, 2.440617561340332]
+
+ In particular, the European Union (“E.U.”) has adopted the General Data Protection Regulation, or GDPR, which contains numerous requirements that must be complied with when handling the personal data of E.U.-based data subjects.
+
+[-0.2914094924926758, -1.625921607017517, 2.13071870803833]
+
+ We are subject to the GDPR with respect to our E.U. operations and employees.
+
+[-1.0789204835891724, -0.9507784247398376, 2.5295815467834473]
+
+ The GDPR and similar laws and regulations are increasing in complexity and number, change frequently and sometimes conflict.
+
+[-1.373155951499939, 0.7199249863624573, 1.7192699909210205]
+
+ In particular, as the E.U. member states reframe their national legislation to harmonize with the GDPR, we will need to monitor compliance with all relevant E.U. member states' laws and regulations, including where permitted derogations from the GDPR are introduced.
+
+[0.03791208192706108, -2.0476646423339844, 2.0055594444274902]
+
+ In addition, California has passed an omnibus data privacy law similar to GDPR, the California Consumer Protection Privacy Act (“CCPA”), and with our 2021 acquisition of Arcadia, we will be subject to compliance obligations under this law.
+
+[0.5054160952568054, -2.1826462745666504, 1.7226002216339111]
+
+ The states of Virginia and Colorado have recently enacted omnibus data privacy laws, and California has enacted more expensive data privacy and security laws (including a provision applying data obligations to employees), all of which will begin enforcement in 2023.
+
+[0.2718072235584259, -1.7866214513778687, 1.6383239030838013]
+
+ The U.S. Congress and legislatures in several states are actively considering data privacy and security legislation.
+
+[-0.07265259325504303, -1.7555135488510132, 2.0792858600616455]
+
+-----------
+

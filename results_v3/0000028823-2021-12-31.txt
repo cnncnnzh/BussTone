@@ -1,0 +1,68 @@
+The Company’s actual or perceived failure to comply with increasing and increasingly stringent laws, regulations and contractual obligations relating to privacy, data protection and information security could harm its reputation, subject the Company to significant fines and liability or loss of business, and decrease demand for the Company’s services.
+
+[-1.8163048028945923, 2.899193286895752, -0.6947736740112305]
+
+ The Company and its customers are subject to privacy, data protection, and information security laws and regulations (“Data Protection Laws”) in the United States and in jurisdictions around the globe that restrict the collection, use, disclosure, transfer and processing of personal data, including financial data.
+
+[-1.5499292612075806, 0.19159026443958282, 2.29618239402771]
+
+ For example, the Company and its customers are subject to the European Union General Data Protection Regulation (“GDPR”), the U.K. General Data Protection Regulation, the California Consumer Privacy Act (“CCPA”), and the Brazilian Lei Geral de Proteção de Dados.
+
+[-0.9343081712722778, -1.1253374814987183, 2.5872926712036133]
+
+ Costs to comply with these Data Protection Laws are significant.
+
+[-1.1501597166061401, 1.0709432363510132, 0.4813525080680847]
+
+ Failure to comply with these laws could result in material legal exposure and business impact, including the loss of customers and decreased demand for our products and services.
+
+[-1.8879934549331665, 2.9327006340026855, -0.6487795114517212]
+
+ The GDPR, for example, imposes onerous accountability obligations on companies, with penalties for non-compliance of up to the greater of €20 and four percent of annual global revenue.
+
+[-1.705580711364746, 2.059818983078003, 0.7351662516593933]
+
+ The GDPR, and other Data Protection Laws, also grant corrective powers to supervisory authorities, including the ability to impose a limit on processing personal data or ability to order companies to cease operations.
+
+[-1.336530327796936, -0.00881011039018631, 2.0947136878967285]
+
+ 10Table of Contents The Data Protection Laws are part of an evolving global data protection landscape in which the number, complexity, requirements, and consequences of non-compliance with these laws are increasing.
+
+[-0.46500164270401, -0.9962345957756042, 1.9564536809921265]
+
+ This landscape includes legislative proposals recently adopted or currently pending in the United States, at both the federal and state levels (including by banking agencies), as well as in other jurisdictions, implementing new or additional requirements for data protection that could increase compliance costs, the cost and complexity of delivering our services, and significantly affect our business.
+
+[-1.5440889596939087, 2.081578016281128, 0.03267756476998329]
+
+-----------
+
+  Some countries have also enacted or are enacting data localization laws that prohibit or significantly restrict the transfer of data out of the country.
+
+[-1.5701922178268433, 0.9322531819343567, 1.609716534614563]
+
+  Developments related to cross-border transfers, including the Court of Justice July 2020 ruling in the “Schrems II” case as well as related guidance from the European Data Protection Board, have resulted in some changes to the way we provide our services in the European Union and conduct our business, and could expose us to potential sanctions and fines for non-compliance.
+
+[-1.3533284664154053, 2.3726601600646973, -0.739348292350769]
+
+ If we cannot transfer data from some jurisdictions or implement valid mechanisms for cross-border data transfers, we may face increased exposure to regulatory actions, substantial fines, injunctions against processing or transferring personal data from Europe or elsewhere, and require us to increase our personal data processing capabilities in the Europe Union and/or elsewhere at significant expense.
+
+[-0.21791943907737732, 0.36860182881355286, -0.5822566151618958]
+
+  In addition to our legal obligations, our contractual obligations relating to privacy, data protection and information security have become increasingly prevalent and stringent due to changes in laws and regulations, including the development related to cross-border transfers, as well as the heightened regulatory requirements in the financial services industry.
+
+[-0.1294855922460556, -1.2013667821884155, 1.3780057430267334]
+
+ Certain Data Protection Laws, such as the GDPR and the CCPA, require our customers to impose specific contractual restrictions on their service providers.
+
+[-1.5903170108795166, 0.7154651284217834, 1.7253328561782837]
+
+ If we are unable to comply with our contractual obligations, this could impact our reputation and result in liabilities and loss of business.
+
+[-1.9160517454147339, 2.852592706680298, -0.4876422584056854]
+
+  Risks Related to Our Indebtedness.
+
+[-1.2859605550765991, 0.7573316097259521, 0.9809637069702148]
+
+-----------
+

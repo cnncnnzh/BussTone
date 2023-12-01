@@ -1,0 +1,34 @@
+harbor” relied upon by thousands of companies, including the Company, to transfer personal information of European residents to the United States.
+
+[-0.20916308462619781, -1.943825364112854, 2.3177669048309326]
+
+ The Company now complies with the European Commission’s directives regarding transatlantic data flows through intercompany agreements between its European and U.S. entities that regulate such flows with standard contractual clauses approved by the European Commission, but the efficacy of such standard contractual clauses is subject to pending litigation.
+
+[-1.1018779277801514, 0.29077693819999695, 1.3846439123153687]
+
+ In addition, existing and proposed privacy and data protection laws and regulations result and may continue to result in significant compliance and operating costs and negative publicity for the Company and may subject it to remedies that may harm its business, including fines and orders to modify or cease existing business practices.
+
+[-1.8317533731460571, 2.7963216304779053, -0.5396826267242432]
+
+ In particular, the General Data Protection Regulation (“GDPR”) that went into effect in May 2018 and the California Consumer Privacy Act of 2018 (“CCPA”) that went into effect in January 2020 set forth new requirements regarding the handling of personal data and increases the compliance burden on the Company and other commercial entities that gather or process personal information of citizens of E.U. countries and California, respectively.
+
+[-0.16085778176784515, -1.4626754522323608, 1.9309215545654297]
+
+ The Company’s efforts to comply with GDPR, CCPA and other privacy and data protection laws may entail substantial expenses, may divert resources from other initiatives and projects and could limit the services the Company is able to offer.
+
+[-1.787110447883606, 2.72554612159729, -0.4689931273460388]
+
+ Furthermore, enforcement actions and investigations by regulatory authorities relate to data security incidents and privacy violations continue to increase.
+
+[-0.7423605918884277, 1.217654824256897, -0.43019425868988037]
+
+ The enactment of more restrictive laws, rules, regulations, or future enforcement actions or investigations could impact the Company through increased costs or restrictions on the Company’s business and its ability to interact with its customers, and noncompliance could result in regulatory penalties and significant legal liability.
+
+[-1.8507144451141357, 2.5579006671905518, 0.07925577461719513]
+
+ Any of the foregoing could materially adversely affect the Company’s results of operations and financial condition.
+
+[-1.8376604318618774, 1.7359825372695923, 1.0690460205078125]
+
+-----------
+

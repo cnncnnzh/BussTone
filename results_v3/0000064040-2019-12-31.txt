@@ -1,0 +1,56 @@
+◦Failure to comply with GDPR requirements could result in penalties of up to 4% of worldwide revenue.
+
+[-1.7733460664749146, 2.864805221557617, -0.7946938872337341]
+
+ GDPR and other similar laws and regulations, as well as any associated inquiries or investigations or any other government actions, may be costly to comply with, result in negative publicity, increase our operating costs, require significant management time and attention, and subject us to remedies that may harm our business, including fines or demands or orders that we modify or cease existing business practices.
+
+[-1.903314232826233, 2.533695936203003, 0.003667134325951338]
+
+◦The California Consumer Privacy Act (“CCPA”) became fully effective January 1, 2020, requiring, among other things, covered companies to provide new disclosures to California consumers, and afford such consumers new abilities to opt-out of certain sales of personal information.
+
+[0.1503414660692215, -2.118023633956909, 2.040815830230713]
+
+  The CCPA provides a new private right of action for data breaches and requires companies that process information on California residents to make new disclosures to consumers about their data collection, use and sharing practices and allow consumers to opt out of certain data sharing with third parties.
+
+[-0.3717852234840393, -1.553220272064209, 2.130742311477661]
+
+ ◦Our reputation and brand and our ability to attract new customers could also be adversely impacted if we fail, or are perceived to have failed, to properly respond to security breaches of our or third party’s information technology systems.
+
+[-1.5173287391662598, 2.0642354488372803, -0.16010934114456177]
+
+ Such failure to properly respond could also result in similar exposure to liability.
+
+[-1.7143102884292603, 1.912023901939392, 0.7949995398521423]
+
+-----------
+
+◦The California Consumer Privacy Act (“CCPA”) became fully effective January 1, 2020, requiring, among other things, covered companies to provide new disclosures to California consumers, and afford such consumers new abilities to opt-out of certain sales of personal information.
+
+[0.1503414660692215, -2.118023633956909, 2.040815830230713]
+
+  The CCPA provides a new private right of action for data breaches and requires companies that process information on California residents to make new disclosures to consumers about their data collection, use and sharing practices and allow consumers to opt out of certain data sharing with third parties.
+
+[-0.3717852234840393, -1.553220272064209, 2.130742311477661]
+
+ ◦Our reputation and brand and our ability to attract new customers could also be adversely impacted if we fail, or are perceived to have failed, to properly respond to security breaches of our or third party’s information technology systems.
+
+[-1.5173287391662598, 2.0642354488372803, -0.16010934114456177]
+
+ Such failure to properly respond could also result in similar exposure to liability.
+
+[-1.7143102884292603, 1.912023901939392, 0.7949995398521423]
+
+◦Compliance with the GDPR, the CCPA and other current and future applicable international and U.S. privacy, cybersecurity and related laws can be costly and time-consuming.
+
+[-1.8427990674972534, 2.1217994689941406, 0.8074885010719299]
+
+ Significant capital investments and other expenditures could also be required to remedy cybersecurity problems and prevent future breaches, including costs associated with additional security technologies, personnel, experts and credit monitoring services for those whose data has been breached.
+
+[-0.42404213547706604, -0.10874078422784805, 0.5140495300292969]
+
+ These costs, which could be material, could adversely impact our results of operations in the period in which they are incurred and may not meaningfully limit the success of future attempts to breach our information technology systems.
+
+[-1.7204300165176392, 1.6711015701293945, 0.5780566930770874]
+
+-----------
+

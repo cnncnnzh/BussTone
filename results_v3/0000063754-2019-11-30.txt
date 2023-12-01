@@ -1,0 +1,50 @@
+  Increased regulatory scrutiny of, and increased litigation involving, product claims and concerns regarding the attributes of food products and ingredients may increase compliance costs and create other obligations that could adversely affect our business, financial condition or operating results.
+
+[-1.7838225364685059, 2.7948622703552246, -0.6018093824386597]
+
+ Governments may also impose requirements and restrictions that impact our business, such as labeling disclosures pertaining to ingredients.
+
+[-1.6587421894073486, 1.0669690370559692, 1.6173323392868042]
+
+ For example, "Proposition 65, the Safe Drinking Water and Toxic Enforcement Act of 1986," in California exposes all food companies to the possibility of having to provide warnings on their products in that state.
+
+[-1.6104222536087036, 1.4983469247817993, 1.084887146949768]
+
+ If we were required to add warning labels to any of our products or place warnings in locations where our products are sold in order to comply with Proposition 65, the sales of those products and other products of our company could suffer, not only in those locations but elsewhere.
+
+[-1.7007101774215698, 2.738745927810669, -0.7694434523582458]
+
+ In addition, there are various compliance obligations for companies that process personal data of certain individuals, including such obligations required by the European Union’s General Data Protection Regulation (“GDPR”), which came into effect in May 2018, and the California Consumer Privacy Act (“CCPA”), which came into effect in January 2020.
+
+[-0.6583651900291443, -1.2609543800354004, 2.3605048656463623]
+
+ These types of data privacy laws create a range of new compliance obligations for companies that process personal data of certain individuals, and increases financial penalties for non-compliance.
+
+[-1.1295450925827026, 1.02064847946167, 0.8882765769958496]
+
+ For example, the CCPA imposes requirements on companies that do business in California and collect personal information from customers, including notice, consent and service provider requirements.
+
+[-1.508955478668213, 0.4514920711517334, 1.9451528787612915]
+
+ The CCPA also provides for civil penalties for companies that fail to comply with these requirements, as well as a private right of action for data breaches.
+
+[-1.0578287839889526, -0.40211665630340576, 2.142399787902832]
+
+ Regulations to implement portions of the CCPA have not been finalized and could significantly impact CCPA compliance measures.
+
+[-1.9156620502471924, 2.6800477504730225, -0.2624572515487671]
+
+ As a company that is subject to data privacy laws, we bear the costs of compliance with them, including the GDPR and CCPA, and are subject to the potential for fines and penalties in the event of a breach of these laws, which continue to evolve.
+
+[-1.2255185842514038, 0.32643988728523254, 1.4328726530075073]
+
+ These factors and others could have an adverse impact on our business, financial condition or results of operations.
+
+[-1.8045240640640259, 1.7192376852035522, 1.1432846784591675]
+
+ Our operations may be impaired as a result of disasters, business interruptions or similar events.
+
+[-1.9251891374588013, 2.4747679233551025, 0.04622891917824745]
+
+-----------
+

@@ -5,19 +5,22 @@ Created on Tue Nov  7 17:23:48 2023
 @author: zhuhe
 """
 
-from bs4 import BeautifulSoup
+
 import os
 import re
+from bs4 import BeautifulSoup
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import numpy as np
 import torch
+from gibberish_detector import detector
+
 
 def html_to_txt(dirc, to_dirc):
     with open (dirc, 'r', encoding='utf-8') as f:
         data = f.readlines()
     data = ''.join(data)
     gfg = BeautifulSoup(data)
-    res = gfg.get_text()
+    res = gfg.get_text('\n')
     with open(to_dirc, 'w', encoding='utf-8') as f:
         f.write(res)
 
@@ -35,9 +38,10 @@ def get_paragraph(dirc, split_sentence):
         data = f.readlines()
         data = ''.join(data)
     indices = [m.start() for m in re.finditer('CCPA', data)]
-    boundary = 4000
+    boundary = 2000
     all_script = []
     all_paragraphs = []
+    gibberish_detector = detector.create_from_model(r'D:\Dropbox\Shan\BussTone\big.model')
     for i in indices: 
 
         start = i-boundary
@@ -61,24 +65,32 @@ def get_paragraph(dirc, split_sentence):
         left = sorted_endings[sorted_endings<boundary]
         right = sorted_endings[sorted_endings>boundary]
         right = np.array([left[0]] + list(right))
+        left_end, right_end = 0, 2 * boundary 
         left_org = []
-        for i in range(1, len(left)):
-            if left[i-1] - left[i] > 512:
+        for i in range(len(left)):
+            if i == 0:
+                if piece[left[i]]=='\n' or piece[left[i]+1] != ' ':
+                    left_end = max(left[i], left_end)
+                    break
                 continue
-            left_org.append(piece[left[i]+1 : left[i-1]+1])
+            sentence = piece[left[i]+1 : left[i-1]+1]
+            if len(sentence) > 512 or gibberish_detector.is_gibberish(sentence):
+                continue
+            left_org.append(sentence)
             if piece[left[i]]=='\n' or piece[left[i]+1] != ' ':
-                left_end = left[i]
+                left_end = max(left[i], left_end)
                 break
         all_script += left_org[::-1]
         for i in range(1, len(right)):
-            if right[i] - right[i-1] > 512:
+            sentence = piece[right[i-1]+1 : right[i]+1]
+            if len(sentence) > 512 or gibberish_detector.is_gibberish(sentence):
                 continue
-            all_script.append(piece[right[i-1]+1 : right[i]+1])
+            all_script.append(sentence)
             if piece[right[i]]=='\n' or piece[right[i]+1] != ' ':
-                right_end = right[i]
+                right_end = min(right[i], right_end)
                 break 
         all_paragraphs.append([start+left_end, start+right_end])
-        all_script.append('\n')
+        all_script.append('-----------')
         # s1, s2, s3, s4, s5, s6 = left[2], left[1], left[0], right[0], right[1], right[2]
         # if split_sentence.lower() == 'true':
         #     # print(start)
@@ -103,11 +115,10 @@ def get_paragraph(dirc, split_sentence):
                 
     return all_script
 
-def gen_script(all_scripts, to_file):
-    with open (to_file, 'w', encoding='utf-8') as f:
-        for script in all_scripts:
-            f.write(script)
-            f.write('\n\n')
+def gen_script(script, to_file):
+    with open (to_file, 'a', encoding='utf-8') as f:
+        f.write(script)
+        f.write('\n\n')
     
 
         

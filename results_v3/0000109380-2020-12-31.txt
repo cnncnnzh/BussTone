@@ -1,0 +1,38 @@
+State regulators have been increasingly active in implementing privacy and cybersecurity standards and regulations.
+
+[0.0347435288131237, -1.8017899990081787, 1.9014924764633179]
+
+ Recently, several states have enacted regulations requiring certain financial institutions to implement cybersecurity programs and providing detailed requirements with respect to these programs, including data encryption requirements.
+
+[-0.49339422583580017, -1.266890525817871, 2.1160807609558105]
+
+ Many states have also recently implemented or modified their data breach notification and data privacy requirements.
+
+[-1.2345658540725708, 0.8461869359016418, 1.247100830078125]
+
+ In June 2018, the California legislature passed the California Consumer Privacy Act of 2018 (the “CCPA”), which took effect on January 1, 2020.
+
+[0.17002256214618683, -1.8904895782470703, 2.0554609298706055]
+
+ On November 3, 2020, the CCPA was amended and expanded by the approval of California ballot initiative, Proposition 24, known as the California Privacy Rights Act (the “CPRA”).
+
+[1.2512950897216797, -2.4121179580688477, 1.1154978275299072]
+
+ The CCPA, as amended, covers businesses that obtain or access personal information on California residents, grants them enhanced privacy rights and control over their personal information, and imposes significant requirements on covered companies with respect to individual data privacy rights.
+
+[0.11025483906269073, -1.8128970861434937, 1.897537112236023]
+
+ Some of the rights afforded to California residents also extend to California employees, though the CPRA amendments now exempt certain employee information and employer usage from some of the CPRA provisions until at least January 1, 2023.
+
+[-0.8401355743408203, -1.1040830612182617, 2.3939831256866455]
+
+ Other states have implemented, or are considering, similar privacy laws.
+
+[-0.43323495984077454, -1.3130396604537964, 2.1635355949401855]
+
+ We expect this trend of state-level activity to continue and are continually monitoring developments in the states in which we operate.
+
+[1.528489589691162, -2.5859315395355225, 0.38169947266578674]
+
+-----------
+

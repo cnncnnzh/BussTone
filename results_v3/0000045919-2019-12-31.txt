@@ -1,0 +1,38 @@
+ In addition, on May 25, 2018 the European General Data Protection Regulation (“GDPR”) took effect.
+
+[-0.6209503412246704, -1.5149191617965698, 2.497671127319336]
+
+ The GDPR applies to all products and services we provide in the European Union (the “EU”).
+
+[-0.6393858790397644, -1.6188738346099854, 2.5274083614349365]
+
+ GDPR includes operational requirements for companies that receive or process personal data of residents of the EU. For example, we may be required to implement measures to change or limit (by age, use or geography) our service offerings.
+
+[-1.4529629945755005, 0.6524761319160461, 1.6399729251861572]
+
+ We may also be required to obtain consent and/or offer new controls to existing and new users in the EU before processing data for certain aspects of our services.
+
+[-0.1585576981306076, -2.0178208351135254, 2.1359915733337402]
+
+ In addition, the GDPR includes significant penalties for non-compliance and, over the past 12 months, the European Union has levied some significant fines on companies for violation of the GDPR.
+
+[-1.3589571714401245, 2.19657826423645, -0.4734092056751251]
+
+ We are also subject to the California Consumer Privacy Act (“CCPA”), which took effect on January 1, 2020.
+
+[-0.737143874168396, -1.491134762763977, 2.5939745903015137]
+
+ The CCPA requires businesses collecting information about California consumers to disclose what personal information is collected about a consumer and the purposes for which that personal information is used, disclose what personal information is sold or shared for a business purpose, and to whom, and delete information or stop selling such information upon request (subject to exceptions).
+
+[-1.6291651725769043, 0.25715479254722595, 2.144566774368286]
+
+ We anticipate that additional restrictions and regulations will continue to be proposed and adopted in the future.
+
+[1.0692996978759766, -2.385810136795044, 1.3615285158157349]
+
+ The Philippines has adopted the Data Privacy Act of 2012 (Republic Act 10173) which mirrors most important aspects of the GDPR and is likely to have a similar effect on our operations in and involving the Philippines.
+
+[0.4745742678642273, -2.416297435760498, 1.8490269184112549]
+
+-----------
+

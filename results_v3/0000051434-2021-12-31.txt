@@ -1,0 +1,92 @@
+ These risks include the potentially adverse impact on forestlands, which are a key resource in the production of our products, increased product costs and a change in the types of products that customers purchase.
+
+[-1.0599149465560913, 1.46570885181427, -0.24134957790374756]
+
+ There can be no assurance that future remediation requirements and compliance with existing and new laws and requirements will not require significant expenditures, or that existing reserves for specific matters will be adequate to cover future costs.
+
+[0.025080902501940727, -1.9736474752426147, 1.9428799152374268]
+
+ We could also incur substantial fines or sanctions, enforcement actions (including orders limiting our operations or requiring corrective measures), natural resource damages claims, cleanup and closure costs, third-party claims for property damage and personal injury and reputational harm as a result of violations of, or liabilities under, environmental laws, regulations, codes and common law.
+
+[-1.9054006338119507, 2.6582422256469727, -0.040736015886068344]
+
+ The amount and timing of environmental expenditures is difficult to predict, and, in some cases, liability may be imposed without regard to contribution or to whether we knew of, or caused, the release of hazardous substances.
+
+[-1.6869114637374878, 0.7971533536911011, 1.806032657623291]
+
+Our global operations subject us to complex and evolving U.S and international data privacy laws and regulations, such as European’s Union General Data Protection Regulation (“GDPR”), the California Consumer Privacy Act of 2018 (“CCPA”) and the California Privacy Rights Act ("CPRA"), and China’s Personal Information Protection Law (“PIPL”) which came into effect as of November 1, 2021.
+
+[-0.6274104118347168, -1.4776272773742676, 2.417386770248413]
+
+ These laws require the Company to comply with a range of compliance obligations regarding the handling of personal data.
+
+[-0.41255468130111694, -1.6396242380142212, 2.2265377044677734]
+
+ There are significant penalties for non-compliance including monetary fines, disruption of operations and reputational harm.
+
+[-1.743181824684143, 2.48354434967041, -0.05478439852595329]
+
+ Moreover, other states and governmental authorities around the world have introduced or passed, or are consider enacting, similar legislation which may impose varying standards and requirements on our data collection, use and processing activities.
+
+[-0.63178551197052, -1.2608224153518677, 2.1900007724761963]
+
+ 17Table of ContentsThis increasingly restrictive and evolving regulatory environment at the international, federal and state level related to data privacy and data protection may require changes to our business practices and give rise to significantly expanded compliance burdens, costs and enforcement risks.
+
+[-1.1036027669906616, 1.6747909784317017, -0.440327912569046]
+
+  Moreover, many of these laws and regulations are subject to uncertain application, interpretation or enforcement standards that could result in claims, changes to our business practices, data processing and security systems, penalties, increased operating costs or other impacts on our businesses.
+
+[-1.83987557888031, 2.5289466381073, -0.1719040870666504]
+
+ These laws often provide for civil penalties for violations, as well as private rights of action for data breaches that may increase data breach litigation.
+
+[-1.5754437446594238, 1.144742727279663, 1.5785374641418457]
+
+-----------
+
+  Moreover, many of these laws and regulations are subject to uncertain application, interpretation or enforcement standards that could result in claims, changes to our business practices, data processing and security systems, penalties, increased operating costs or other impacts on our businesses.
+
+[-1.83987557888031, 2.5289466381073, -0.1719040870666504]
+
+ These laws often provide for civil penalties for violations, as well as private rights of action for data breaches that may increase data breach litigation.
+
+[-1.5754437446594238, 1.144742727279663, 1.5785374641418457]
+
+ The Company proactively uses internal and external resources to monitor compliance with relevant legislation and continually evaluates and, where necessary, modifies its data processing practices and policies in order to comply with evolving privacy laws.
+
+[0.9849907159805298, -2.559286117553711, 1.4614604711532593]
+
+ Nevertheless, relevant regulatory authorities could determine that our data handling practices fail to address all the requirements of certain new laws, which could subject us to penalties and/or litigation.
+
+[-1.6247912645339966, 2.0821619033813477, -0.11923645436763763]
+
+ In addition, there is no assurance that our security controls over personal data, the training of employees and vendors on data privacy and data security, and the policies, procedures and practices we implemented or may implement in the future will prevent the improper handling of, disclosure of or access to personal data.
+
+[-1.0214077234268188, -0.6443920731544495, 2.204864263534546]
+
+We are subject to taxes in the U.S. and various foreign jurisdictions, and changes in laws, regulation or interpretation of existing laws and regulations in the U.S. and other jurisdictions where we are subject to taxation, could increase our taxes and have an adverse effect on our financial results.
+
+[-1.8389472961425781, 2.471621513366699, -0.058165427297353745]
+
+  In addition, the application of tax law is subject to interpretation and is subject to audit by taxing authorities.
+
+[-1.170607566833496, -0.7416394948959351, 2.5990781784057617]
+
+ Additionally, administrative guidance can be incomplete or vary from legislative intent, and therefore the application of the tax law is uncertain.
+
+[-1.8134832382202148, 1.6673041582107544, 1.3371167182922363]
+
+ While we believe the positions reported by the Company comply with relevant tax laws and regulations, taxing authorities could interpret our application of certain laws and regulations differently.
+
+[-1.129996657371521, -0.1832912117242813, 1.8285114765167236]
+
+  We are currently subject to tax audits in the U.S. and other taxing jurisdictions around the world.
+
+[-0.11330200731754303, -2.1393256187438965, 2.346839427947998]
+
+  In some cases, we have appealed and may continue to appeal, assessments by taxing authorities in the court system.
+
+[-0.5272807478904724, -0.07229579240083694, 0.7927054762840271]
+
+-----------
+

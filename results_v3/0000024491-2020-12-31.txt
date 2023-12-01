@@ -1,0 +1,30 @@
+ While the Company maintains some of its critical information technology systems, it is also dependent on third parties to provide important information technology services relating to, among other things, human resources, electronic communications and certain finance functions.
+
+[-0.8951007127761841, -1.0315144062042236, 2.396728992462158]
+
+ Additionally, the Company collects and stores sensitive data, including intellectual property, proprietary business information and the proprietary business information of its customers and suppliers, as well as personally identifiable information of the Company’s customers and employees, in data centers and on information technology networks.
+
+[-1.2017604112625122, -0.7964099049568176, 2.57334041595459]
+
+ In addition, the European Union’s General Data Protection Regulation (“GDPR”), which came into effect in May 2018, creates a range of new compliance obligations for companies that process personal data of European Union residents, and increases financial penalties for non-compliance.
+
+[-0.30071794986724854, -0.41192421317100525, 0.971269428730011]
+
+ As a company that processes personal data of European Union residents, the Company bears the costs of compliance with the GDPR and is subject to the potential for fines and penalties in the event of a breach of the GDPR.
+
+[-1.6496700048446655, 1.4689692258834839, 1.0994001626968384]
+
+ Aside from the European Union, other jurisdictions have enacted, or are considering, regulations regarding data privacy.
+
+[-0.43622201681137085, -1.416698932647705, 2.2935824394226074]
+
+  The California Consumer Privacy Act ("CCPA"), which became effective in January 2020, and others that may be passed, introduce requirements with respect to personal information, and non-compliance with CCPA may result in liability through private actions and enforcement.
+
+[-1.7510664463043213, 1.8479968309402466, 1.2236663103103638]
+
+ Failure to comply with these current and future laws could result in significant penalties and could have a material adverse effect on the Company and results of operations.
+
+[-1.8764432668685913, 2.46728515625, 0.1463625133037567]
+
+-----------
+

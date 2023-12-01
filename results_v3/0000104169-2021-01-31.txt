@@ -1,0 +1,42 @@
+  We are required to hold valid DEA and state-level licenses, meet various security and operating standards and comply with the federal and various state controlled substance acts and related regulations governing the sale, dispensing, disposal and holding of controlled substances.
+
+[-0.5832090377807617, -1.6788861751556396, 2.396897315979004]
+
+  The DEA, the FDA and state regulatory authorities have broad enforcement powers, including the ability to seize or recall products and impose significant criminal, civil and administrative sanctions for violations of these laws and regulations.
+
+[-1.0224759578704834, -0.4458581209182739, 2.045442581176758]
+
+  We are also subject to data privacy and protection laws regulating the collection, use, retention, disclosure, transfer and processing of personal information, such as the California Consumer Protection Act (“CCPA”), which was recently significantly modified by the California Privacy Rights Act (“CPRA”), as well as the European Union’s General Data Protection Regulation (“GDPR”).
+
+[-0.935708224773407, -0.952441930770874, 2.4754421710968018]
+
+ The potential effects of these laws are far-reaching and may require us to modify our data processing practices and policies and to incur substantial costs and expenses to comply.
+
+[-1.7420698404312134, 2.4993863105773926, -0.36262717843055725]
+
+ In the case of non-compliance with a material provision of the GDPR (such as non-adherence to the core principles of processing personal data), regulators have the authority to levy a fine in an amount that is up to the greater of €20 million or 4% of global annual turnover in the prior year.
+
+[-1.471280813217163, 0.9352641701698303, 1.3206744194030762]
+
+ These administrative fines are discretionary and based, in each case, on a multi-factored approach.
+
+[-1.4417611360549927, 0.08770471066236496, 2.290131092071533]
+
+ The CCPA and CPRA give California residents expanded rights to access, correct and require deletion of their personal information, opt out of certain personal information sharing and receive detailed information about how their personal information is used.
+
+[0.39714932441711426, -2.3368189334869385, 1.9180963039398193]
+
+ The CCPA and CPRA provide for civil penalties for violations, as well as a private right of action for data breaches.
+
+[-1.1420706510543823, -0.5017934441566467, 2.34159517288208]
+
+  Furthermore, our marketing and customer engagement activities are subject to communications privacy laws such as the Telephone Consumer Protection Act.
+
+[-1.144846796989441, -0.6057531237602234, 2.423694610595703]
+
+ We may be subjected to penalties and other consequences for noncompliance, including changing some portions of our business.
+
+[-1.9076368808746338, 2.4348819255828857, 0.22457453608512878]
+
+-----------
+

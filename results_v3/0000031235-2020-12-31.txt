@@ -1,0 +1,21 @@
+Kodak receives, processes, transmits and stores information relating to identifiable individuals (personal information), both in its role as a technology provider and as an employer.
+
+[-0.7196010947227478, -1.5580843687057495, 2.545988082885742]
+
+ As a result, Kodak is subject to numerous U.S. federal and state and foreign laws and regulations relating to personal information.
+
+[-1.2268363237380981, -0.19362978637218475, 2.2691874504089355]
+
+ These laws have been subject to frequent changes, and new legislation in this area may be enacted at any time.
+
+[-0.6088864803314209, -1.0439507961273193, 2.2308452129364014]
+
+ 
+
+
+More recent examples of data privacy laws include the EU’s General Data Protection Regulation (GDPR), California’s Consumer Privacy Act (CCPA) and Privacy Rights Act (CPRA), and Brazil’s General Data Protection Law (LGPD).
+
+[-1.0330694913864136, -0.578046977519989, 2.360781192779541]
+
+-----------
+

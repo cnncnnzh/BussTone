@@ -1,0 +1,34 @@
+ We have implemented and regularly review and update our systems, processes, and procedures to protect against unauthorized access to or use of data and to prevent data loss.
+
+[-0.5516560673713684, -1.451818585395813, 2.1585755348205566]
+
+ However, the ever-evolving threats mean we and our third-party service providers and vendors must continually evaluate and adapt our respective systems and processes and overall security environment, as well as those of any companies we acquire.
+
+[0.4406815767288208, -2.173680067062378, 1.75862717628479]
+
+ There is no guarantee that these measures will be adequate to safeguard against all data security breaches, system compromises or misuses of data.
+
+[-0.3907361626625061, -1.4586987495422363, 1.9858059883117676]
+
+ As we experienced in connection with the data breach we discovered in the third quarter of fiscal 2014, any significant compromise or breach of our data security, whether external or internal, or misuse of customer, associate, supplier or Company data, could result in significant costs, including costs to investigate and remediate, as well as lost sales, fines, lawsuits, and damage to our reputation.
+
+[-1.8511533737182617, 2.761305809020996, -0.5172333121299744]
+
+ In addition, the regulatory environment related to data privacy and cybersecurity is constantly changing, with new and increasingly rigorous requirements applicable to our business.
+
+[-0.2340802401304245, -1.314550757408142, 1.6785200834274292]
+
+ The implementation of these requirements has 11Table of Contentsalso become more complex.
+
+[-0.9914093017578125, 0.06039945036172867, 1.701980710029602]
+
+ Maintaining our compliance with those requirements, including the California Consumer Privacy Act (CCPA), may require significant effort and cost, require changes to our business practices, and limit our ability to obtain data used to provide a personalized customer experience.
+
+[-1.7131625413894653, 1.8775920867919922, 0.6304760575294495]
+
+ In addition, failure to comply with applicable requirements could subject us to fines, sanctions, governmental investigations, lawsuits or reputational damage.
+
+[-1.8054786920547485, 2.37939190864563, -0.12263096868991852]
+
+-----------
+

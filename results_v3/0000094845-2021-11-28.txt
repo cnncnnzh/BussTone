@@ -1,0 +1,34 @@
+As a result of our processing activities, we must comply with increasingly complex and rigorous, and sometimes conflicting laws, regulatory standards, industry standards, external and internal privacy and security policies, contracts and other obligations that govern the processing of business and personal data by us and on our behalf.
+
+[-1.090377926826477, -0.11856388300657272, 1.7426775693893433]
+
+ For example, the European Union’s General Data Protection Regulation (the “EU GDPR”), the United Kingdom’s GDPR (the “UK GDPR”) and  California’s Consumer Privacy Act of 2018, as amended (the "CCPA") impose obligations on companies regarding the handling of personal data and provide certain individual privacy rights to persons whose data is stored.
+
+[-1.406304955482483, 0.08714427798986435, 2.360659599304199]
+
+ In addition, it is 29Table of Contentsanticipated that the California Privacy Rights Act of 2020 (“CPRA”), effective January 1, 2023, will expand the CCPA.
+
+[1.8304380178451538, -2.814096212387085, 0.42203980684280396]
+
+ Furthermore, other states in the United States have enacted data privacy laws.
+
+[-0.49136587977409363, -0.6950551271438599, 1.8099035024642944]
+
+  For example, Virginia passed the Consumer Data Protection Act, and Colorado passed the Colorado Privacy Act, both of which become effective in 2023.
+
+[0.10952384769916534, -1.8735235929489136, 1.9004615545272827]
+
+  Additionally, laws in certain jurisdictions require data localization and impose restrictions on the transfer of personal information across border.
+
+[-1.6038334369659424, 0.3885650336742401, 2.1052656173706055]
+
+ For example, the EU GDPR generally restricts the transfer of personal information to countries outside of the EEA without appropriate safeguards or other measures.
+
+[-1.45270836353302, 0.06508442014455795, 2.1508994102478027]
+
+ If we cannot implement a valid compliance mechanism for cross-border privacy and security transfers, we may face increased exposure to regulatory actions, substantial fines and injunctions against processing or transferring personal information from Europe or elsewhere.
+
+[-1.4760619401931763, 2.149043083190918, -0.4261408746242523]
+
+-----------
+
