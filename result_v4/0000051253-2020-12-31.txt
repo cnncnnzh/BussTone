@@ -1,0 +1,38 @@
+A disruption to our information technology systems could result in the loss of confidential business, customer, supplier or employee information, litigation or fines and may require substantial investigations, repairs or replacements, or impact our ability to summarize and report financial results in a timely manner, resulting in significant financial, legal, and relational costs and potentially harming our reputation and adversely impacting our operations, customer service and results of operations.
+
+[-1.9351693391799927, 2.715256452560425, -0.19925889372825623]
+
+ As we work on upgrading and integrating N&B’s and Frutarom’s systems, these risks may be exacerbated.
+
+[0.10207760334014893, -0.04244626313447952, -0.9033036828041077]
+
+ Additionally, a security or data breach could require us to devote significant management and financial resources to address the problems created, and, as a result of the private rights of action provided for under the EU’s General Data Protection Regulation (the “GDPR”), the California Consumer Privacy Act (the “CCPA”) and other laws relating to data protection and privacy in other jurisdictions, in the event of such breaches, additional private litigation against us may result.
+
+[-1.4145957231521606, 0.649383544921875, 1.5994514226913452]
+
+ These types of adverse impacts could also occur in the event the confidentiality, integrity or availability of company, customer, supplier or employee information are compromised due to a data loss by us or a trusted third party.
+
+[-1.8254574537277222, 1.782885193824768, 0.886542558670044]
+
+ We or the third parties with which we share information may not discover any such incidents and loss of information for a significant period of time after the incident occurs.
+
+[-1.6733826398849487, 0.3092118799686432, 2.152306079864502]
+
+ In addition, as a result of COVID-19, we are facing increased operational challenges as we take measures to support and protect employee health and safety, including implementing work-from-home policies for employees.
+
+[0.010976088233292103, 0.5609880685806274, -1.0250476598739624]
+
+ In particular, our remote work arrangements, coupled with stay-at-home orders, may pose challenges for our employees and our IT systems and extended periods of remote work arrangements could introduce operational risk, including cybersecurity and IT systems management risks.
+
+[-1.7613003253936768, 2.7127268314361572, -0.5368859171867371]
+
+ Although we have developed systems and processes that are designed to protect our data and customer data and to prevent data loss and other security breaches and expect to continue to expend additional resources to bolster these protections, these security measures cannot provide absolute security and we may be unable to detect or prevent a breach or disruption in the future.
+
+[-1.1306411027908325, 0.5482655167579651, 0.7918059229850769]
+
+ Additionally, while we have insurance coverage designed to address certain aspects of cyber risks in place, such insurance coverage may be insufficient to cover all losses or all types of claims that may arise.
+
+[-1.466296911239624, 0.392257958650589, 1.6059993505477905]
+
+-----------
+

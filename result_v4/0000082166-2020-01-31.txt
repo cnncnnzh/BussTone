@@ -1,0 +1,37 @@
+The legislative and regulatory framework for privacy and data protection issues worldwide is rapidly evolving.
+
+[-0.16987739503383636, -1.8211398124694824, 2.2914791107177734]
+
+ Raven collects personally identifiable information (PII) and other data as integral parts of its business processes and activities.
+
+[-1.018735647201538, -1.0722980499267578, 2.593564033508301]
+
+ This data is subject to a variety of U.S. and foreign laws and regulations, including oversight by various regulatory and other governmental bodies.
+
+[-0.995890736579895, -1.1120760440826416, 2.562681198120117]
+
+ Many foreign countries and governmental bodies, including the European Union, Brazil, individual states within the U.S., and other relevant jurisdictions where we conduct business, have laws and regulations concerning the collection and use of PII and other data obtained from their residents or businesses operating within their jurisdictions.
+
+[-1.2657872438430786, -0.5444614887237549, 2.457304000854492]
+
+ The European Union recently implemented the General Data Protection Regulation (GDPR), which imposes stringent data protection requirements and provides significant penalties for noncompliance.
+
+[-0.841972291469574, -0.1172153428196907, 1.6274341344833374]
+
+ The state of California recently implemented the California Consumer Privacy Act (CCPA).
+
+[0.17086350917816162, -1.8546925783157349, 2.0763919353485107]
+
+ Brazil is expected to implement the Brazilian General Data Protection Law (LGPD) in fiscal year 2021.
+
+[1.0591776371002197, -2.637054204940796, 1.3958452939987183]
+
+ Any inability, or perceived inability, to adequately address privacy and data protection concerns, or to comply with applicable laws, regulations, policies, industry standards, contractual obligations, or other legal obligations could result in additional cost and liability to the Company or the Company’s officials, inhibit sales, or result in other adverse effects on the business.
+
+[-1.8865994215011597, 2.711329221725464, -0.3344581723213196]
+
+ 
+
+
+-----------
+

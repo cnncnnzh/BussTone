@@ -1,0 +1,80 @@
+ We monitor our obligations under and compliance with global laws requiring information security safeguards and notification in the event of a security breach, including the European Union's Global Data Protection Regulation (the "GDPR") and United States breach notification laws.
+
+[-0.5394313931465149, -1.5488756895065308, 2.233299732208252]
+
+ We respond to potential security issues by utilizing procedures that provide for controls on detecting and addressing cyber security threats and communicating information to senior personnel and security representatives that we retain.
+
+[-0.16831834614276886, -2.0082452297210693, 2.164151430130005]
+
+ We have also taken steps to address cyber security threats at third-parties that handle, possess, process and store our information to mitigate the potential risk to us.
+
+[1.6168239116668701, -2.647996425628662, 0.47351711988449097]
+
+ Such measures include contractually requiring the third-parties to maintain certain data security controls.
+
+[-0.36592966318130493, -1.6822096109390259, 2.2741689682006836]
+
+ However, because of the rapidly changing nature and sophistication of these security threats, which can be difficult to detect, there can be no assurance that our controls, policies and procedures have or will detect or prevent all of these threats, and we cannot predict the full impact of any such past or future incident.
+
+[-1.2224324941635132, -0.11181754618883133, 1.8620572090148926]
+
+ Any failure by us to effectively address, enforce and maintain our information technology infrastructure and cyber security requirements may result in substantial harm to our business, including major disruptions to business operations, loss of intellectual property, release of confidential information, malicious corruption of data, regulatory intervention and sanctions or fines, investigation and remediation costs and possible prolonged negative publicity.
+
+[-1.92595374584198, 2.7876503467559814, -0.33863580226898193]
+
+ Although we maintain insurance coverage to address cyber security events that we believe is adequate for our business, there can be no assurance that such insurance will cover substantially all of our potential costs and expenses related to cyber security incidents that may happen in the future.
+
+[-0.049974340945482254, -1.9870449304580688, 1.880566954612732]
+
+ In addition, privacy laws in the U.S., including the California Consumer Privacy Act (the "CCPA"), which went into effect on July 1, 2020, increasingly provide for private rights of action, with high statutory damages in the event of certain security breaches, which could increase our potential liability in the event that our information is impacted by a cyber security incident.
+
+[-1.0883058309555054, 0.50054931640625, 1.1808727979660034]
+
+-----------
+
+creates enhanced rights for individuals.
+
+[0.36455273628234863, -2.3604989051818848, 2.0281379222869873]
+
+ Additionally, the CCPA expands the definition of personal information and grants, among other things, individual rights to access and delete personal information, and the right to opt out of the sale of personal information.
+
+[0.17958293855190277, -2.1790337562561035, 2.0524351596832275]
+
+-----------
+
+We actively monitor compliance with data protection and privacy-related laws, including with the GDPR, CCPA and upcoming legislation (in the United States and abroad), however, these laws vary depending on the jurisdiction and may create inconsistent or conflicting requirements.
+
+[-1.5477665662765503, 1.3475215435028076, 0.883542001247406]
+
+ Such regulations may increase our compliance and administrative burden significantly and may require us to invest resources and management attention in order to update our IT systems to meet the new requirements.
+
+[-0.701107919216156, 1.3200976848602295, -0.6716800332069397]
+
+ It is possible that we could encounter significant liability for failing to comply with any such requirements.
+
+[-1.514644980430603, 2.18215274810791, -0.4569483995437622]
+
+-----------
+
+
+
+
+-----------
+
+Y8>!
+
+-----------
+
+.
+
+-----------
+
+M&.
+
+-----------
+
++
+
+
+-----------
+

@@ -1,0 +1,21 @@
+We are also subject to various federal, state and international laws and regulations related to privacy and data protection, including the European Union’s General Data Protection Regulation (“GDPR”) as well as the California Consumer Privacy Act of 2018 (“CCPA”), which became effective on January 1, 2020, and its extension, the California Privacy Rights Act (“CPRA”), which will take effect on January 1, 2023.
+
+[-0.9068573713302612, -1.1307973861694336, 2.5223917961120605]
+
+ The interpretation and application of data privacy, cross-border data transfers and data protection laws and regulations are often uncertain and are evolving in the United States and internationally, such as in the European Union, China and other jurisdictions.
+
+[-1.4404503107070923, 0.6209455132484436, 1.8660376071929932]
+
+ We monitor pending and proposed legislation and regulatory initiatives to ascertain their relevance to and potential impact on our business and develop strategies to address regulatory trends and developments, including any required changes to our privacy and data protection compliance programs and policies.
+
+[0.11960388720035553, -2.1573832035064697, 2.0211262702941895]
+
+ Globally, we see a growing trend toward data protection laws and regulations increasing in complexity and number, and we anticipate that our obligations will expand commensurately.
+
+[1.9944251775741577, -2.223369836807251, -1.0911210775375366]
+
+ 
+
+
+-----------
+

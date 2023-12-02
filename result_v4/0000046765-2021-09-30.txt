@@ -1,0 +1,19 @@
+Complying with varying jurisdictional requirements is becoming increasingly complex and could increase the costs and difficulty of compliance, and violations of applicable data protection laws, including but not limited to the European Union General Data Protection Regulation (“GDPR”) and the California Consumer Privacy Act (“CCPA”), could result in significant penalties.
+
+[-1.7494856119155884, 2.5723049640655518, -0.04567074403166771]
+
+ 
+
+
+-----------
+
+The CCPA, which came into effect on January 1, 2020, gives California residents specific rights in relation to their personal information, requires that companies take certain actions, including notifications for security incidents and may apply to activities regarding personal information that is collected by us, directly or indirectly, from California residents.
+
+[-1.202905297279358, -0.7582090497016907, 2.482607364654541]
+
+ As interpretation and enforcement of the CCPA evolves, it creates a range of new compliance obligations, which could cause us to change our business practices, with the possibility for significant financial penalties for noncompliance that may materially adversely affect our business, reputation, results of operations, and cash flows.
+
+[-1.8086448907852173, 2.453378915786743, 0.049475569278001785]
+
+-----------
+

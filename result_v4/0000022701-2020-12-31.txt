@@ -1,0 +1,49 @@
+Privacy Act of 2018 (“CCPA”), which became effective January 1, 2020, grants California residents with several new
+
+
+[1.2249846458435059, -2.5395476818084717, 1.1308408975601196]
+
+-----------
+
+rights relating to their personal information.
+
+[-1.325053095817566, -0.34597837924957275, 2.5081849098205566]
+
+ The CCPA applies to businesses that conduct business in California and satisfies
+
+
+[-0.7959603667259216, -1.3229786157608032, 2.5738120079040527]
+
+-----------
+
+one of three financial conditions, including a business that has a gross revenue greater than $25 million.
+
+[-1.7558013200759888, 2.4685816764831543, 0.07027813792228699]
+
+ The CCPA sets forth
+
+
+-----------
+
+The CCPA establishes a private right of action that allows consumers the right to seek damages for serious data breaches.
+
+[-0.16643856465816498, -1.7066560983657837, 2.235844135284424]
+
+also allows the California Attorney General to bring actions against non-compliant businesses with fines of $2,500 per violation
+
+
+[-1.1890475749969482, 0.597996175289154, 1.3711122274398804]
+
+-----------
+
+or, if intentional, up to $7,500 per violation.
+
+[-1.2226603031158447, 0.6416924595832825, 1.382308840751648]
+
+ Any failure by us to comply with the GDPR or the CCPA could have a material adverse
+
+
+[-1.8582714796066284, 2.482966184616089, -0.13584253191947937]
+
+-----------
+

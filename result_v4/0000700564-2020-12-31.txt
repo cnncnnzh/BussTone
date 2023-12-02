@@ -1,0 +1,34 @@
+Certain states have enacted laws establishing consumer privacy protections and data security requirements in their respective states.
+
+[-0.008993762545287609, -1.8238023519515991, 2.0232019424438477]
+
+ For example, the California Consumer Privacy Act ("CCPA") gives California residents new rights to receive certain disclosures regarding the collection, use, and sharing of "Personal Information," as well as rights to access, delete, and restrict the sale of certain personal information collected about them.
+
+[-0.3044114410877228, -1.6985117197036743, 2.1239655017852783]
+
+ The CCPA went into effect on January 1, 2020, and Fulton Bank is required to comply with the CCPA in serving the small number of its customers that are residents of California.
+
+[-0.6616685390472412, -1.2554725408554077, 2.2564210891723633]
+
+ Privacy and data security legislation remained a priority issue in 2020.
+
+[0.3403327465057373, -2.07592511177063, 1.9661673307418823]
+
+ Attempts by state and local governments to regulate consumer privacy have the potential to create a patchwork of differing and/or conflicting state regulations.
+
+[-1.8164950609207153, 2.339918375015259, 0.28171682357788086]
+
+ In addition, Congress and federal regulatory agencies are considering similar laws or regulations, which could create new individual privacy rights and impose increased obligations on companies handling personal data.
+
+[0.042164724320173264, -1.3925429582595825, 1.7012876272201538]
+
+ For example, on December 18, 2020, the federal financial regulatory agencies announced a proposal that would require supervised banking organizations to promptly notify their primary federal regulator in the event of a computer security incident.
+
+[-0.9175734519958496, -0.5896499752998352, 2.1021549701690674]
+
+ If adopted without substantial change, the proposed rule would require banking organizations to notify their primary federal regulator promptly (not later than 36 hours after the discovery of such incidents) of such incidents, termed "computer-security incidents" that are "notification incidents.
+
+[-1.5620487928390503, 0.581805408000946, 2.1139914989471436]
+
+-----------
+

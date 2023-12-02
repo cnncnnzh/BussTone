@@ -1,0 +1,29 @@
+California enacted the California Consumer Privacy Act of 2018 (CCPA).
+
+[0.15924490988254547, -1.845310091972351, 2.1208105087280273]
+
+ The CCPA imposes a number of requirements on businesses that collect the personal information of California consumers, including requirements to provide individuals with certain rights to their personal information and make mandatory disclosures regarding how the businesses use and disclose consumers’ personal information.
+
+[-1.2753602266311646, -0.4321499168872833, 2.3567123413085938]
+
+ The CCPA also establishes a private right of action in some cases if consumers’ personal information is subject to a data breach resulting from a business’ failure to implement and maintain reasonable security practices.
+
+[-1.4449445009231567, 0.3896917700767517, 1.9773621559143066]
+
+ On November 3, 2020, California voters passed a ballot initiative, the California Privacy Rights Act (the CPRA), that imposes additional obligations on companies that collect California consumers’ personal information, including to provide a right to correct personal information, additional protections for certain uses of sensitive personal information, and certain limitations on data use and on data sharing that does not involve a sale of personal information.
+
+[-0.5126712322235107, -1.1553882360458374, 2.018522262573242]
+
+ The CPRA also creates a new California Privacy Protection Agency which will be charged with enforcing both the CCPA and the CPRA.
+
+[-0.5014554262161255, -1.4450879096984863, 2.314448356628418]
+
+ The CPRA will take effect on January 1, 2023.
+
+[-1.0098814964294434, -1.1321824789047241, 2.6196718215942383]
+
+ 
+
+
+-----------
+

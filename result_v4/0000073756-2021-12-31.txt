@@ -1,0 +1,62 @@
+Personal privacy and data security have become significant regulatory issues and the subject of rapidly evolving laws globally and in the United States.
+
+[-1.0039061307907104, -0.2609741985797882, 2.0795111656188965]
+
+ As a result, we may be subject to a growing patchwork of comprehensive privacy regulation imposed by jurisdictions where we operate, including under the European Union’s General Data Protection Regulation (“GDPR”), the United Kingdom’s Data Protection Act (the “UK GDPR”), Brazil’s General Data Protection Law (“LGPD”) and in the United States, the California Consumer Privacy Act (“CCPA”).
+
+[-0.7125228643417358, -1.0383188724517822, 2.334199905395508]
+
+ Furthermore, foreign, federal, state and local government bodies or agencies have in the past adopted, and may in the future adopt, more laws and regulations affecting data privacy.
+
+[0.12408237159252167, -2.009619951248169, 1.9110298156738281]
+
+ For example, voters in California adopted the California Privacy Rights Act (“CPRA”) by ballot initiative in 2020, and in 2021, Virginia and Colorado enacted the Virginia Consumer Data Protection Act (“VCDPA”) and Colorado Privacy Act (“CPA”), respectively.
+
+[-0.2498176544904709, -1.664442539215088, 2.2566912174224854]
+
+ The CPRA, VCDPA and CPA will take effect over the next 18 months and may impose new obligations on our business and operations.
+
+[-1.7695952653884888, 0.8524807095527649, 1.6422194242477417]
+
+-----------
+
+The CCPA, which went into effect on January 1, 2020, gives California residents specific rights in relation to their personal information, requires that companies take certain actions, including notifications for security incidents, and may apply to activities regarding personal information that is collected by us, directly or indirectly, from California residents.
+
+[-1.2601693868637085, -0.6481409668922424, 2.484164237976074]
+
+ When most of its provisions take effect on January 1, 2023, the CPRA will modify the CCPA and impose additional data protection obligations on companies doing business in California.
+
+[-1.1100904941558838, -0.18320775032043457, 1.8297137022018433]
+
+ Adoption of the CPRA also created the California Privacy Protection Agency (“CPPA”), the first state agency dedicated to the implementation and enforcement of privacy regulations.
+
+[0.11267180740833282, -2.006462335586548, 2.081498622894287]
+
+ Interpretation and enforcement of the CCPA and CPRA will continue to evolve, as will the impact the CPPA’s rulemaking and enforcement actions.
+
+[-0.12282668054103851, -1.9877070188522339, 2.2503714561462402]
+
+ Those changes may entail new compliance obligations and scrutiny that may significantly impact our business activities and require substantial compliance costs that adversely affect business, operating results, prospects and financial condition.
+
+[-1.8009182214736938, 2.273954153060913, 0.029203269630670547]
+
+-----------
+
+Additionally, Virginia’s VCDA and Colorado’s CPA will take effect on January 1, 2023 and July 1, 2023, respectively.
+
+[-1.085947036743164, -1.0172432661056519, 2.537019729614258]
+
+ Although the VCDPA and CPA share concepts the CCPA and CPRA, each law includes important variations, such as inconsistent standards for determining whether businesses fall within the scope of each law.
+
+[-1.4111578464508057, 0.3339918553829193, 1.9472752809524536]
+
+ Those variations may raise our costs and place increased demand on our resources by creating increasingly complex monitoring, control and compliance challenges.
+
+[-0.4333270192146301, 0.9240050911903381, -0.6714033484458923]
+
+ Any failure by us to comply with these laws and regulations, including as a result of a security or privacy breach, could result in significant penalties and liabilities for us.
+
+[-1.8388580083847046, 2.631715774536133, -0.38757145404815674]
+
+-----------
+

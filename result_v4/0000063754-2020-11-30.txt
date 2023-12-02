@@ -1,0 +1,42 @@
+In addition, there are various compliance obligations for companies that process personal data of certain individuals, including such obligations required by the European Union’s General Data Protection Regulation (GDPR), which came into effect in May 2018, and the California Consumer Privacy Act (CCPA), which came into effect in January 
+
+
+[-0.6934645771980286, -1.1727546453475952, 2.3358209133148193]
+
+-----------
+
+2020.
+
+ These types of data privacy laws create a range of new compliance obligations for companies that process personal data of certain individuals and increases financial penalties for non-compliance.
+
+[-1.0896214246749878, 0.7420875430107117, 1.045868992805481]
+
+ For example, the CCPA imposes requirements on companies that do business in California and collect personal information from customers, including notice, consent and service provider requirements.
+
+[-1.508955478668213, 0.4514920711517334, 1.9451528787612915]
+
+ The CCPA also provides for civil penalties for companies that fail to comply with these requirements, as well as a private right of action for data breaches.
+
+[-1.0578287839889526, -0.40211665630340576, 2.142399787902832]
+
+ Regulations to implement portions of the CCPA have not been finalized and could significantly impact CCPA compliance measures.
+
+[-1.9156620502471924, 2.6800477504730225, -0.2624572515487671]
+
+ As a company that is subject to data privacy laws, we bear the costs of compliance with them, including the GDPR and CCPA, and are subject to the potential for fines and penalties in the event of a breach of these laws, which continue to evolve.
+
+[-1.2255185842514038, 0.32643988728523254, 1.4328726530075073]
+
+ These factors and others could have an adverse impact on our business, financial condition or results of operations.
+
+[-1.8045240640640259, 1.7192376852035522, 1.1432846784591675]
+
+ 
+
+
+-----------
+
+M$=^.
+
+-----------
+

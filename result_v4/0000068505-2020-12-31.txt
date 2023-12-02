@@ -1,0 +1,23 @@
+, the California Consumer Protection Act (“CCPA”) which went into effect on January 1, 2020).
+
+[-0.4585005044937134, -1.5640166997909546, 2.4877302646636963]
+
+ Even though comprehensive U.S. federal privacy legislation is being discussed seriously by lawmakers and other stakeholders, it is possible that a one-size fits all compliance program may be difficult to achieve/manage globally.
+
+[-1.3099188804626465, 1.6192699670791626, 0.3226255178451538]
+
+ 
+
+
+-----------
+
+Any failure or perceived failure by us, our business partners, or third party service providers to comply with GDPR, CCPA, other related privacy and security-related or data protection laws, regulations and standards, or the privacy commitments in contracts could result in proceedings against us by governmental entities or others and significant fines, which could have a material adverse effect on our business and operating results and harm our reputation.
+
+[-1.9130300283432007, 2.651930570602417, -0.09727844595909119]
+
+-----------
+
+M.
+
+-----------
+

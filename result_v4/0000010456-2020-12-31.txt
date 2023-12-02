@@ -1,0 +1,18 @@
+As a global company, we are subject to global data privacy and security laws, regulations and codes of conduct that apply to our businesses.
+
+[-0.9122081995010376, -1.1715092658996582, 2.45442533493042]
+
+ The GDPR imposes stringent European Union data protection requirements and provides for significant penalties for noncompliance.
+
+[-1.6484153270721436, 1.380967140197754, 1.2742522954940796]
+
+ HIPAA also imposes stringent data privacy and security requirements and the regulatory authority has imposed significant fines and penalties on organizations found to be out of compliance.
+
+[-1.8066288232803345, 2.8154327869415283, -0.3112141489982605]
+
+ CCPA provides consumers with a private right of action against companies who have a security breach due to lack of appropriate security measures.
+
+[-1.161298155784607, 0.3677781820297241, 1.2787882089614868]
+
+-----------
+

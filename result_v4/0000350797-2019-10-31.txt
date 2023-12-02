@@ -1,0 +1,41 @@
+ Although we take precautions to password protect and encrypt our mobile electronic hardware, if such hardware is stolen, misplaced or left unattended, it may become vulnerable to hacking or other unauthorized use, creating a possible security risk and resulting in potentially costly actions by us.
+
+[-1.8287137746810913, 2.2796366214752197, 0.11574512720108032]
+
+ Breach or other failure of our technology systems, including those of third parties with which we do business, or failure to timely and effectively identify and respond to any such breach or failure, could result in the loss of valuable information, liability for stolen assets or information, remediation costs to repair damage caused by the incident, additional security costs to mitigate against future incidents and litigation costs resulting from the incident.
+
+[-1.9164248704910278, 2.6550467014312744, -0.19563552737236023]
+
+ In addition, our increased use of mobile and cloud technologies could heighten these and other operational risks, and any failure by mobile or cloud technology service providers to adequately safeguard their systems and prevent cyber attacks could disrupt our operations and result in misappropriation, corruption or loss of confidential or propriety information.
+
+[-1.8720933198928833, 2.5639219284057617, -0.010218051262199879]
+
+ Moreover, the loss of confidential customer identification information could harm our reputation, result in the termination of contracts by our existing customers and subject us to liability under state, federal and international laws that protect confidential personal data, resulting in increased costs, loss of revenues and substantial penalties.
+
+[-1.8451074361801147, 2.852780342102051, -0.6333984136581421]
+
+ In 2018, the E.U. significantly increased the potential penalties for noncompliance with requirements for the handling and maintenance of personal and sensitive data concerning customers and employees.
+
+[0.8516348600387573, -0.26132258772850037, -1.2638607025146484]
+
+ Our failure to comply with these requirements could result in penalties of up to four percent of our global revenues, regulatory action and reputational risk.
+
+[-1.7630001306533813, 2.851449728012085, -0.7681326270103455]
+
+ The recently enacted California Consumer Privacy Act (CCPA) will take effect in January 2020 and provide for enhanced consumer protections for California residents and statutory
+
+
+[1.3253114223480225, -2.625248432159424, 1.0471553802490234]
+
+-----------
+
+fines for data security breaches or other CCPA violations.
+
+[-1.7784522771835327, 2.4933698177337646, -0.14873293042182922]
+
+ Recent well-publicized security breaches at other companies have led to enhanced government and regulatory scrutiny of the measures taken by companies to protect against cyber attacks, and may in the future result in heightened cyber security requirements, including additional regulatory expectations for oversight of vendors and service providers.
+
+[0.171525239944458, -0.8025684952735901, 0.8227276802062988]
+
+-----------
+

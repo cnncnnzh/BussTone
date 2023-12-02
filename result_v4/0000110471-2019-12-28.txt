@@ -1,0 +1,38 @@
+The Company is also subject to U.S. and international data privacy and cybersecurity laws and regulations, which may impose fines and penalties for noncompliance and may have an adverse effect on the Company's operations.
+
+[-1.8521121740341187, 1.950783133506775, 1.064765453338623]
+
+ For example, in 2016, the European Union formally adopted the General Data Protection Regulation ("GDPR"), which applied in all European Union member states effective May 25, 2018.
+
+[0.08515651524066925, -2.1271588802337646, 2.1233134269714355]
+
+ GDPR introduces new data protection requirements in the European Union and substantial fines for breaches of the data protection rules.
+
+[-1.2188299894332886, 1.9347765445709229, -0.11935172230005264]
+
+ GDPR increases our responsibility and potential liability in relation to personal data that we collect, process and transfer, and we have put in place additional mechanisms to ensure compliance with the new data protection rules.
+
+[1.752236008644104, -2.455859899520874, -0.1513359248638153]
+
+ Any failure to comply with these rules and related national laws of European Union member states, could lead to government enforcement actions and significant penalties against us, and could adversely affect our business, financial condition, cash flows and results of operations.
+
+[-1.9206900596618652, 2.5610435009002686, -0.05361301824450493]
+
+ In addition, California recently adopted the California Consumer Privacy Act (“CCPA”), which became effective January 1, 2020, and limits how we may collect and use personal data.
+
+[-0.33601170778274536, -1.6149210929870605, 2.2653863430023193]
+
+ The effects of the CCPA potentially are far-reaching and may require us to modify our data processing practices and policies and incur substantial compliance-related costs and expenses.
+
+[-1.756783127784729, 2.776060104370117, -0.6751166582107544]
+
+ Compliance with any of the foregoing laws and regulations can be costly.
+
+[-1.7995729446411133, 2.17506742477417, 0.5071547627449036]
+
+ A violation of any laws or regulations relating to the collection or use of personal information could result in the imposition of fines against us.
+
+[-1.8675062656402588, 1.8042811155319214, 0.9107168912887573]
+
+-----------
+

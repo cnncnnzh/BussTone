@@ -1,0 +1,23 @@
+  The Company is subject to many data privacy, data protection, and data breach notification laws, including the European Union General Data Protection Regulation (the “GDPR”), which became effective in May of  2018, and the California Consumer Privacy Act (the "CCPA"), which became effective in January 2020.
+
+[-1.1612197160720825, -0.55851149559021, 2.4614014625549316]
+
+-----------
+
+  The GDPR and the CCPA contain numerous requirements, including more robust obligations and increased documentation requirements for data protection compliance programs by companies.
+
+[0.8951566219329834, -2.191030740737915, 1.0782498121261597]
+
+ Complying with the GDPR and the CCPA may cause the Company to incur substantial operational costs or require the Company to change its business practices.
+
+[-1.841008186340332, 2.5884175300598145, -0.335816890001297]
+
+-----------
+
+   The Company’s measures to assess the requirements of, and to comply with, the GDPR and the CCPA, as 
+
+
+[1.4453608989715576, -2.717196226119995, 0.9567984938621521]
+
+-----------
+

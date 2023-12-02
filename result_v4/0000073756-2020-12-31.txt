@@ -1,0 +1,33 @@
+Personal privacy and data security have become significant regulatory issues and the subject of rapidly evolving laws globally and in the United States.
+
+[-1.0039061307907104, -0.2609741985797882, 2.0795111656188965]
+
+ For example, Europe’s General Data Protection Regulation (“GDPR”) went into effect in 2018 and enforcement is still evolving.
+
+[-0.647784948348999, -1.1010572910308838, 2.3294358253479004]
+
+ Furthermore, federal, state and local government bodies or agencies have in the past adopted, and may in the future adopt, more laws and regulations affecting data privacy.
+
+[0.04217598959803581, -1.922585368156433, 1.9473315477371216]
+
+  For example, the state of California enacted the California Consumer Privacy Act of 2018 (“CCPA”) and California voters recently approved the California Privacy Rights Act (“CPRA”).
+
+[-0.03996356204152107, -1.7151589393615723, 2.1766791343688965]
+
+ The CCPA, which went into effect on January 1, 2020, creates individual privacy rights for California residents and places increased privacy and security obligations on entities handling certain personal data of consumers or households, including new disclosures and protections to California residents.
+
+[0.7693911194801331, -2.179006814956665, 1.353410243988037]
+
+ The CPRA modifies the CCPA and imposes additional data protection obligations on companies doing business in California.
+
+[-1.3526047468185425, 0.1488899290561676, 1.8888514041900635]
+
+ GDPR and the CCPA and other data privacy regulations may significantly impact our business activities and require substantial compliance costs that adversely affect business, operating results, prospects and financial condition.
+
+[-1.915069580078125, 2.673322916030884, -0.2699369490146637]
+
+ 
+
+
+-----------
+

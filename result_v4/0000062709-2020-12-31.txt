@@ -1,0 +1,63 @@
+The costs to comply with, or our failure to comply with, U.S. and foreign laws related to privacy, data security and data protection, such as the E.U. General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), could adversely affect our financial condition, operating results and our reputation;
+
+
+[-1.736120343208313, 2.270552635192871, -0.023855652660131454]
+
+-----------
+
+The costs to comply with, or our failure to comply with, U.S. and foreign laws related to privacy, data security and data protection, such as the E.U. General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), could adversely affect our financial condition, operating results and our reputation.
+
+[-1.8098493814468384, 2.318977117538452, 0.185613751411438]
+
+-----------
+
+ In the U.S., the CCPA came into effect in January 2019 and introduced several new concepts to local privacy requirements, including increased transparency and rights such as access and deletion and an ability to opt out of the “sale” of personal information.
+
+[0.9319209456443787, -2.488443613052368, 1.5605754852294922]
+
+ Despite a proliferation of regulatory guidance papers, much remains unclear with respect to how to interpret and implement the GDPR and the CCPA, and that lack of clarity could result in potential liability for our failure to meet our obligations under the GDPR and the CCPA.
+
+[-1.8633986711502075, 2.6367571353912354, -0.3384436368942261]
+
+ Given the breadth and depth of changes in data protection obligations, including classifying data and committing to a range of administrative, technical and physical controls to protect data and enable data transfers outside of the E.U., our compliance with laws such as the GDPR and the CCPA will continue to require time, resources and review of the technology and systems we use.
+
+[0.003588360734283924, -1.8547316789627075, 1.8523563146591187]
+
+ Further, the European Union Court of Justice's "Schrems II" decision and Brexit have created uncertainty with regard to the future of the flow of personal information between the United Kingdom and the E.U., respectively, and that uncertainty may impair our ability to offer our existing and planned products and services or increase our cost of doing business.
+
+[-1.72873854637146, 2.6348228454589844, -0.5436531901359558]
+
+-----------
+
+Looking at the U.S. following the passage of the CCPA, California recently approved a ballot measure that enacts the California Privacy Rights Act, making extensive modifications to the CCPA.
+
+[0.4396907091140747, -2.113372325897217, 1.8572012186050415]
+
+ Additionally, several other states have introduced privacy bills, some more comprehensive than the CCPA.
+
+[0.25954383611679077, -1.8500800132751465, 1.7376283407211304]
+
+ There is also continued legislative interest in passing a federal privacy law which is likely to accelerate under the new U.S. administration.
+
+[1.8060685396194458, -2.563540458679199, -0.2562398612499237]
+
+-----------
+
+Furthermore, enforcement actions and investigations by regulatory authorities related to data security incidents and privacy violations, including a recent focus on website “cookies” compliance in some countries, continue to increase.
+
+[0.04563121125102043, 0.49267277121543884, -0.9366374015808105]
+
+ Privacy violations, including unauthorized disclosure or transfer of sensitive or confidential client or Company data, whether through systems failure, employee negligence, fraud or misappropriation, by the Company, our vendors or other parties with whom we do business (if they fail to meet the standards we impose) could damage our reputation and subject us to significant litigation, monetary damages, regulatory enforcement actions, fines and criminal prosecution in one or more jurisdictions.
+
+[-1.932241678237915, 2.4018607139587402, 0.23588113486766815]
+
+ Given the complexity of operationalizing the various privacy laws such as the GDPR and the CCPA, the maturity level of proposed compliance frameworks and the continued lack of clarity on how to implement their requirements, we and our clients are at risk of enforcement actions taken by E.U. and other data protection authorities or litigation from consumer advocacy groups acting on behalf of data subjects.
+
+[-1.7749145030975342, 2.1953349113464355, 0.501143753528595]
+
+ We may not be able to respond quickly or effectively to regulatory, legislative and other developments, and these changes may in turn impair our ability to offer our existing or planned products and services and increase our cost of doing business.
+
+[-1.6860206127166748, 2.532763719558716, -0.5564702153205872]
+
+-----------
+

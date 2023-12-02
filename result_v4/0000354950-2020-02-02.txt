@@ -1,0 +1,12 @@
+also become more complex.
+
+ Maintaining our compliance with those requirements, including the California Consumer Privacy Act (CCPA), may require significant effort and cost, require changes to our business practices, and limit our ability to obtain data used to provide a personalized customer experience.
+
+[-1.7131625413894653, 1.8775920867919922, 0.6304760575294495]
+
+ In addition, failure to comply with applicable requirements could subject us to fines, sanctions, governmental investigations, lawsuits or reputational damage.
+
+[-1.8054786920547485, 2.37939190864563, -0.12263096868991852]
+
+-----------
+

@@ -1,0 +1,7 @@
+collecting, transferring, storing and/or processing customer, consumer, employee, vendor, investor, and other stakeholder information and personal data, including such data from persons covered by an expanding landscape of privacy and data regulations, such as citizens of the European Union who are covered by the General Data Protection Regulation (“GDPR”) or residents of California covered by the California Consumer Privacy Act ("CCPA"); 
+
+
+[-0.8995341658592224, -1.187272310256958, 2.489062547683716]
+
+-----------
+

@@ -1,0 +1,18 @@
+Certain states are developing or have developed regulations related to privacy and data security.
+
+[-0.3372414708137512, -1.5444241762161255, 2.1829123497009277]
+
+ For example, in 2018 California enacted the California Consumer Privacy Act (“CCPA”), which broadly regulates the sale of California residents’ personal information and grants California residents certain rights to, among other things, access and delete data about them in certain circumstances.
+
+[-0.5269786715507507, -1.4216808080673218, 2.3056647777557373]
+
+ CCPA became effective on January 1, 2020, and compliance with the CCPA may increase the cost of providing our services in California.
+
+[-0.48063498735427856, 0.7701078653335571, -0.6129288077354431]
+
+ Other states have considered - and may adopt - similar proposals.
+
+[0.14817510545253754, -1.863282561302185, 1.949427843093872]
+
+-----------
+

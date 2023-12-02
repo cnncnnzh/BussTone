@@ -1,0 +1,32 @@
+ There also has been increased regulation with respect to the protection of customer privacy and data, and the need to secure sensitive customer, employee and others’ information.
+
+[0.8923525810241699, -2.3443796634674072, 1.470974087715149]
+
+ As the regulatory focus on privacy continues to intensify and laws and regulations concerning the management of personal data expand, risks related to privacy and data collection within our business will increase.
+
+[-0.14137621223926544, -0.8222028017044067, 0.8390026688575745]
+
+ In addition to the EU’s GDPR data protection rules, we may also be or become subject to or affected by additional country, federal and state laws, regulations and guidance impacting consumer privacy, such as the recently enacted California Consumer Privacy Act (“CCPA”) effective January 2020, which provides for enhanced consumer protections for California residents and statutory fines for data security breaches or other CCPA violations.
+
+[-1.3707340955734253, 0.31347402930259705, 1.9362038373947144]
+
+-----------
+
+ There also has been increased regulation with respect to the protection of customer privacy and data, and the need to secure sensitive customer, employee and others’ information.
+
+[0.8923525810241699, -2.3443796634674072, 1.470974087715149]
+
+ As the regulatory focus on privacy continues to intensify and laws and regulations concerning the management of personal data expand, risks related to privacy and data collection within our business will increase.
+
+[-0.14137621223926544, -0.8222028017044067, 0.8390026688575745]
+
+ In addition to the EU’s GDPR data protection rules, we may also be or become subject to or affected by additional country, federal and state laws, regulations and guidance impacting consumer privacy, such as the recently enacted CCPA effective January 2020, which provides for enhanced consumer protections for California residents and statutory fines for data security breaches or other CCPA violations.
+
+[-1.4845091104507446, 0.7111234068870544, 1.6775671243667603]
+
+ Noncompliance with our legal obligations relating to privacy and data protection could result in penalties, legal proceedings by governmental entities or affected individuals, and significant legal and financial exposure.
+
+[-1.948229193687439, 2.5699331760406494, 0.19590440392494202]
+
+-----------
+

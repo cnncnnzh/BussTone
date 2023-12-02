@@ -1,0 +1,86 @@
+The costs to comply with, or our failure to comply with, U.S. and foreign laws related to privacy, data security and data protection, such as the E.U. General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), could adversely affect our financial condition, operating results and our reputation.
+
+[-1.8098493814468384, 2.318977117538452, 0.185613751411438]
+
+-----------
+
+ In the U.S., the CCPA came into effect in January 2019 and introduced several new concepts to local privacy requirements, including increased transparency and rights such as access and deletion and an ability to opt out of the “sale” of personal information.
+
+[0.9319209456443787, -2.488443613052368, 1.5605754852294922]
+
+ Despite a proliferation of regulatory guidance papers, much remains unclear with respect to how to interpret and implement the GDPR and the CCPA, and that lack of clarity could result in potential liability for our failure to meet our obligations under the GDPR and the CCPA.
+
+[-1.8633986711502075, 2.6367571353912354, -0.3384436368942261]
+
+ Given the breadth and depth of changes in data protection obligations, including classifying data and committing to a range 
+
+
+[0.3402045965194702, -2.3911283016204834, 2.163557529449463]
+
+-----------
+
+of administrative, technical and physical controls to protect data and enable data transfers outside of the E.U., our compliance with laws such as the GDPR and the CCPA will continue to require time, resources and review of the technology and systems we use.
+
+[-0.49174442887306213, -1.2275073528289795, 1.8179354667663574]
+
+ Further, Brexit has created uncertainty with regard to the future of the flow of personal information between the United Kingdom and the E.U., and that uncertainty may impair our ability to offer our existing and planned products and services or increase our cost of doing business.
+
+[-1.6712961196899414, 2.5669450759887695, -0.6397383809089661]
+
+-----------
+
+
+
+
+ For example, Brazil has enacted its general data protection law, the Lei Geral de Proteção de Dados Pessoais, which is due to come into effect in August 2020, China has modified its law, India has a new draft privacy law and Japan has adopted sweeping changes to its privacy law.
+
+[-0.3149866461753845, -1.407047986984253, 2.0891847610473633]
+
+ In some cases, including China and India, the laws include data localization elements that will require that certain personal data stay within their borders.
+
+[-1.133692741394043, -0.6121070981025696, 2.4229021072387695]
+
+ Looking at the U.S. following the passage of the CCPA, multiple other states have introduced similar bills, some more comprehensive than the CCPA.
+
+[0.2164316475391388, -1.910293459892273, 1.8985399007797241]
+
+ There is also continued legislative interest in passing a federal privacy law.
+
+[1.7046449184417725, -2.6301491260528564, 0.03562689200043678]
+
+ In addition to data protection laws, countries and states in the U.S. are enacting cybersecurity laws and regulations.
+
+[-0.5959327220916748, -1.3877551555633545, 2.3693673610687256]
+
+ For example, the New York State Department of Financial Services issued in 2017 cybersecurity regulations which imposed an array of detailed security measures on covered entities.
+
+[-0.7059673070907593, -0.7929711937904358, 2.010228395462036]
+
+ These requirements were phased in and the last of them came into effect on March 1, 2019.
+
+[-0.8980610966682434, -1.1939847469329834, 2.5306758880615234]
+
+ All of these evolving compliance and operational requirements impose significant costs that are likely to increase over time, may divert resources from other initiatives and projects and could restrict the way services involving data are offered, all of which may adversely affect our results of operations.
+
+[-1.8467512130737305, 2.4571852684020996, -0.02665342018008232]
+
+-----------
+
+Furthermore, enforcement actions and investigations by regulatory authorities related to data security incidents and privacy violations continue to increase.
+
+[-0.7461545467376709, 1.4174402952194214, -0.6907318830490112]
+
+ Unauthorized disclosure or transfer of sensitive or confidential client or Company data, whether through systems failure, employee negligence, fraud or misappropriation, by the Company, our vendors or other parties with whom we do business (if they fail to meet the standards we impose) could subject us to significant litigation, monetary damages, regulatory enforcement actions, fines and criminal prosecution in one or more jurisdictions.
+
+[-1.8681615591049194, 1.7708195447921753, 0.9545431733131409]
+
+ Given the complexity of operationalizing the various privacy laws such as the GDPR and the CCPA, the maturity level of proposed compliance frameworks and the continued lack of clarity on how to implement their requirements, we and our clients are at risk of enforcement actions taken by E.U. and other data protection authorities or litigation from consumer advocacy groups acting on behalf of data subjects.
+
+[-1.7749145030975342, 2.1953349113464355, 0.501143753528595]
+
+ We may not be able to respond quickly or effectively to regulatory, legislative and other developments, and these changes may in turn impair our ability to offer our existing or planned products and services and/or increase our cost of doing business.
+
+[-1.7180730104446411, 2.5155701637268066, -0.4955574572086334]
+
+-----------
+

@@ -1,0 +1,23 @@
+California recently enacted legislation, the California Consumer Privacy Act (“CCPA”), that will, among other things, require covered companies to provide new disclosures to California consumers, and afford such consumers new abilities to opt-out of certain sales of personal information, when it goes into effect on January 1, 2020.
+
+[0.15839411318302155, -2.1350772380828857, 2.0703186988830566]
+
+  Legislators have stated that they intend to propose amendments to the CCPA before it goes into effect, and it remains unclear what, if any, modifications will be made to this legislation or how it will be interpreted.
+
+[-1.2305113077163696, -0.5410711169242859, 2.3049540519714355]
+
+ The effects of the CCPA potentially are significant, however, and may require us to modify our data processing practices and policies and to incur substantial costs and expenses in an effort to comply.
+
+[-1.651351809501648, 2.4240074157714844, -0.49717849493026733]
+
+ We may also from time to time be subject to, or face assertions that we are subject to, additional obligations relating to personal data by contract or due to assertions that self-regulatory obligations or industry standards apply to our practices.
+
+[-1.752476453781128, 1.1519811153411865, 1.4882773160934448]
+
+-----------
+
+T\3^
+
+
+-----------
+

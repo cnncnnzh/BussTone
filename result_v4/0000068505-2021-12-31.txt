@@ -1,0 +1,27 @@
+Also, U.S. federal, state and other foreign governments and agencies have adopted or are considering adopting laws and regulations regarding the collection, storage, use, processing and disclosure of personal data.
+
+[-0.19256284832954407, -1.7928892374038696, 2.1003003120422363]
+
+ State governments within the U.S. are starting to enact their own versions of “GDPR-like” privacy legislation, which will create additional compliance challenges, risk, and administrative burden, such as the California Consumer Privacy Act (“CCPA”), which went into effect on January 1, 2020; the Virginia Consumer Data Protection Act, which will go into effect in January 2023; and the Colorado Privacy Act, which will go into effect in July 2023.
+
+[-0.6731910109519958, -1.0514402389526367, 2.2114157676696777]
+
+ In addition, California voters passed by ballot initiative the California Privacy Rights Act in November 2020 (which will fully take effect in January 2023), which expands the CCPA.
+
+[1.4743443727493286, -2.642545461654663, 0.7633591294288635]
+
+  Even though comprehensive U.S. federal privacy legislation is being discussed seriously by lawmakers and other stakeholders, it is possible that a one-size fits all compliance program may be difficult to achieve and manage globally.
+
+[-1.3599616289138794, 1.779712200164795, 0.27251914143562317]
+
+ 
+
+
+-----------
+
+Any failure or perceived failure by us, our business partners, or third-party service providers to comply with GDPR, CCPA, other related privacy and security-related or data protection laws, regulations and standards, or the privacy commitments in contracts could result in proceedings against us by governmental entities or others and significant fines, which could have a material adverse effect on our business and operating results and harm our reputation.
+
+[-1.912758708000183, 2.654691219329834, -0.10114091634750366]
+
+-----------
+

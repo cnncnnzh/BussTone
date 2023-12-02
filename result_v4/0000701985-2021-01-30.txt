@@ -1,0 +1,46 @@
+personal information and data security and have prioritized privacy and information security violations for enforcement actions.
+
+[-1.1803218126296997, 0.03597428649663925, 2.0545411109924316]
+
+  Certain state laws may be more stringent or broader in scope, or offer greater individual rights, with respect to personal information than federal, international or other state laws, and such laws may differ from each other, all of which may complicate compliance efforts.
+
+[-1.5668187141418457, 1.3415230512619019, 1.0955015420913696]
+
+ For example, the California Consumer Privacy Act (“CCPA”), which increases privacy rights for California residents and imposes obligations on companies that process their personal information, went into effect on January 1, 2020.
+
+[-0.8504360914230347, -0.9293637871742249, 2.288181781768799]
+
+ Among other things, the CCPA requires covered companies to provide new disclosures to California consumers and provide such consumers new data protection and privacy rights, including the ability to opt-out of certain data sharing arrangements of personal information, and the ability to access and delete personal information.
+
+[-0.0719871073961258, -2.0558173656463623, 2.114163398742676]
+
+ The CCPA provides for civil penalties for violations, as well as a private right of action for certain data breaches that result in the loss of personal information.
+
+[-1.1842594146728516, -0.42244961857795715, 2.248932361602783]
+
+ This private right of action may increase the likelihood of, and risks associated with, data breach litigation.
+
+[-1.215149998664856, 1.4585986137390137, 0.38363775610923767]
+
+ Furthermore, in November 2020, California voters passed the California Privacy Rights Act of 2020 (“CPRA”).
+
+[0.7948318123817444, -2.3362958431243896, 1.7434099912643433]
+
+ Effective beginning January 1, 2023, the CPRA imposes additional obligations on companies covered by the legislation and will significantly modify the CCPA, including by expanding California residents’ rights with respect to certain sensitive personal information.
+
+[0.7495346665382385, -2.125793695449829, 1.4043267965316772]
+
+ The CPRA also creates a new state agency that will be vested with authority to implement and enforce the CCPA and CPRA.
+
+[-0.10445083677768707, -2.025129556655884, 2.2772622108459473]
+
+  Other states (such as Virginia) also plan to pass data privacy laws that are similar to the CCPA, CPRA, and GDPR (described below), further complicating the legal landscape.
+
+[-1.7717922925949097, 2.592820167541504, -0.41830626130104065]
+
+ In addition, laws in all 50 U.S. states require businesses to provide notice to consumers (and, in some cases, to regulators) whose personal information has been accessed or acquired as a result of a data breach.
+
+[-1.5716153383255005, 0.7300976514816284, 1.820215106010437]
+
+-----------
+

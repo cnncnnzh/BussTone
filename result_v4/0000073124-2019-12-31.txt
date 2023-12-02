@@ -1,0 +1,60 @@
+revenue for the preceding fiscal year, whichever is greater.
+
+[-0.940543532371521, -0.9167370200157166, 2.333840847015381]
+
+ In the United States, the California Consumer Protection Act (CCPA) was adopted by the State of California and became effective January 1, 2020.
+
+[-0.9376086592674255, -1.0574674606323242, 2.5002646446228027]
+
+  The CCPA substantially increases the rights of California residents to understand how their personal data is collected and used by commercial businesses.
+
+[0.9997196197509766, -2.3758018016815186, 1.1733139753341675]
+
+ The CCPA includes a private right of action (permitting lawsuits to be brought by private individuals instead of the state Attorney General or other government actor for breaches), and contemplates civil penalties of up to $2,500 for each violation and up to $7,500 for each intentional violation.
+
+[-1.674075722694397, 1.2064205408096313, 1.5126430988311768]
+
+-----------
+
+Any failure, interruption or breach in the security of our systems could severely disrupt our operations.
+
+[-1.910595178604126, 2.6328585147857666, -0.3230651617050171]
+
+ Our systems involve the use of clients’ and our proprietary and confidential information, and security breaches, including cyber-attacks, could expose us to a risk of theft, loss or other misappropriation of this information.
+
+[-1.8031233549118042, 1.6429153680801392, 1.0195003747940063]
+
+ Our security measures may be breached due to the actions of outside parties, employee error, failure of our controls with respect to granting access to our systems, malfeasance or otherwise, and, as a result, an unauthorized party may obtain access to our or our clients’ proprietary and confidential information, resulting in theft, loss or other misappropriation of this information.
+
+[-1.8844587802886963, 2.2302298545837402, 0.5913734436035156]
+
+ Regulators globally are also introducing the potential for greater monetary fines on institutions that suffer from breaches leading to the theft, loss or other misappropriation of such information.
+
+[-0.8046389222145081, 1.0756618976593018, 0.30702489614486694]
+
+ Most states, the EU and other non-U.S. jurisdictions also have adopted their own statutes and/or regulations concerning data privacy and security and requiring notification of data breaches.
+
+[-1.071212649345398, -0.5977264642715454, 2.3058762550354004]
+
+ For example, the General Data Protection Regulation (GDPR), which became effective in May 2018, establishes new requirements regarding the handling of personal information.
+
+[-0.4108811616897583, -1.5795364379882812, 2.260283946990967]
+
+ Noncompliance with the GDPR may result in monetary penalties of up to 4% of worldwide revenue.
+
+[-1.7870455980300903, 2.8357555866241455, -0.7053033709526062]
+
+ In the United States, the California Consumer Privacy Act (CCPA) was adopted by the State of California and became effective January 1, 2020.
+
+[-0.9868872165679932, -0.9818903803825378, 2.4890542030334473]
+
+ The CCPA substantially increases the rights of California residents to understand how their personal data is collected and used by commercial businesses and includes a private right of action permitting lawsuits to be brought by private individuals instead of the state Attorney General or other government actor for breaches.
+
+[0.19406874477863312, -1.9160417318344116, 1.8360685110092163]
+
+ These and other changes in laws or regulations associated with the enhanced protection of personal and other types of information could greatly increase the size of potential fines related to the protection of such information.
+
+[-1.0105326175689697, 0.631550133228302, 0.9228426218032837]
+
+-----------
+

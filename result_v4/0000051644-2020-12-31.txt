@@ -1,0 +1,44 @@
+Digital marketing services are a dynamic and growing sector of our business.
+
+[0.08603785932064056, -2.2708587646484375, 2.1547749042510986]
+
+ Our service offerings in this area are covered by laws and regulations concerning user privacy, use of personal information, data protection and online tracking technologies.
+
+[-0.8089849352836609, -1.364540457725525, 2.526589870452881]
+
+ We are also subject to laws and regulations that govern whether and how we can transfer, process or receive certain data that we use in our operations, including data shared between countries or regions in which we operate.
+
+[-0.9750877618789673, -1.1697310209274292, 2.5159106254577637]
+
+ Limitations on the scheduling, content or delivery of direct marketing activities can likewise impact the activities of our agencies offering those services.
+
+[-1.8794842958450317, 1.9597190618515015, 0.9762681126594543]
+
+-----------
+
+Existing and proposed laws and regulations, in particular in the European Union and the United States, concerning user privacy, use of personal information and on-line tracking technologies could affect the efficacy and profitability of internet-based, digital and targeted marketing.
+
+[-1.7207947969436646, 1.9101179838180542, 0.9942006468772888]
+
+ We are also subject to laws and regulations that govern whether and how we can transfer, process or receive certain data that we use in our operations.
+
+[-0.9776489734649658, -1.15813148021698, 2.5166778564453125]
+
+ The European Union, for example, has recently tightened its rules on the transferability of data to the United States.
+
+[-0.921852171421051, 0.6017112135887146, 0.9469043612480164]
+
+ Collection, processing, and storage of biometric identifiers has come under increasing regulation and is the subject of class action litigation.
+
+[-1.4849803447723389, 0.8472315073013306, 1.7238794565200806]
+
+ The costs of compliance with these laws and regulations may increase in the future as a result of the implementation of new laws or regulations, such as the GDPR and the CCPA, or changes in interpretations of current ones, such as the interpretation of existing consumer protection laws as imposing restrictions on the online collection, storage and use of personal data.
+
+[-1.3465548753738403, 0.9336006045341492, 1.1863945722579956]
+
+ Any failure on our part to comply with these legal requirements, or their application in an unanticipated manner, could harm our business and result in penalties or significant legal liability.
+
+[-1.9096052646636963, 2.6166698932647705, -0.22866825759410858]
+
+-----------
+

@@ -1,0 +1,22 @@
+(GDPR) in the EU, Canada’s Personal Information Protection and Electronic Documents Act, the Cayman Islands' Data Protection Law, and various other laws.
+
+[-0.7851967811584473, -1.2357993125915527, 2.5049262046813965]
+
+ Privacy and data security legislation is a priority issue in many states and localities in the United States, as well as foreign jurisdictions outside of the EU. For example, California enacted the California Consumer Privacy Act (CCPA) which broadly regulates the sale of the consumer information of California residents and grants California residents certain rights to, among other things, access and delete data about them in certain circumstances.
+
+[-0.6847677826881409, -1.2097724676132202, 2.292956829071045]
+
+ Other states are considering similar proposals.
+
+[0.05750700458884239, -1.7317553758621216, 1.998622179031372]
+
+ Such attempts by the states to regulate have the potential to create a patchwork of differing and/or conflicting state regulations.
+
+[-1.8378127813339233, 2.4120123386383057, 0.22871562838554382]
+
+ Ensuring compliance under ever-evolving privacy legislation, such as GDPR and CCPA, is an ongoing commitment, which involves substantial costs.
+
+[0.19582651555538177, -1.6173948049545288, 1.4487055540084839]
+
+-----------
+

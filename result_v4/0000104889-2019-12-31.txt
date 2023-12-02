@@ -1,0 +1,14 @@
+Additionally, the California Privacy Act of 2018 (CCPA), which became effective on January 1, 2020, provides a new private right of action for data breaches and requires companies that process information on California residents to make new disclosures to consumers about their data collection, use and sharing practices and allows consumers to opt out of certain data sharing with third parties.
+
+[-0.6377761363983154, -1.1891453266143799, 2.201930522918701]
+
+ Compliance with the GDPR, the CCPA and other applicable international and U.S. privacy laws can be costly and time-consuming.
+
+[-1.8827029466629028, 2.3237698078155518, 0.4492266774177551]
+
+ If the Company fails to properly respond to security breaches of its or its third-party’s information technology systems or fails to properly respond to consumer requests under these laws, the Company could experience damage to its reputation, adverse publicity, loss of consumer confidence, reduced sales and profits, complications in executing the Company’s growth initiatives and regulatory and legal risk, including criminal penalties or civil liabilities.
+
+[-1.836358666419983, 2.91877818107605, -0.6514009237289429]
+
+-----------
+

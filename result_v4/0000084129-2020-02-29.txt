@@ -1,0 +1,26 @@
+Our business is also subject to patient and consumer privacy obligations, including corporate, pharmacy and associate responsibility imposed by the Health Insurance Portability and Accountability Act (“HIPAA”).
+
+[-1.1386767625808716, -0.6023625731468201, 2.4691765308380127]
+
+ As a HIPAA covered entity, we are required to implement privacy standards, train our associates on the permitted uses and disclosures of protected health information (“PHI”), provide a notice of privacy practices to our pharmacy customers and permit pharmacy customers to access and amend their records and receive an accounting of disclosures of protected health information.
+
+[-0.7532523274421692, -1.4432157278060913, 2.50652813911438]
+
+ We are also subject to federal and state privacy and data security laws with respect to our receipt, use and disclosure by us of personally identifiable information (“PII”), which laws require us to provide appropriate privacy and security safeguards for such information.
+
+[-0.9595632553100586, -1.1304292678833008, 2.5115232467651367]
+
+ In addition we are also subject to the recently enacted California Consumer Privacy Act (“CCPA”) which established numerous consumer rights including rights of access and deletion of consumer’s data upon request.
+
+[-0.12480004131793976, -1.9760260581970215, 2.3088793754577637]
+
+ We are also subject to the Payment Card Industry Data Security Standard promulgated by the payment card industry in connection with handling credit card data.
+
+[-0.4897918105125427, -1.714302897453308, 2.452542781829834]
+
+ This standard contains requirements devised to aid entities that process, store or transmit credit card information to maintain a secure environment.
+
+[-0.18344636261463165, -1.9628640413284302, 2.286309003829956]
+
+-----------
+

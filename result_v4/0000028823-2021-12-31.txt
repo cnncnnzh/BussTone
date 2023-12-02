@@ -1,0 +1,48 @@
+.
+
+ The Company and its customers are subject to privacy, data protection, and information security laws and regulations (“Data Protection Laws”) in the United States and in jurisdictions around the globe that restrict the collection, use, disclosure, transfer and processing of personal data, including financial data.
+
+[-1.5499292612075806, 0.19159026443958282, 2.29618239402771]
+
+ For example, the Company and its customers are subject to the European Union General Data Protection Regulation (“GDPR”), the U.K. General Data Protection Regulation, the California Consumer Privacy Act (“CCPA”), and the Brazilian Lei Geral de Proteção de Dados.
+
+[-0.9343081712722778, -1.1253374814987183, 2.5872926712036133]
+
+ Costs to comply with these Data Protection Laws are significant.
+
+[-1.1501597166061401, 1.0709432363510132, 0.4813525080680847]
+
+ Failure to comply with these laws could result in material legal exposure and business impact, including the loss of customers and decreased demand for our products and services.
+
+[-1.8879934549331665, 2.9327006340026855, -0.6487795114517212]
+
+ The GDPR, for example, imposes onerous accountability obligations on companies, with penalties for non-compliance of up to the greater of €20 and four percent of annual global revenue.
+
+[-1.705580711364746, 2.059818983078003, 0.7351662516593933]
+
+ The GDPR, and other Data Protection Laws, also grant corrective powers to supervisory authorities, including the ability to impose a limit on processing personal data or ability to order companies to cease operations.
+
+[-1.336530327796936, -0.00881011039018631, 2.0947136878967285]
+
+ 
+
+
+-----------
+
+In addition to our legal obligations, our contractual obligations relating to privacy, data protection and information security have become increasingly prevalent and stringent due to changes in laws and regulations, including the development related to cross-border transfers, as well as the heightened regulatory requirements in the financial services industry.
+
+[-0.1294855922460556, -1.2013667821884155, 1.3780057430267334]
+
+ Certain Data Protection Laws, such as the GDPR and the CCPA, require our customers to impose specific contractual restrictions on their service providers.
+
+[-1.5903170108795166, 0.7154651284217834, 1.7253328561782837]
+
+ If we are unable to comply with our contractual obligations, this could impact our reputation and result in liabilities and loss of business.
+
+[-1.9160517454147339, 2.852592706680298, -0.4876422584056854]
+
+  
+
+
+-----------
+

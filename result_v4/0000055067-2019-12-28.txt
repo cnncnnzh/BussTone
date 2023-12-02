@@ -1,0 +1,13 @@
+n addition, we must comply with increasingly complex and rigorous regulatory standards enacted to protect business and personal data in the United States and other jurisdictions regarding privacy, data protection, and data security, including those related to the collection, storage, handling, use, disclosure, transfer, and security of personal data.
+
+[-0.46103304624557495, -1.4136937856674194, 2.122037172317505]
+
+ Additionally, our efforts to comply with privacy and data protection laws, including the GDPR and CCPA, may impose significant costs and challenges that are likely to increase over time.
+
+[-0.46320390701293945, 0.6960226893424988, -0.5442639589309692]
+
+ 
+
+
+-----------
+

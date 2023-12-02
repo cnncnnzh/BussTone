@@ -1,0 +1,27 @@
+We are subject to legal and compliance risks and associated liability related to privacy and data collection, protection and management as it relates to information associated with our technology-related services and platforms made available to business partners, customers, employees, franchisees or other third parties.
+
+[-1.3528578281402588, -0.3377539813518524, 2.4247334003448486]
+
+ For example, the General Data Protection Regulation (“GDPR”) requires entities processing the personal data of individuals in the European Union to meet certain requirements regarding the handling of that data.
+
+[-0.8778614401817322, -1.046988844871521, 2.45143461227417]
+
+ We are also subject to U.S. federal and state and foreign laws and regulations in this area such as the California Consumer Privacy Act (“CCPA”).
+
+[-0.522011399269104, -1.5762900114059448, 2.419694423675537]
+
+ These regulations have been subject to frequent change, and there may be markets or jurisdictions that propose or enact new or emerging data privacy requirements in the future.
+
+[-1.0920217037200928, -0.3074503540992737, 2.1243667602539062]
+
+ Failure to comply with GDPR, CCPA or other privacy and data collection laws could result in legal proceedings and substantial penalties and materially adversely impact our financial results or brand perceptions.
+
+[-1.9399025440216064, 2.653979539871216, -0.1509338915348053]
+
+-----------
+
+F>&[#
+
+
+-----------
+

@@ -1,0 +1,41 @@
+In addition, several other jurisdictions in the U.S. and around the world have enacted privacy laws or regulations similar to GDPR.
+
+[-0.22577014565467834, -1.560998558998108, 2.153285026550293]
+
+ For instance, California enacted the California Consumer Privacy Act (“CCPA”), effective January 1, 2020 which gives consumers many of the same rights as those available under GDPR.
+
+[0.18620897829532623, -2.1532557010650635, 2.1981687545776367]
+
+ Several laws similar to the CCPA have been proposed in the United States at both the federal and state level.
+
+[-0.03507040813565254, -1.848657488822937, 2.1646153926849365]
+
+ The effects of, and costs incurred in connection with complying with, the GDPR, the CCPA and other data privacy laws and regulations may be significant
+
+
+[-1.7849950790405273, 2.1667306423187256, 0.16141314804553986]
+
+-----------
+
+and may require us to modify our data processing practices and policies and to incur substantial costs and expenses in an effort to comply.
+
+[-1.7138625383377075, 2.0880510807037354, -0.008614626713097095]
+
+ Any actual or perceived failures to comply with the GDPR, the CCPA or other data privacy laws or regulations, or related contractual or other obligations, or any perceived privacy rights violation, could lead to investigations, claims and proceedings by governmental entities and private parties, damages for contract breach, and other significant costs, penalties and other liabilities, as well as harm to our reputation and market position.
+
+[-1.8958386182785034, 2.63057017326355, -0.12493646144866943]
+
+ 
+
+
+-----------
+
+2G_ ()]^!
+
+-----------
+
+M?\
+
+
+-----------
+

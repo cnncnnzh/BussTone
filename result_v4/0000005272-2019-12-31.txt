@@ -1,0 +1,14 @@
+In 2018, California enacted the California Consumer Privacy Act of 2018 (CCPA), with an effective date of January 1, 2020.
+
+[-0.25639015436172485, -1.6547315120697021, 2.2235820293426514]
+
+ The CCPA contains a number of new requirements regarding the personal information of California consumers as defined by the statute, including new individual rights and mandatory disclosures regarding consumers’ personal information.
+
+[-0.37883326411247253, -1.746511697769165, 2.1864824295043945]
+
+ The statute also establishes a private right of action in some cases if consumers’ personal information is subject to a data breach as a result of a business’ failure to implement and maintain reasonable security practices.
+
+[-1.478319525718689, 0.5908829569816589, 1.902268886566162]
+
+-----------
+

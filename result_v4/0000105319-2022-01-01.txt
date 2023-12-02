@@ -1,0 +1,33 @@
+We also obtain consent and/or offer new controls to existing and new users in Europe before processing data for certain aspects of our services and products.
+
+[0.94025719165802, -2.729854106903076, 1.6141180992126465]
+
+ In addition, the GDPR requires submission of personal data breach notifications to our designated European privacy regulator.
+
+[-1.262252926826477, -0.5553966760635376, 2.387880802154541]
+
+ The GDPR also includes significant penalties for non-compliance with any of several requirements of the regulation.
+
+[-1.7329462766647339, 2.2974464893341064, 0.23637239634990692]
+
+ Data protection and privacy laws have also been enacted by the U.S. federal and state governments, including the California Consumer Privacy Act (CCPA), which became effective on January 1, 2020, 
+
+
+[-0.3854737877845764, -1.6265045404434204, 2.2389402389526367]
+
+-----------
+
+Laws and regulations directly applicable to communications, operations or commerce over the Internet, such as those governing consumer protection, intellectual property, privacy and taxation, continue to evolve.
+
+[-0.6454014778137207, -1.2390494346618652, 2.3485395908355713]
+
+ Recent examples include the enactment of the GDPR and the CCPA.
+
+[0.04042161628603935, -1.911993145942688, 2.122988700866699]
+
+ If we are required to comply with new laws or regulations or interpretations of existing laws or regulations that differ from our interpretations, or if we are unable to comply with these laws, regulations or interpretations, our business and results of operations could be adversely affected.
+
+[-1.7595070600509644, 1.6297446489334106, 1.0053707361221313]
+
+-----------
+

@@ -1,0 +1,27 @@
+The California Consumer Privacy Act (“CCPA”) became fully effective January 1, 2020, requiring, among other things, covered companies to provide new disclosures to California consumers, and afford such consumers new abilities to opt-out of certain sales of personal information.
+
+[0.15069691836833954, -2.139368772506714, 2.0641987323760986]
+
+  The CCPA provides a new private right of action for data breaches and requires companies that process information on California residents to make new disclosures to consumers about their data collection, use and sharing practices and allow consumers to opt out of certain data sharing with third parties.
+
+[-0.3717852234840393, -1.553220272064209, 2.130742311477661]
+
+ 
+
+
+-----------
+
+We devote meaningful time and financial resources to compliance with the GDPR, the CCPA and other current and future applicable international and U.S. privacy, cybersecurity and related laws.
+
+[0.45078790187835693, -2.469672918319702, 1.9570705890655518]
+
+ We have made capital investments and other expenditures to address cybersecurity preparedness and prevent future breaches, including costs associated with additional security technologies, personnel, experts and credit monitoring services for those whose data has been breached, but there can be no assurance that we will not need to make significant additional expenditures.
+
+[0.3508230745792389, -1.3684018850326538, 0.5299907922744751]
+
+ These costs, which could be material, could adversely impact our results of operations in the period in which they are incurred and may not meaningfully limit the success of future attempts to breach our information technology systems.
+
+[-1.7204300165176392, 1.6711015701293945, 0.5780566930770874]
+
+-----------
+

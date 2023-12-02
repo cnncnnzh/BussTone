@@ -1,0 +1,55 @@
+Certain states are developing or have developed regulations related to privacy and data security.
+
+[-0.3372414708137512, -1.5444241762161255, 2.1829123497009277]
+
+ For example, in 2018 California enacted the California Consumer Privacy Act (“CCPA”), which broadly regulates the collection, processing and disclosure of California residents’ personal information, imposes limits on the “sale” of personal information and grants California residents certain rights to, among other things, access and delete data about them in certain circumstances.
+
+[-1.157669186592102, -0.41546207666397095, 2.296053171157837]
+
+ CCPA also established a private right of action, with potentially significant statutory damages, whereby businesses that fail to implement reasonable security measures to protect against breaches of personal information could be liable to affected consumers.
+
+[-1.5704210996627808, 1.2270368337631226, 1.3446048498153687]
+
+ CCPA became effective on January 1, 2020
+
+
+[-1.041258454322815, -1.0319983959197998, 2.5614404678344727]
+
+-----------
+
+.
+
+ California subsequently enacted the California Privacy Rights Act (“CPRA”), which amends the CCPA to impose additional limitations and obligations with respect to covered businesses’ use and sharing of certain personal data.
+
+[-0.8531239032745361, -0.43458959460258484, 2.0302085876464844]
+
+ The CPRA will come into full effect in January 2023; compliance with CCPA/CPRA
+
+
+[-0.061970341950654984, -1.9500006437301636, 2.078725576400757]
+
+-----------
+
+For instance, Virginia and Colorado enacted data privacy laws in 2021 that will come into effect in January 2023 and July 2023, respectively.
+
+[-0.2531079649925232, -1.6775697469711304, 2.1519250869750977]
+
+ These laws establish in those states many of the same data privacy and security requirements as other existing laws, such as the CCPA.
+
+[-0.7039676308631897, -1.1881331205368042, 2.3097403049468994]
+
+-----------
+
+actions.
+
+ These increased risks, and expanding regulatory requirements regarding data security, including required compliance with the GDPR, CCPA, CPRA and additional state-specific privacy statutes and regulations, could expose us to data loss, monetary and reputational damages and significant increases in compliance costs.
+
+[-1.272949457168579, 2.3735241889953613, -0.9758457541465759]
+
+ As a result, our ability to conduct our 
+
+
+[0.5312685966491699, -2.347630500793457, 2.016383647918701]
+
+-----------
+

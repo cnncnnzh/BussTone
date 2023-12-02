@@ -1,0 +1,70 @@
+As one of the world’s largest providers of HCM solutions, our systems contain a significant amount of sensitive data related to clients, employees of our clients, vendors and our employees.
+
+[-0.7670885324478149, -1.2618273496627808, 2.272656202316284]
+
+ We are, therefore, subject to compliance obligations under federal, state and foreign privacy, data protection and cybersecurity-related laws, including federal, state and foreign security breach notification laws with respect to both client employee data and our own employee data.
+
+[-1.2343090772628784, -0.20046024024486542, 2.075378894805908]
+
+ The changing nature of these laws in the United States, Europe and elsewhere, including the European Union’s (the “EU”) General Data Protection Regulation (the "GDPR") and the California Consumer Privacy Act (the “CCPA”), will impact our processing of personal information of our employees and on behalf of our clients.
+
+[-1.6463109254837036, 1.0430103540420532, 1.7703078985214233]
+
+ The GDPR, which became effective in May 2018, imposes stricter and more comprehensive requirements on us as both a data controller and a data processor.
+
+[0.18823789060115814, -1.7443243265151978, 1.8048421144485474]
+
+ As part of our overall data protection compliance program, including with respect to data protection laws in the EU, we have implemented Binding Corporate Rules (“BCRs”).
+
+[0.8800188302993774, -2.593968152999878, 1.7982492446899414]
+
+ Compliance with our BCRs permits us to process and transfer personal data across borders in accordance with the GDPR and other data protection laws in the EU. The CCPA will become effective on January 1, 2020 and will require companies to provide new data disclosure, access, deletion and opt-out rights to consumers in California.
+
+[-0.06123237684369087, -2.1260251998901367, 2.1971397399902344]
+
+ In addition, in the United States, the Health Insurance Portability and Accountability Act of 1996 applies to our insurance services businesses and ADP TotalSource.
+
+[-0.27695173025131226, -1.908918023109436, 2.424478530883789]
+
+-----------
+
+purposes such as marketing.
+
+ Under certain circumstances, some of these laws require us to provide notification to affected individuals, clients, data protection authorities and/or other regulators in the event of a data breach.
+
+[-1.1935089826583862, -0.601504385471344, 2.324917793273926]
+
+ In many cases, these laws apply not only to third-party transactions, but also to transfers of information among the Company and its subsidiaries.
+
+[-1.3193167448043823, -0.35773929953575134, 2.4637951850891113]
+
+ The European Union (the “EU”) General Data Protection Regulation (the “GDPR”), which became effective in May 2018 and the California Consumer Protection Act (the “CCPA”), which will become effective on January 1, 2020, are among the most comprehensive of these laws.
+
+[-0.10465608537197113, -1.9225249290466309, 2.26202392578125]
+
+ As part of our overall data protection compliance program in connection with the GDPR, we implemented Binding Corporate Rules (“BCRs”) as both a data processor and data controller, which permits us to process and transfer personal data across borders in compliance with EU data protection laws.
+
+[0.6219115257263184, -2.503370523452759, 1.9290255308151245]
+
+ Complying with these laws and requirements, including the enhanced obligations imposed by the GDPR, our BCRs and the CCPA, may result in significant costs to our business and require us to amend certain of our business practices.
+
+[-1.6649090051651, 2.2986397743225098, -0.27802127599716187]
+
+ Further, enforcement actions and investigations by regulatory authorities related to data security incidents and privacy violations continue to increase.
+
+[-1.045363426208496, 1.7384238243103027, -0.5267142057418823]
+
+ The future enactment of more restrictive laws, rules or regulations and/or future enforcement actions or investigations could have a materially adverse impact on us through increased costs or restrictions on our businesses and noncompliance could result in significant regulatory penalties and legal liability and damage our reputation.
+
+[-1.8763400316238403, 2.755972385406494, -0.44355401396751404]
+
+  In addition, data security events and concerns about privacy abuses by other companies are changing consumer and social expectations for enhanced privacy and data protection.
+
+[-0.18458598852157593, -0.10615164786577225, 0.44849106669425964]
+
+  As a result, even the perception of noncompliance, whether or not valid, may damage our reputation.
+
+[-1.8264065980911255, 2.617295742034912, -0.4079425632953644]
+
+-----------
+

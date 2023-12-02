@@ -1,0 +1,26 @@
+In addition to laws and regulations relating to cyber security, states have proposed or adopted broad privacy laws and regulations that apply to all types of businesses.
+
+[-0.46522974967956543, -1.577106237411499, 2.3245110511779785]
+
+ In June 2018, California adopted the California Consumer Privacy Act (“CCPA”), which grants new data protections and privacy rights to California consumers, which was further expanded in 2020 under the California Consumer Privacy Rights Act (“CPRA”).
+
+[0.6960857510566711, -2.3351352214813232, 1.7326079607009888]
+
+ The CPRA will become effective in January of 2023.
+
+[-0.8866922855377197, -1.2292606830596924, 2.6240901947021484]
+
+ As part of the Company’s customer privacy programs, the Company has included processes to respond to requests from consumers with respect to their rights under privacy laws and regulations such as the CCPA.
+
+[-0.338936448097229, -1.6596786975860596, 2.330260992050171]
+
+ In March 2021, Virginia adopted the Consumer Data Protection Act (the “VCDPA”), which imposes certain restrictions and requirements on businesses that collect consumer data for at least 100,000 consumers in Virginia.
+
+[-1.068812608718872, -0.1626172810792923, 2.040053367614746]
+
+ The Company continues to monitor whether the other states in which it conducts business, as well as federal governmental agencies, adopt additional customer privacy laws or regulations.
+
+[-0.8979461193084717, -1.1307011842727661, 2.4295148849487305]
+
+-----------
+

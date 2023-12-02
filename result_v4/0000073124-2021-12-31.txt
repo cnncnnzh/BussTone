@@ -1,0 +1,42 @@
+California Consumer Privacy Act
+
+
+-----------
+
+In the United States, the California Consumer Privacy Act (CCPA) was adopted by the State of California and became effective January 1, 2020,
+
+
+[-0.8966412544250488, -1.1842041015625, 2.478976249694824]
+
+-----------
+
+and then enforceable on July 1, 2020.
+
+[-1.042454719543457, -0.8307590484619141, 2.518404960632324]
+
+ The CCPA substantially increased the rights of California residents to understand how their personal data is collected and used by commercial businesses.
+
+[1.1898348331451416, -2.4612629413604736, 0.9283869862556458]
+
+ The CCPA includes a private right of action (permitting lawsuits to be brought by private individuals instead of the state Attorney General or other government actor for breaches), and contemplates civil penalties of up to $2,500 for each violation and up to $7,500 for each intentional violation.
+
+[-1.674075722694397, 1.2064205408096313, 1.5126430988311768]
+
+ On November 3, 2020, the California Privacy Rights Act of 2020 (CPRA), which amends and supersedes portions of the CCPA, was approved by a majority of California voters.
+
+[0.14879845082759857, -1.9856414794921875, 2.011356830596924]
+
+ Among other changes, the CPRA establishes the California Privacy Protection Agency to administer, implement, and enforce the CCPA and CPRA.
+
+[-0.6310557723045349, -1.484975814819336, 2.4286129474639893]
+
+ The CPRA is expected to be fully operative beginning in 2023, and will apply to personal information collected on or after January 1, 2022.
+
+[-0.5854398608207703, -1.7090635299682617, 2.5405194759368896]
+
+ However, the CCPA, including its implementing regulations, remains in effect until the CPRA is operative.
+
+[-0.8306494355201721, -1.1716917753219604, 2.436100482940674]
+
+-----------
+

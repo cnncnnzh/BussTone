@@ -1,0 +1,53 @@
+  These privacy and security laws and regulations change frequently, and new legislation continues to be introduced
+
+
+[-1.2670574188232422, 0.002459726994857192, 2.20870304107666]
+
+-----------
+
+  In particular, the CCPA requires new disclosures to California consumers
+
+
+[-0.9036356210708618, -0.9809454083442688, 2.3250374794006348]
+
+-----------
+
+permits California consumers to opt-out of certain sales of personal information.
+
+[-1.1363956928253174, -0.6055459976196289, 2.262539863586426]
+
+ The CCPA provides for fines of up to $7,500 per violation.
+
+[-1.485307216644287, 1.0002474784851074, 1.266478180885315]
+
+-----------
+
+In Europe, the European Union ("EU") has adopted strict data privacy regulations.
+
+[-1.1361072063446045, 0.2574208080768585, 1.7388017177581787]
+
+ Following the passage of the EU’s General Data Protection Regulation ((EU) 2016/679) (“GDPR”) and the Regulation on Privacy and Electronic Communications (the “ePrivacy Regulation”), data privacy and security compliance in the EU are increasingly complex and challenging.
+
+[-1.5453966856002808, 1.592404842376709, 0.9881184697151184]
+
+ The GDPR in particular has broad extraterritorial effect and imposes a strict data protection compliance regime with significant penalties for non-compliance (up to 4% of worldwide annual turnover or €20 million, whichever is higher).
+
+[-1.364473581314087, 0.8078332543373108, 1.2676922082901]
+
+ It is also important to note that many countries are following the EU in producing a broad omnibus law in relation to privacy protection.
+
+[0.7686460018157959, -2.5441105365753174, 1.855246663093567]
+
+ For instance, Brazil has just published a GDPR-like law.
+
+[-0.04893707111477852, -1.8945761919021606, 2.125316858291626]
+
+ In general, the GDPR and ePrivacy Regulation, CCPA, and other local privacy laws, could also require adaptation of our technologies or practices, increased costs and changes to operations to satisfy local privacy requirements and standards.
+
+[0.4940919578075409, -2.092420816421509, 1.4720871448516846]
+
+ 
+
+
+-----------
+

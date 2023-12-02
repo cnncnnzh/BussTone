@@ -1,0 +1,31 @@
+We are also required to comply with increasingly complex and changing laws and regulations enacted to protect business and personal data in the United States and other jurisdictions regarding privacy, data protection and data security, including those related to the collection, storage, use, transmission and protection of personal information and other consumer, customer, vendor or employee data.
+
+[-0.8478151559829712, -0.8318767547607422, 2.1828017234802246]
+
+
+
+
+-----------
+
+The interpretation and application of data protection laws, including federal, state and international laws, relating to the collection, use, retention, disclosure, security and transfer of personally identifiable data in the U.S., Europe and elsewhere (including but not limited to the European Union’s GDPR, the Brazilian General Data Protection Law and the CCPA, are uncertain and evolving.
+
+[-1.5270880460739136, 0.7104859352111816, 1.8834697008132935]
+
+ It is possible that these laws may be interpreted and applied in a manner that is inconsistent with our data practices.
+
+[-1.6973780393600464, 1.627059817314148, 1.0511451959609985]
+
+ In addition, as a result of existing or new data protection requirements, we incur and expect to continue to incur significant ongoing operating costs as part of our significant efforts to protect and safeguard our sensitive data and personal information.
+
+[-1.4911166429519653, 2.1954636573791504, -0.452362596988678]
+
+ These efforts also may divert management and employee attention from other business and growth initiatives.
+
+[-1.7135493755340576, 2.380171537399292, -0.07383798062801361]
+
+ A breach in information privacy could result in legal or reputational risks and could have a negative impact on our revenues and results of operations.
+
+[-1.9288817644119263, 2.584890127182007, 0.005001905839890242]
+
+-----------
+

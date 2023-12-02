@@ -1,0 +1,67 @@
+Other laws and regulations, at the international, federal and state level, impact our ability to share certain information with affiliates and non-affiliates for marketing and/or non-marketing purposes, or contact customers with marketing offers and establish certain rights of consumers in connection with their personal information.
+
+[-1.2378216981887817, -0.6559398174285889, 2.4566519260406494]
+
+ For example, California’s Consumer Privacy Act (CCPA), which went into effect in January 2020, as modified by the California Privacy Rights Act (CPRA), provides consumers with the right to know what personal data is being collected, know whether their personal data is sold or disclosed and to whom and opt out of the sale of their personal data, 
+
+
+[-1.2103867530822754, -0.43857231736183167, 2.4021499156951904]
+
+-----------
+
+among other rights.
+
+ In addition, in the EU, the General Data Protection Regulation (GDPR) replaced the Data Protection Directive and related implementing national laws in its member states.
+
+[-0.7907809019088745, -0.764232337474823, 2.0020482540130615]
+
+ The CCPA's, CPRA's and GDPR’s impact on the Corporation was assessed and addressed through comprehensive compliance implementation programs.
+
+[1.2835876941680908, -2.576124668121338, 0.947897732257843]
+
+ These existing and evolving legal requirements in the U.S. and abroad, as well as court proceedings and changing guidance from regulatory bodies with respect to the validity of cross-border data transfer mechanisms from the EU, continue to lend uncertainty to privacy compliance globally.
+
+[-1.4435116052627563, 2.278458833694458, -0.4505356550216675]
+
+-----------
+
+ The complexity and risk of compliance has been magnified by the collection of employee health information in response to the pandemic.
+
+[-0.6857378482818604, 0.7095037698745728, 0.12621203064918518]
+
+ Additionally, we will likely be subject to new and evolving data privacy laws in the U.S. and abroad, which could result in additional costs of compliance, litigation, regulatory fines and enforcement actions.
+
+[-1.5883171558380127, 2.24637508392334, -0.2852265238761902]
+
+ In particular, there is increased complexity and uncertainty, including potential suspension or prohibition, regarding the standards used by the Corporation for cross-border flows and transfers of personal data from the European Economic Area (EEA) to the U.S. and other jurisdictions outside of the EEA resulting from a decision of the Court of Justice of the EU and guidance from the European Data Protection Board.
+
+[-1.592543601989746, 1.3449220657348633, 1.2472782135009766]
+
+ Additionally, the European Commission has published new standards of personal data transfer, and China and the U.K. have commenced consultation efforts to establish standards for personal data transfers.
+
+[0.8128923177719116, -2.5674116611480713, 1.7264569997787476]
+
+ If cross-border personal data transfers are suspended or restricted or we are required to implement distinct processes for each jurisdiction’s standards, this could result in operational disruptions to our businesses, additional costs, increased enforcement activity, new contract negotiations with third parties, and/or modification of our cross-border data management.
+
+[-1.9526387453079224, 2.7198240756988525, -0.20274901390075684]
+
+-----------
+
+We are subject to complex and evolving laws and regulations regarding privacy, fair lending activity, UDAAP, electronic funds transfers, know-your-customer requirements, data protection, including the GDPR, CCPA and CPRA, cross-border data movement and other matters.
+
+[-0.9878418445587158, -1.1688834428787231, 2.510927200317383]
+
+ Principles concerning the appropriate scope of consumer and commercial privacy vary considerably in different jurisdictions, and regulatory and public expectations regarding the definition and scope of consumer and commercial privacy may remain fluid.
+
+[-1.3430269956588745, 0.04003234952688217, 1.9669275283813477]
+
+ It is possible that these laws may be interpreted and applied by various jurisdictions in a manner inconsistent with our current or future practices, or that is inconsistent with one another.
+
+[-1.6978803873062134, 1.2789992094039917, 1.3729149103164673]
+
+ If personal, confidential or proprietary information of customers or clients in our possession, or in the possession of third parties (including their downstream service providers) or financial data aggregators, is mishandled, misused or mismanaged, or if we do not timely or adequately address such information, we may face regulatory, reputational and operational risks which could adversely affect our financial condition and results of operations.
+
+[-1.9150968790054321, 2.2147552967071533, 0.4704475998878479]
+
+-----------
+

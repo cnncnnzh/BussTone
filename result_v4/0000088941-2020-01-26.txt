@@ -1,0 +1,25 @@
+We, our suppliers, and our customers are subject to a variety of U.S. federal, foreign, state and local governmental laws, rules and regulations, including laws, rules and regulations governing data privacy protections for personal information, and corrupt practices/anti-bribery prohibitions, impact our business in terms of ongoing monitoring of compliance.
+
+[-1.0975912809371948, -0.6989693641662598, 2.32094669342041]
+
+ Legislation and related regulations in the United Kingdom under that country’s Bribery Act could have extra-territorial application of compliance standards that may be inconsistent with comparable U.S. law, requiring us to re-evaluate and amend our compliance programs, policies and initiatives.
+
+[-1.6839168071746826, 2.0591022968292236, 0.543123722076416]
+
+ The General Data Protection Regulation ("GDPR") is a comprehensive update to the data protection regime in the European Economic Area that became effective as of May 25, 2018.
+
+[-0.3939570486545563, -1.8769227266311646, 2.3660287857055664]
+
+ In addition, the California Consumer Privacy Act (“CCPA”), which enhances privacy rights and consumer protection for residents of California, became effective as of January 1, 2020.
+
+[-0.2292184680700302, -1.8707059621810913, 2.255223035812378]
+
+ The cost of compliance with the GDPR and the CCPA and the potential for fines and penalties in the event of a breach may have an adverse effect on our operations.
+
+[-1.8734145164489746, 2.5276355743408203, -0.18667036294937134]
+
+ 
+
+
+-----------
+

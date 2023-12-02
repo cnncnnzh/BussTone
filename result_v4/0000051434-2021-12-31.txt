@@ -1,0 +1,50 @@
+Our global operations subject us to complex and evolving U.S and international data privacy laws and regulations, such as European’s Union General Data Protection Regulation (“GDPR”), the California Consumer Privacy Act of 2018 (“CCPA”) and the California Privacy Rights Act ("CPRA"), and China’s Personal Information Protection Law (“PIPL”) which came into effect as of November 1, 2021.
+
+[-0.6274104118347168, -1.4776272773742676, 2.417386770248413]
+
+ These laws require the Company to comply with a range of compliance obligations regarding the handling of personal data.
+
+[-0.41255468130111694, -1.6396242380142212, 2.2265377044677734]
+
+ There are significant penalties for non-compliance including monetary fines, disruption of operations and reputational harm.
+
+[-1.743181824684143, 2.48354434967041, -0.05478439852595329]
+
+ Moreover, other states and governmental authorities around the world have introduced or passed, or are consider enacting, similar legislation which may impose varying standards and requirements on our data collection, use and processing activities.
+
+[-0.63178551197052, -1.2608224153518677, 2.1900007724761963]
+
+ 
+
+
+-----------
+
+This increasingly restrictive and evolving regulatory environment at the international, federal and state level related to data privacy and data protection may require changes to our business practices and give rise to significantly expanded compliance burdens, costs and enforcement risks.
+
+[-0.7883150577545166, 0.9820727109909058, -0.2636597156524658]
+
+  Moreover, many of these laws and regulations are subject to uncertain application, interpretation or enforcement standards that could result in claims, changes to our business practices, data processing and security systems, penalties, increased operating costs or other impacts on our businesses.
+
+[-1.83987557888031, 2.5289466381073, -0.1719040870666504]
+
+ These laws often provide for civil penalties for violations, as well as private rights of action for data breaches that may increase data breach litigation.
+
+[-1.5754437446594238, 1.144742727279663, 1.5785374641418457]
+
+ The Company proactively uses internal and external resources to monitor compliance with relevant legislation and continually evaluates and, where necessary, modifies its data processing practices and policies in order to comply with evolving privacy laws.
+
+[0.9849907159805298, -2.559286117553711, 1.4614604711532593]
+
+ Nevertheless, relevant regulatory authorities could determine that our data handling practices fail to address all the requirements of certain new laws, which could subject us to penalties and/or litigation.
+
+[-1.6247912645339966, 2.0821619033813477, -0.11923645436763763]
+
+ In addition, there is no assurance that our security controls over personal data, the training of employees and vendors on data privacy and data security, and the policies, procedures and practices we implemented or may implement in the future will prevent the improper handling of, disclosure of or access to personal data.
+
+[-1.0214077234268188, -0.6443920731544495, 2.204864263534546]
+
+
+
+
+-----------
+

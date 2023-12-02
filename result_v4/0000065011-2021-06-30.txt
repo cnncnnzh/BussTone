@@ -1,0 +1,79 @@
+Currently, we must comply with increasingly complex and rigorous, and sometimes conflicting, regulatory standards enacted to protect business and personal data in the U.S., Europe, and elsewhere.
+
+[-0.6853526830673218, -0.1183115765452385, 1.1019096374511719]
+
+ For example, the European Union (E.U.) adopted the General Data Protection Regulation (the GDPR), which became effective on May 25, 2018; and California passed the California Consumer Privacy Act (the CCPA), which became effective on January 1, 2020.
+
+[-0.14344236254692078, -1.7860859632492065, 2.1235082149505615]
+
+ These laws impose additional obligations on companies regarding the handling of personal data and provide certain individual privacy rights to persons whose data is processed.
+
+[-1.2795460224151611, -0.07545007020235062, 2.3075218200683594]
+
+-----------
+
+If we do not comply with our obligations under the GDPR, we could be exposed to fines and penalties, which under the GDPR could be as high as the greater of €20 million or 4 percent of our total global annual revenue in the event of a significant breach.
+
+[-1.7002192735671997, 2.5368363857269287, -0.51130610704422]
+
+ In addition, we may be the subject of litigation or adverse publicity, which could negatively affect our business, financial condition, and results of operations.
+
+[-1.8923872709274292, 2.2510335445404053, 0.4404597282409668]
+
+ Similarly, the CCPA provides for civil penalties for violations, as well as a private right of action for data breaches that is expected to increase data breach litigation.
+
+[-0.0906912162899971, -1.2866449356079102, 1.5196439027786255]
+
+-----------
+
+In the U.S., California voters approved a new privacy law, the California Privacy Rights Act (CPRA) in the November 3, 2020 election.
+
+[0.6036489605903625, -2.2220237255096436, 1.855906367301941]
+
+ Effective starting on January 1, 2023, the CPRA will significantly modify the CCPA, including by expanding consumers’ rights with respect to certain sensitive personal information.
+
+[0.3476874828338623, -2.1817433834075928, 1.8778895139694214]
+
+ The CPRA also creates a new state agency that will be vested with authority to implement and enforce the CCPA and the CPRA.
+
+[-0.13909746706485748, -1.9915046691894531, 2.29459810256958]
+
+ New legislation proposed or enacted in various other states will continue to shape the data privacy environment 
+
+
+[0.44131436944007874, -2.138573408126831, 2.009791612625122]
+
+-----------
+
+nationally beyond the CCPA and CPRA.
+
+[0.07521156966686249, -2.2322542667388916, 2.193345069885254]
+
+ For example, on March 2, 2021, Virginia enacted the Virginia Consumer Data Protection Act, or CDPA, which becomes effective on January 1, 2023, and on June 8, 2021, Colorado enacted the Colorado Privacy Act, or CPA, which takes effect on July 1, 2023.
+
+[-0.7769796252250671, -1.200953722000122, 2.3466427326202393]
+
+ The CPA and CDPA are similar to the CCPA and CPRA, but aspects of these state privacy statutes remain unclear, resulting in further legal uncertainty and potentially requiring us to modify our data practices and policies and to incur substantial additional costs and expenses in an effort to comply.
+
+[-1.7660741806030273, 2.444035291671753, -0.28144288063049316]
+
+ Complying with the GDPR, CCPA, CPRA, CDPA, CPA, or other laws, regulations, amendments to, or re-interpretations of existing laws and regulations, and contractual or other obligations relating to privacy, data protection, data transfers, data localization, or information security may require us to make changes to our services to enable us or our customers to meet new legal requirements, incur substantial operational costs, modify our data practices and policies, and restrict our business operations.
+
+[-1.8525458574295044, 2.0376341342926025, 0.5024551749229431]
+
+ Any actual or perceived failure by us to comply with these laws, regulations, or other obligations may lead to significant fines, penalties, regulatory investigations, lawsuits, significant costs for remediation, damage to our reputation, or other liabilities.
+
+[-1.8552343845367432, 2.5505340099334717, -0.19625748693943024]
+
+-----------
+
+Compliance with existing, proposed, and recently enacted laws (including implementation of the privacy and process enhancements called for under GDPR and CCPA) and regulations can be costly and time consuming, and any failure to comply with these regulatory standards could subject us to legal and reputational risks.
+
+[-1.8752704858779907, 2.4090263843536377, 0.13071495294570923]
+
+ In addition, all 50 states have security breach notification laws that generally require a business to give notice to consumers and (in some cases) government agencies when certain information has been accessed or acquired by an unauthorized party due to a security breach.
+
+[-1.6829137802124023, 1.0625925064086914, 1.6574245691299438]
+
+-----------
+

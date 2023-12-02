@@ -1,0 +1,14 @@
+Aside from the European Union, other jurisdictions have enacted, or are considering, regulations regarding data privacy.
+
+[-0.43622201681137085, -1.416698932647705, 2.2935824394226074]
+
+  The California Consumer Privacy Act ("CCPA"), which became effective in January 2020, and others that may be passed, introduce requirements with respect to personal information, and non-compliance with CCPA may result in liability through private actions and enforcement.
+
+[-1.7510664463043213, 1.8479968309402466, 1.2236663103103638]
+
+ Failure to comply with these current and future laws could result in significant penalties and could have a material adverse effect on the Company and results of operations.
+
+[-1.8764432668685913, 2.46728515625, 0.1463625133037567]
+
+-----------
+
