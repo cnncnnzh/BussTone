@@ -35,6 +35,12 @@ def check_abbv(i, piece):
     return piece[i-3:i+1] in abbv\
         or piece[i-1:i+3] in abbv
 
+def check_true_div(i, piece):
+    if i in (0, 1, len(piece)-1):
+        return True
+    return (0 <= ord(piece[i+1]) - ord('A') <= 25 or piece[i+1] == '\xa0')\
+        and (piece[i-1] in ('.', '!') or piece[i-2] in ('.', '!'))
+
 def get_paragraph(dirc, split_sentence):
     with open(dirc, 'r', encoding='utf-8') as f:
         data = f.readlines()
@@ -52,7 +58,7 @@ def get_paragraph(dirc, split_sentence):
         if check_repeat(i, all_paragraphs):
             continue
 
-        all_newline = [m.start() for m in re.finditer('\n', piece)]
+        all_newline = [m.start() for m in re.finditer('\n', piece) if check_true_div(m.start(), piece)]
         # sorted_newline = np.array(sorted(all_newline, key=lambda x: abs(boundary - x)))
         # left_para = sorted_newline[sorted_newline<boundary][0]
         # right_para = sorted_newline[sorted_newline>boundary][0]
@@ -70,25 +76,24 @@ def get_paragraph(dirc, split_sentence):
         left_end, right_end = 0, 2 * boundary 
         left_org = []
         for i in range(len(left)):
-            if i == 0:
-                if piece[left[i]]=='\n' or piece[left[i]+1] != ' ':
-                    left_end = max(left[i], left_end)
-                    break
-                continue
-            sentence = piece[left[i]+1 : left[i-1]+1]
-            if gibberish_detector.is_gibberish(sentence):
-                continue
-            left_org.append(sentence)
-            if piece[left[i]]=='\n' or piece[left[i]+1] != ' ':
+            if i == 0 and piece[left[i]]=='\n':
                 left_end = max(left[i], left_end)
                 break
+            else:
+                sentence = piece[left[i]+1 : left[i-1]+1]
+                if gibberish_detector.is_gibberish(sentence):
+                    continue
+                left_org.append(sentence)
+                if piece[left[i]]=='\n':
+                    left_end = max(left[i], left_end)
+                    break
         all_script += left_org[::-1]
         for i in range(1, len(right)):
             sentence = piece[right[i-1]+1 : right[i]+1]
             if gibberish_detector.is_gibberish(sentence):
                 continue
             all_script.append(sentence)
-            if piece[right[i]]=='\n' or piece[right[i]+1] != ' ':
+            if piece[right[i]]=='\n':
                 right_end = min(right[i], right_end)
                 break 
         all_paragraphs.append([start+left_end, start+right_end])
