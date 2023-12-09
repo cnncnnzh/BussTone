@@ -1,7 +1,0 @@
-K. General Data Protection Regulation, the California Consumer Privacy Act (“CCPA”), and the Brazilian Lei Geral de Proteção de Dados. Costs to comply with these Data Protection Laws are significant.
-
- Certain Data Protection Laws, such as the GDPR and the CCPA, require our customers to impose specific contractual restrictions on their service providers. If we are unable to comply with our contractual obligations, this could impact our reputation and result in liabilities and loss of business.
-
-
-[-1.1790663003921509, 0.3863508105278015, 1.4422239065170288]
-[-1.9267045259475708, 2.7455801963806152, -0.3243415057659149]

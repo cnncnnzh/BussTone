@@ -30,15 +30,17 @@ def check_repeat(i, all_paragraphs):
             return True
     return False
 
-def check_EUUS(i, piece):
-    return piece[i-3:i+1] in ('E.U.', 'U.S.', 'U.K.') or piece[i-1:i+1] in ('E.', 'U.') 
+def check_abbv(i, piece):
+    abbv = ('E.U.', 'U.S.', 'U.K.', 'i.e.')
+    return piece[i-3:i+1] in abbv\
+        or piece[i-1:i+3] in abbv
 
 def get_paragraph(dirc, split_sentence):
     with open(dirc, 'r', encoding='utf-8') as f:
         data = f.readlines()
         data = ''.join(data)
     indices = [m.start() for m in re.finditer('CCPA', data)]
-    boundary = 2000
+    boundary = 4000
     all_script = []
     all_paragraphs = []
     gibberish_detector = detector.create_from_model(r'D:\Dropbox\Shan\BussTone\big.model')
@@ -56,7 +58,7 @@ def get_paragraph(dirc, split_sentence):
         # right_para = sorted_newline[sorted_newline>boundary][0]
         # all_paragraphs.append([start+left_para, start+right_para])
         
-        all_period = [m.start() for m in re.finditer(r'\.', piece) if not check_EUUS(m.start(), piece)]
+        all_period = [m.start() for m in re.finditer(r'\.', piece) if not check_abbv(m.start(), piece)]
         all_exclamation = [m.start() for m in re.finditer(r'\!', piece)]
         all_endings = all_period + all_exclamation + all_newline
         
@@ -74,7 +76,7 @@ def get_paragraph(dirc, split_sentence):
                     break
                 continue
             sentence = piece[left[i]+1 : left[i-1]+1]
-            if len(sentence) > 512 or gibberish_detector.is_gibberish(sentence):
+            if gibberish_detector.is_gibberish(sentence):
                 continue
             left_org.append(sentence)
             if piece[left[i]]=='\n' or piece[left[i]+1] != ' ':
@@ -83,7 +85,7 @@ def get_paragraph(dirc, split_sentence):
         all_script += left_org[::-1]
         for i in range(1, len(right)):
             sentence = piece[right[i-1]+1 : right[i]+1]
-            if len(sentence) > 512 or gibberish_detector.is_gibberish(sentence):
+            if gibberish_detector.is_gibberish(sentence):
                 continue
             all_script.append(sentence)
             if piece[right[i]]=='\n' or piece[right[i]+1] != ' ':

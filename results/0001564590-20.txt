@@ -1,8 +1,0 @@
- In the United States, the California Consumer Privacy Act (“CCPA”) became effective on January 1, 2020 and many other states are in various stages of implementing privacy legislation. The CCPA provides California residents with specific privacy rights including a new private right of action for certain data breaches.
-
- In the United States, the California Consumer Privacy Act (“CCPA”) became effective on January 1, 2020 and many other states are in various stages of implementing privacy legislation. The CCPA provides California residents with specific privacy rights including a new private right of action for certain data breaches. 
-
-
-
-[-0.22552084922790527, -1.8030115365982056, 2.222094774246216]
-[-0.22552084922790527, -1.8030115365982056, 2.222094774246216]

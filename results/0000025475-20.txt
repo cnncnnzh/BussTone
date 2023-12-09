@@ -1,4 +1,0 @@
- Globally, new laws, such as the General Data Protection Regulation (“GDPR”) in Europe, the California Consumer Privacy Act ("CCPA") in California, and industry self-regulatory codes have been enacted and more are being considered that may affect our ability to respond to customer requests under the laws, and to implement our business models effectively. These requirements, among others, may force us to bear the burden of more onerous obligations in our contracts.
-
-
-[-1.308192491531372, 1.0941205024719238, 1.0302236080169678]

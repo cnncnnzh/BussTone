@@ -1,7 +1,0 @@
- In addition, several other jurisdictions around the world have recently enacted privacy laws or regulations similar to GDPR. For instance, California enacted the California Consumer Privacy Act ("CCPA"), which became effective January 1, 2020 and which gives consumers many of the same rights as those available under GDPR. Several laws similar to the CCPA have been proposed in the United States at both the federal and state level.
-
- Several laws similar to the CCPA have been proposed in the United States at both the federal and state level. Like GDPR, other similar laws and regulations, as well as any associated inquiries or investigations or any other government actions, may be costly to comply with, result in negative publicity, increase our operating costs, require significant management time and attention, and subject us to remedies that may harm our business.
-
-
-[-0.4261912703514099, -1.4698655605316162, 2.172807216644287]
-[-1.8601162433624268, 2.348287582397461, 0.059533555060625076]

@@ -1,4 +1,0 @@
- In addition, California has passed an omnibus data privacy law similar to GDPR, the California Consumer Protection Privacy Act (“CCPA”), and with our 2021 acquisition of Arcadia, we will be subject to compliance obligations under this law. The states of Virginia and Colorado have recently enacted omnibus data privacy laws, and California has enacted more expensive data privacy and security laws (including a provision applying data obligations to employees), all of which will begin enforcement in 2023.
-
-
-[-0.10526036471128464, -1.6262813806533813, 1.8229329586029053]

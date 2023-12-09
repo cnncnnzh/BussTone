@@ -1,8 +1,0 @@
-Analyzing D:\Dropbox\Shan\10K_new\sec-edgar-filings\0000025743\10-K\0001564590-22-011525_2021-12-31\full-submission.txt not successful
-
-Analyzing D:\Dropbox\Shan\10K_new\sec-edgar-filings\0000036104\10-K\0001193125-21-052547_2020-12-31\full-submission.txt not successful
-
-Analyzing D:\Dropbox\Shan\10K_new\sec-edgar-filings\0000056873\10-K\0001558370-20-003501_2020-02-01\full-submission.txt not successful
-
-Analyzing D:\Dropbox\Shan\10K_new\sec-edgar-filings\0000110471\10-K\0000110471-21-000008_2021-01-02\full-submission.txt not successful
-

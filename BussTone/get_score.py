@@ -9,7 +9,7 @@ import pandas as pd
 from busstone.extract_script import html_to_txt, get_paragraph, gen_script
 import os 
 import torch
-import logging
+import traceback
 
 class Score():
     
@@ -29,7 +29,7 @@ class Score():
     def gen_score(self, model, tokenizer, split_sentence):
         all_files = sorted(os.listdir(self.root))
         log_file = os.path.join(self.result_root, 'log.txt')
-        for kid in all_files[0:100]:
+        for kid in all_files[0:20]:
             try:
                 path1 = os.path.join(os.path.join(self.root, kid), r'10-K')
                 for kid_v in os.listdir(path1):
@@ -82,7 +82,8 @@ class Score():
                 print('Analyzing {} not successful'.format(dirc))
                 with open (log_file, 'a', encoding='utf-8') as f:
                     f.write('Analyzing {} not successful'.format(dirc))
-                    f.write('\n\n')
+                    f.write(traceback.format_exc())
+                    f.write('------------------')
                   
         
     def write_score(self):
