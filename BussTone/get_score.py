@@ -17,7 +17,7 @@ class Score():
                  result_root,
                  to_txt,
                  write_script):
-        self.columns = ['KID', 'Year', 'Label', 'Positive', 'Negative', 'Neutral']
+        self.columns = ['KID', 'Year', 'Label', 'Positive', 'Negative', 'Neutral', 'Character_count']
         self.root = root
         if not os.path.exists(result_root):
             os.mkdir(result_root)
@@ -29,7 +29,7 @@ class Score():
     def gen_score(self, model, tokenizer, split_sentence):
         all_files = sorted(os.listdir(self.root))
         log_file = os.path.join(self.result_root, 'log.txt')
-        for kid in all_files[0:20]:
+        for kid in all_files[600:1600]:
             try:
                 path1 = os.path.join(os.path.join(self.root, kid), r'10-K')
                 for kid_v in os.listdir(path1):
@@ -49,12 +49,14 @@ class Score():
                         Exception('Error: {} not found'.format(to_dirc)) 
                         
                     #extract all the paragraphs
-                    all_scripts = get_paragraph(to_dirc, split_sentence)
+                    all_scripts, need_check = get_paragraph(to_dirc, split_sentence)
                     
                     # save extracted paragraphs
+                    if need_check:
+                        to_file = os.path.join(self.result_root, 'CHECK_' + kid + '-' + date + '.txt')
+                    else:
+                        to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
                     
-                    to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
-    
                     # generate tone scores
                     for i, script in enumerate(all_scripts):
                         if len(script) < 35:
@@ -71,7 +73,8 @@ class Score():
                                 'Label':[i],
                                 'Positive':[logits[0]],
                                 'Negative':[logits[1]],
-                                'Neutral':[logits[2]]
+                                'Neutral':[logits[2]],
+                                'Character_count':len(script)
                             }
                         )], ignore_index=True)
                         # print(self.table)
