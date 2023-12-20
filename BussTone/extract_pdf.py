@@ -124,16 +124,12 @@ def extract(pdf_path):
 
 
 if __name__ == "main":
-    dirc = r'D:\Dropbox\Shan\10K_new\sec-edgar-filings\0000014930\10-K\0000014930-20-000027_2019-12-31'    
-    html_to_pdf(dirc)
-    text = extract(os.path.join(dirc, 'script.pdf'))
+    dirc = r'D:\Dropbox\Shan\10K_new\sec-edgar-filings\0000028412\10-K\0000028412-20-000034_2019-12-31\primary-document.html'   
+    to_dirc = r'D:\Dropbox\Shan\10K_new\sec-edgar-filings\0000028412\10-K\0000028412-20-000034_2019-12-31\script.pdf' 
+    html_to_pdf(dirc, to_dirc)
+    text = extract(os.path.join(to_dirc))
 
-    
-    
-    
-    
-    
-    
+
 # API_ENDPOINT = "https://api.sec-api.io/filing-reader"
 # API_KEY = "3a4102b4710db02169ba0f0a6638f8d2b155bed658ab97e283529d867133a942"
 
