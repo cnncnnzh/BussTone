@@ -43,6 +43,12 @@ parser.add_argument(
         help="determine if the html is converted to txt"
 )
 parser.add_argument(
+        "--to_pdf",
+        default='true',
+        type=str,
+        help="determine if the html is converted to pdf"
+)
+parser.add_argument(
         "--split_sentence",
         default='true',
         type=str,
@@ -50,12 +56,13 @@ parser.add_argument(
 )
 
 
+
 args = parser.parse_args(sys.argv[1:])
 
 tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
 model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
 
-score = Score(args.root_dir, args.result_dir, args.to_txt.lower(), args.write_script.lower())
+score = Score(args.root_dir, args.result_dir, args.to_txt.lower(), args.to_pdf.lower(), args.write_script.lower())
 score.gen_score(model, tokenizer, args.split_sentence.lower())
 score.write_score()
         
