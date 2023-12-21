@@ -12,23 +12,42 @@ import re
 from pyhtml2pdf import converter
 import os
 
-def delete_page_break(html):
+def delete_page_break(html, to_html):
     with open(html, 'r') as t:
         txt = t.read()
     new_txt = txt.replace("page-break-after:always", "page-break-after:auto")
-    with open(html, 'w') as t:
+    with open(to_html, 'w') as t:
         t.write(new_txt) 
 
 def html_to_pdf(dirc, to_dirc):
     converter.convert(dirc, to_dirc)
-    
-def combine_block(blocks, threshold=1.2):
+ 
+def perge(blocks):
+    Banned = ['Table of Contents', 'TABLE OF CONTENTS', 'ITEM', 'Item']
+    perged_list = []
+    for i, block in enumerate(blocks):
+        if any([block[4].startswith(b) for b in Banned]):
+            continue
+        if len(block[4]) < 25:
+            continue
+        # remove footers
+        if i == len(blocks) - 1 and re.match(r'^\d+'+'\n$', block[4]):
+            continue
+        perged_list.append(block)
+    return perged_list
+ 
+def check_split_paragraph(last_block, this_block):
+    a = 0 <= ord(this_block[4][0]) - ord('a') <= 25
+    b = last_block[4][-2] != '.'
+    return a or b
+
+def combine_block(blocks, threshold=1.0):
     if len(blocks) <= 1:
         return blocks
     new_blocks = []
     prev = list(blocks[0])
     for i in range(1, len(blocks)):
-        if blocks[i][1] - blocks[i-1][3] < threshold:  # if the begining of the current block is too close to the previous
+        if blocks[i][1] - blocks[i-1][3] < threshold or check_split_paragraph(blocks[i-1], blocks[i]):   # if the begining of the current block is too close to the previous
             prev[4] += blocks[i][4]
             prev[3] = blocks[i][3]
             if i == len(blocks) - 1:
@@ -40,45 +59,39 @@ def combine_block(blocks, threshold=1.2):
                 new_blocks.append(prev) 
     return new_blocks
 
-def perge(blocks):
-    perged_list = []
-    for i, block in enumerate(blocks):
-        if i == 0 and (block[4].startswith('Table of Contents') or block[4].startswith('ITEM')):
-            continue
-        if len(block[4]) < 15:
-            continue
-        # remove footers
-        if i == len(blocks) - 1 and re.match(r'^\d+'+'\n$', block[4]):
-            continue
-        perged_list.append(block)
-    return perged_list
-
-def attach_next_page(prevpage, thispage, nextpage):
+def attach_next_page(prevprevpage, prevpage, thispage, nextpage, nextnextpage):
     if not thispage:
         return 
-    if prevpage:
-        if 0 <= ord(thispage[0][4][0]) - ord('a') <= 25:
-                thispage[0] = (
-                    thispage[0][0],
-                    thispage[0][1],
-                    thispage[0][2],
-                    thispage[0][3],
-                    prevpage[-1][4] + thispage[0][4],
-                    thispage[0][5],
-                    thispage[0][6],
-                )
-    if nextpage:
-        if 0 <= ord(nextpage[0][4][0]) - ord('a') <= 25:
-            if nextpage:
-                thispage[-1] = (
-                    thispage[-1][0],
-                    thispage[-1][1],
-                    thispage[-1][2],
-                    thispage[-1][3],
-                    thispage[-1][4] + nextpage[0][4],
-                    thispage[-1][5],
-                    thispage[-1][6],
-                )
+    first_paragraph, last_paragraph = thispage[0][4], thispage[-1][4]
+    
+    if check_split_paragraph(prevpage[-1], thispage[0]):
+        first_paragraph = prevpage[-1] + first_paragraph
+        if len(prevpage) == 1 and check_split_paragraph(prevprevpage[-1], prevpage[0]):
+            first_paragraph = prevprevpage[-1] + first_paragraph
+            
+    if check_split_paragraph(thispage[-1], nextpage[0]):
+        last_paragraph = last_paragraph + nextpage[0]
+        if len(nextpage) == 1 and check_split_paragraph(nextpage[-1], nextnextpage[0]):
+            last_paragraph = last_paragraph + nextnextpage[0]
+       
+    thispage[0] = (
+        thispage[0][0],
+        thispage[0][1],
+        thispage[0][2],
+        thispage[0][3],
+        first_paragraph,
+        thispage[0][5],
+        thispage[0][6],
+    )
+    thispage[-1] = (
+        thispage[-1][0],
+        thispage[-1][1],
+        thispage[-1][2],
+        thispage[-1][3],
+        last_paragraph,
+        thispage[-1][5],
+        thispage[-1][6],
+    )
 
 def get_text(page, blocks, text):
     visited = set()
@@ -86,7 +99,9 @@ def get_text(page, blocks, text):
     for word_block in word_blocks:
         for block in blocks:
             #if the word block is in the block 
-            if block[1] not in visited and block[1] - 0.2 < word_block[1] < block[3] + 0.2:
+            if block[1] not in visited and\
+                block[0] - 0.2 < word_block[0] < block[2] + 0.2 and\
+                    block[1] - 0.2 < word_block[1] < block[3] + 0.2:
                 text.append(block[4])
                 visited.add(block[1])
 
@@ -98,18 +113,17 @@ def replace_garble(text):
 def extract(pdf_path):
     text = []
     with fitz.open(pdf_path) as doc:
-        for i in range(1, len(doc)-1):
+        for i in range(2, len(doc)-2):
+            prevprevpage = combine_block(
+                perge(
+                    doc[i-2].get_text("blocks")
+                )
+            )
             prevpage = combine_block(
                 perge(
                     doc[i-1].get_text("blocks")
                 )
             )
-            if i > 2 and len(prevpage) == 0:
-                prevpage = combine_block(
-                    perge(
-                        doc[i-2].get_text("blocks")
-                    )
-                )
             thispage = combine_block(
                 perge(
                     doc[i].get_text("blocks")
@@ -120,18 +134,17 @@ def extract(pdf_path):
                     doc[i+1].get_text("blocks")
                 )
             )
-            if i < len(doc) - 2 and len(nextpage) == 0:
-                nextpage = combine_block(
-                    perge(
-                        doc[i+2].get_text("blocks")
-                    )
+            nextnextpage = combine_block(
+                perge(
+                    doc[i+2].get_text("blocks")
                 )
-            
+            )
+        
             
             attach_next_page(prevpage, thispage, nextpage)
             get_text(doc[i], thispage, text)
             
-    return text
+    return replace_garble(text)
 
 
 if __name__ == "main":

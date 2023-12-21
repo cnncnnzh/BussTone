@@ -11,7 +11,7 @@ import torch
 import traceback
 
 from busstone.extract_script import html_to_txt, get_paragraph, gen_script
-from busstone.extract_pdf import html_to_pdf, extract
+from busstone.extract_pdf import delete_page_break, html_to_pdf, extract
 
 class Score():
     
@@ -43,9 +43,14 @@ class Score():
                     root = os.path.join(path1, kid_v)
                     # dirc = os.path.join(root, 'full-submission.txt')
                     # to_dirc = os.path.join(root, 'script.txt')
+                    # html = os.path.join(root, 'primary-document.html')
+                    # to_html = os.path.join(root, 'primary-document-nobreak.html')
+                    # delete_page_break(html, to_html)
                     
                     dirc = os.path.join(root, 'primary-document.html')
+                    
                     to_dirc = os.path.join(root, 'script.pdf')
+                    
                     
                     #convert html to txt
                     # if self.to_txt == 'true':
@@ -60,7 +65,7 @@ class Score():
                     #extract all the paragraphs
                     all_scripts = extract(to_dirc)
                     # all_scripts, need_check = get_paragraph(to_dirc, split_sentence)
-                    
+                    print(all_scripts)
                     # save extracted paragraphs
                     to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
                     # if need_check:
