@@ -12,13 +12,19 @@ import re
 from pyhtml2pdf import converter
 import os
 
+def delete_page_break(html):
+    with open(html, 'r') as t:
+        txt = t.read()
+    new_txt = txt.replace("page-break-after:always", "page-break-after:auto")
+    with open(html, 'w') as t:
+        t.write(new_txt) 
+
 def html_to_pdf(dirc, to_dirc):
     converter.convert(dirc, to_dirc)
     
 def combine_block(blocks, threshold=1.2):
     if len(blocks) <= 1:
         return blocks
-        
     new_blocks = []
     prev = list(blocks[0])
     for i in range(1, len(blocks)):
@@ -37,7 +43,7 @@ def combine_block(blocks, threshold=1.2):
 def perge(blocks):
     perged_list = []
     for i, block in enumerate(blocks):
-        if i == 0 and block[4].startswith('Table of Contents'):
+        if i == 0 and (block[4].startswith('Table of Contents') or block[4].startswith('ITEM')):
             continue
         if len(block[4]) < 15:
             continue
@@ -84,6 +90,11 @@ def get_text(page, blocks, text):
                 text.append(block[4])
                 visited.add(block[1])
 
+def replace_garble(text):
+    for i in range(len(text)):
+        text[i] = text[i].replace('�', 'ti')
+    return text
+
 def extract(pdf_path):
     text = []
     with fitz.open(pdf_path) as doc:
@@ -93,7 +104,7 @@ def extract(pdf_path):
                     doc[i-1].get_text("blocks")
                 )
             )
-            if len(prevpage) == 0:
+            if i > 2 and len(prevpage) == 0:
                 prevpage = combine_block(
                     perge(
                         doc[i-2].get_text("blocks")
@@ -109,7 +120,7 @@ def extract(pdf_path):
                     doc[i+1].get_text("blocks")
                 )
             )
-            if len(nextpage) == 0:
+            if i < len(doc) - 2 and len(nextpage) == 0:
                 nextpage = combine_block(
                     perge(
                         doc[i+2].get_text("blocks")
