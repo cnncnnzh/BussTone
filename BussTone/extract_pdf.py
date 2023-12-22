@@ -111,11 +111,36 @@ def get_text(page, blocks, text):
                 text.append(block[4])
                 visited.add(block[1])
 
-def replace_garble(text):
+def remove_duplicate(text):
+    new_list = []
+    for t in text:
+        if t not in new_list:
+            new_list.append(t)
+    return new_list
+
+
+def replace(text):
     for i in range(len(text)):
         text[i] = text[i].replace('�', 'ti')
+        text[i] = text[i].replace('\n', ' ')
+        text[i] = text[i].replace('U.S.', 'US')
+        text[i] = text[i].replace('E.U.', 'EU')
+        text[i] = text[i].replace('U.K.', 'UK')
+        text[i] = text[i].replace('e.g', 'for example')
+        text[i] = text[i].replace('E.g.', 'for example')
+        text[i] = text[i].replace('i.e.', 'in other words')      
     return text
 
+def split(text):
+    # split paragraph into sentences
+    new_list = []
+    for t in text:
+        sentences = t.split('.')
+        sentences = [s for s in sentences if s] # remove empty
+        new_list += sentences
+        new_list.append('-------------')
+    return new_list        
+    
 def extract(pdf_path):
     text = []
     with fitz.open(pdf_path) as doc:
@@ -149,8 +174,9 @@ def extract(pdf_path):
             
             attach_next_page(prevprevpage, prevpage, thispage, nextpage, nextnextpage)
             get_text(doc[i], thispage, text)
-            
-    return replace_garble(text)
+    
+    text = replace(remove_duplicate(text))    
+    return text, split(text)
 
 
 if __name__ == "main":
