@@ -28,7 +28,7 @@ def perge(blocks):
     for i, block in enumerate(blocks):
         if any([block[4].startswith(b) for b in Banned]):
             continue
-        if len(block[4]) < 25:
+        if len(block[4]) < 35:
             continue
         # remove footers
         if i == len(blocks) - 1 and re.match(r'^\d+'+'\n$', block[4]):
@@ -65,15 +65,18 @@ def attach_next_page(prevprevpage, prevpage, thispage, nextpage, nextnextpage):
     first_paragraph, last_paragraph = thispage[0][4], thispage[-1][4]
     
     if check_split_paragraph(prevpage[-1], thispage[0]):
-        first_paragraph = prevpage[-1] + first_paragraph
-        if len(prevpage) == 1 and check_split_paragraph(prevprevpage[-1], prevpage[0]):
-            first_paragraph = prevprevpage[-1] + first_paragraph
+        if prevpage:
+            first_paragraph = prevpage[-1][4] + first_paragraph
+        if len(prevpage) <= 1 and prevprevpage and check_split_paragraph(prevprevpage[-1], prevpage[0]):
+            first_paragraph = prevprevpage[-1][4] + first_paragraph
             
     if check_split_paragraph(thispage[-1], nextpage[0]):
-        last_paragraph = last_paragraph + nextpage[0]
-        if len(nextpage) == 1 and check_split_paragraph(nextpage[-1], nextnextpage[0]):
-            last_paragraph = last_paragraph + nextnextpage[0]
-       
+        if nextpage:
+            last_paragraph = last_paragraph + nextpage[0][4]
+        if len(nextpage) <= 1 and nextnextpage and check_split_paragraph(nextpage[-1], nextnextpage[0]):
+            last_paragraph = last_paragraph + nextnextpage[0][4]
+            
+            
     thispage[0] = (
         thispage[0][0],
         thispage[0][1],
@@ -141,7 +144,7 @@ def extract(pdf_path):
             )
         
             
-            attach_next_page(prevpage, thispage, nextpage)
+            attach_next_page(prevprevpage, prevpage, thispage, nextpage, nextnextpage)
             get_text(doc[i], thispage, text)
             
     return replace_garble(text)
