@@ -77,7 +77,7 @@ def attach_next_page(prevprevpage, prevpage, thispage, nextpage, nextnextpage):
             last_paragraph = last_paragraph + nextpage[0][4]
             if len(nextpage) <= 1 and nextnextpage and check_split_paragraph(nextpage[-1], nextnextpage[0]):
                 last_paragraph = last_paragraph + nextnextpage[0][4]
-    elif nextnextpage and check_split_paragraph(nextpage[-1], nextnextpage[0]):  
+    elif nextnextpage and check_split_paragraph(thispage[-1], nextnextpage[0]):  
         last_paragraph = last_paragraph + nextnextpage[0][4]
             
     thispage[0] = (

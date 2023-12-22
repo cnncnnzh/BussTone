@@ -65,7 +65,6 @@ class Score():
                     #extract all the paragraphs
                     all_scripts = extract(to_dirc)
                     # all_scripts, need_check = get_paragraph(to_dirc, split_sentence)
-                    print(all_scripts)
                     # save extracted paragraphs
                     to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
                     # if need_check:
