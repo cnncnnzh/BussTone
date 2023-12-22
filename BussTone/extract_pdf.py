@@ -64,18 +64,21 @@ def attach_next_page(prevprevpage, prevpage, thispage, nextpage, nextnextpage):
         return 
     first_paragraph, last_paragraph = thispage[0][4], thispage[-1][4]
     
-    if check_split_paragraph(prevpage[-1], thispage[0]):
-        if prevpage:
+    if prevpage:
+        if check_split_paragraph(prevpage[-1], thispage[0]):
             first_paragraph = prevpage[-1][4] + first_paragraph
         if len(prevpage) <= 1 and prevprevpage and check_split_paragraph(prevprevpage[-1], prevpage[0]):
             first_paragraph = prevprevpage[-1][4] + first_paragraph
-            
-    if check_split_paragraph(thispage[-1], nextpage[0]):
-        if nextpage:
+    elif prevprevpage and check_split_paragraph(prevprevpage[-1], thispage[0]):
+        first_paragraph = prevprevpage[-1][4] + first_paragraph
+    
+    if nextpage:    
+        if check_split_paragraph(thispage[-1], nextpage[0]):
             last_paragraph = last_paragraph + nextpage[0][4]
-        if len(nextpage) <= 1 and nextnextpage and check_split_paragraph(nextpage[-1], nextnextpage[0]):
-            last_paragraph = last_paragraph + nextnextpage[0][4]
-            
+            if len(nextpage) <= 1 and nextnextpage and check_split_paragraph(nextpage[-1], nextnextpage[0]):
+                last_paragraph = last_paragraph + nextnextpage[0][4]
+    elif nextnextpage and check_split_paragraph(nextpage[-1], nextnextpage[0]):  
+        last_paragraph = last_paragraph + nextnextpage[0][4]
             
     thispage[0] = (
         thispage[0][0],
