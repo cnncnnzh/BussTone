@@ -49,8 +49,8 @@ parser.add_argument(
         help="determine if the html is converted to pdf"
 )
 parser.add_argument(
-        "--split_sentence",
-        default='true',
+        "--split",
+        default='false',
         type=str,
         help="determine whether the paragraph is splitted into sentences"
 )
@@ -62,7 +62,14 @@ args = parser.parse_args(sys.argv[1:])
 tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
 model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
 
-score = Score(args.root_dir, args.result_dir, args.to_txt.lower(), args.to_pdf.lower(), args.write_script.lower())
-score.gen_score(model, tokenizer, args.split_sentence.lower())
+score = Score(
+    args.root_dir,
+    args.result_dir,
+    args.to_txt.lower(),
+    args.to_pdf.lower(),
+    args.write_script.lower(),
+    args.split.lower()
+)
+score.gen_score(model, tokenizer)
 score.write_score()
         

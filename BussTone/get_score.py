@@ -19,7 +19,8 @@ class Score():
                  result_root,
                  to_txt,
                  to_pdf,
-                 write_script):
+                 write_script,
+                 split):
         self.columns = ['KID', 'Year', 'Label', 'Positive', 'Negative', 'Neutral', 'Character_count']
         self.root = root
         if not os.path.exists(result_root):
@@ -29,8 +30,9 @@ class Score():
         self.to_pdf = to_pdf
         self.table = pd.DataFrame(columns=self.columns)
         self.write_script = write_script
+        self.split = split
 
-    def gen_score(self, model, tokenizer, split_sentence):
+    def gen_score(self, model, tokenizer):
         all_files = sorted(os.listdir(self.root))
         log_file = os.path.join(self.result_root, 'log.txt')
         for kid in all_files[0:100]:
@@ -51,7 +53,6 @@ class Score():
                     
                     to_dirc = os.path.join(root, 'script.pdf')
                     
-                    
                     #convert html to txt
                     # if self.to_txt == 'true':
                         # html_to_txt(dirc, to_dirc)
@@ -63,7 +64,7 @@ class Score():
                         Exception('Error: {} not found'.format(to_dirc)) 
                         
                     #extract all the paragraphs
-                    all_scripts = extract(to_dirc)
+                    paragraphs, sentences = extract(to_dirc)
                     # all_scripts, need_check = get_paragraph(to_dirc, split_sentence)
                     # save extracted paragraphs
                     to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
@@ -73,6 +74,8 @@ class Score():
                     #     to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
                     
                     # generate tone scores
+                    
+                    all_scripts = sentences if self.split == 'true' else paragraphs
                     for i, script in enumerate(all_scripts):
                         if len(script) < 35:
                             if self.write_script == 'true':
