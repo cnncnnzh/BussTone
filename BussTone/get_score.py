@@ -35,7 +35,7 @@ class Score():
     def gen_score(self, model, tokenizer):
         all_files = sorted(os.listdir(self.root))
         log_file = os.path.join(self.result_root, 'log.txt')
-        for kid in all_files[0:100]:
+        for kid in all_files[500:600] + all_files[0:100]:
             try:
                 path1 = os.path.join(os.path.join(self.root, kid), r'10-K')
                 for kid_v in os.listdir(path1):

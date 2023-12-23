@@ -62,20 +62,21 @@ def combine_block(blocks, threshold=1.0):
 def attach_next_page(prevprevpage, prevpage, thispage, nextpage, nextnextpage):
     if not thispage:
         return 
-    first_paragraph, last_paragraph = thispage[0][4], thispage[-1][4]
+    first_paragraph = thispage[0][4]
     
     if prevpage:
         if check_split_paragraph(prevpage[-1], thispage[0]):
             first_paragraph = prevpage[-1][4] + first_paragraph
-        if len(prevpage) <= 1 and prevprevpage and check_split_paragraph(prevprevpage[-1], prevpage[0]):
+        if len(prevpage) == 1 and prevprevpage and check_split_paragraph(prevprevpage[-1], prevpage[0]):
             first_paragraph = prevprevpage[-1][4] + first_paragraph
     elif prevprevpage and check_split_paragraph(prevprevpage[-1], thispage[0]):
         first_paragraph = prevprevpage[-1][4] + first_paragraph
-    
+
+    last_paragraph = first_paragraph if len(thispage) == 1 else thispage[-1][4]
     if nextpage:    
         if check_split_paragraph(thispage[-1], nextpage[0]):
             last_paragraph = last_paragraph + nextpage[0][4]
-            if len(nextpage) <= 1 and nextnextpage and check_split_paragraph(nextpage[-1], nextnextpage[0]):
+            if len(nextpage) == 1 and nextnextpage and check_split_paragraph(nextpage[-1], nextnextpage[0]):
                 last_paragraph = last_paragraph + nextnextpage[0][4]
     elif nextnextpage and check_split_paragraph(thispage[-1], nextnextpage[0]):  
         last_paragraph = last_paragraph + nextnextpage[0][4]
@@ -112,12 +113,19 @@ def get_text(page, blocks, text):
                 visited.add(block[1])
 
 def remove_duplicate(text):
-    new_list = []
+    #remove duplicate first
+    new_text = []
     for t in text:
-        if t not in new_list:
-            new_list.append(t)
-    return new_list
-
+        if t not in new_text:
+            new_text.append(t)
+    
+    new_new_text = []
+    #then remove a paragraph if it is included in another
+    for i in range(len(new_text)):
+        if any([new_text[i] in new_text[j] for j in range(len(new_text)) if i != j]):
+            continue
+        new_new_text.append(text[i])
+    return new_new_text
 
 def replace(text):
     for i in range(len(text)):
@@ -126,7 +134,7 @@ def replace(text):
         text[i] = text[i].replace('U.S.', 'US')
         text[i] = text[i].replace('E.U.', 'EU')
         text[i] = text[i].replace('U.K.', 'UK')
-        text[i] = text[i].replace('e.g', 'for example')
+        text[i] = text[i].replace('e.g.', 'for example')
         text[i] = text[i].replace('E.g.', 'for example')
         text[i] = text[i].replace('i.e.', 'in other words')      
     return text
@@ -173,8 +181,8 @@ def extract(pdf_path):
         
             
             attach_next_page(prevprevpage, prevpage, thispage, nextpage, nextnextpage)
-            get_text(doc[i], thispage, text)
-    
+            get_text(doc[i], thispage, text)     
+            # print(text)
     text = replace(remove_duplicate(text))    
     return text, split(text)
 
