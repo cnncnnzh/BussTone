@@ -186,7 +186,6 @@ def extract(pdf_path):
     text = replace(remove_duplicate(text))    
     return text, split(text)
 
-
 if __name__ == "main":
     dirc = r'D:\Dropbox\Shan\10K_new\sec-edgar-filings\0000028412\10-K\0000028412-20-000034_2019-12-31\primary-document.html'   
     to_dirc = r'D:\Dropbox\Shan\10K_new\sec-edgar-filings\0000028412\10-K\0000028412-20-000034_2019-12-31\script.pdf' 

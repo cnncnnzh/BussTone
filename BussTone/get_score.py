@@ -13,6 +13,12 @@ import traceback
 from busstone.extract_script import html_to_txt, get_paragraph, gen_script
 from busstone.extract_pdf import delete_page_break, html_to_pdf, extract
 
+def need_check(all_texts):
+    for text in all_texts:
+        if not 0 <= ord(text[0]) - ord('A') <= 25:
+            return True
+    return False
+
 class Score():
     
     def __init__(self, root,
@@ -35,7 +41,7 @@ class Score():
     def gen_score(self, model, tokenizer):
         all_files = sorted(os.listdir(self.root))
         log_file = os.path.join(self.result_root, 'log.txt')
-        for kid in all_files[500:600] + all_files[0:100]:
+        for kid in all_files:
             try:
                 path1 = os.path.join(os.path.join(self.root, kid), r'10-K')
                 for kid_v in os.listdir(path1):
@@ -68,14 +74,14 @@ class Score():
                     # all_scripts, need_check = get_paragraph(to_dirc, split_sentence)
                     # save extracted paragraphs
                     to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
-                    # if need_check:
-                    #     to_file = os.path.join(self.result_root, 'CHECK_' + kid + '-' + date + '.txt')
-                    # else:
-                    #     to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
-                    
+                              
                     # generate tone scores
-                    
+
                     all_scripts = sentences if self.split == 'true' else paragraphs
+                    if need_check(all_scripts):
+                        to_file = os.path.join(self.result_root, 'CHECK_' + kid + '-' + date + '.txt')
+                    else:
+                        to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
                     for i, script in enumerate(all_scripts):
                         if len(script) < 35:
                             if self.write_script == 'true':
