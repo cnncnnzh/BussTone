@@ -15,7 +15,7 @@ from busstone.extract_pdf import delete_page_break, html_to_pdf, extract
 
 def need_check(all_texts):
     for text in all_texts:
-        if not 0 <= ord(text[0]) - ord('A') <= 25:
+        if len(text) > 1 and not (0 <= ord(text[0]) - ord('A') <= 25 or 0 <= ord(text[1]) - ord('A') <= 25):
             return True
     return False
 
