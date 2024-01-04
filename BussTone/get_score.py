@@ -15,7 +15,7 @@ from busstone.extract_pdf import delete_page_break, html_to_pdf, extract
 
 def need_check(all_texts):
     for text in all_texts:
-        if len(text) > 1 and not (0 <= ord(text[0]) - ord('A') <= 25 or 0 <= ord(text[1]) - ord('A') <= 25):
+        if len(text) > 30 and not (0 <= ord(text[0]) - ord('A') <= 25 or 0 <= ord(text[1]) - ord('A') <= 25):
             return True
     return False
 
@@ -72,9 +72,6 @@ class Score():
                     #extract all the paragraphs
                     paragraphs, sentences = extract(to_dirc)
                     # all_scripts, need_check = get_paragraph(to_dirc, split_sentence)
-                    # save extracted paragraphs
-                    to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
-                              
                     # generate tone scores
 
                     all_scripts = sentences if self.split == 'true' else paragraphs
@@ -83,7 +80,7 @@ class Score():
                     else:
                         to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
                     for i, script in enumerate(all_scripts):
-                        if len(script) < 35:
+                        if len(script) < 30:
                             if self.write_script == 'true':
                                 gen_script(script, to_file)
                             continue         
