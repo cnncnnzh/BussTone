@@ -63,10 +63,6 @@ def get_paragraph(dirc, split_sentence):
             continue
 
         all_newline = [m.start() for m in re.finditer('\n', piece)]
-        # sorted_newline = np.array(sorted(all_newline, key=lambda x: abs(boundary - x)))
-        # left_para = sorted_newline[sorted_newline<boundary][0]
-        # right_para = sorted_newline[sorted_newline>boundary][0]
-        # all_paragraphs.append([start+left_para, start+right_para])
         
         all_period = [m.start() for m in re.finditer(r'\.', piece) if not check_abbv(m.start(), piece)]
         all_exclamation = [m.start() for m in re.finditer(r'\!', piece)]
@@ -111,29 +107,6 @@ def get_paragraph(dirc, split_sentence):
         return all_script, need_check
     else: 
         return paragraph, need_check
-        # s1, s2, s3, s4, s5, s6 = left[2], left[1], left[0], right[0], right[1], right[2]
-        # if split_sentence.lower() == 'true':
-        #     # print(start)
-        #     # print(end)
-        #     if s2 - s1 < 512 and piece[s3] != '\n' and piece[s2] != '\n':
-        #         all_script.append(data[i-boundary+s1+1 : i-boundary+s2+1])
-        #     if s3 - s2 < 512 and piece[s2] != '\n':
-        #         all_script.append(data[i-boundary+s2+1 : i-boundary+s3+1])
-        #     if s4 - s3 < 512:
-        #         all_script.append(data[i-boundary+s3+1 : i-boundary+s4+1])
-        #     if s5 - s4 < 512 and piece[s4] != '\n':
-        #         all_script.append(data[i-boundary+s4+1 : i-boundary+s5+1])
-        #     if s6 - s5 < 512 and piece[s4] != '\n' and piece[s5] != '\n':
-        #         all_script.append(data[i-boundary+s5+1 : i-boundary+s6+1])
-        # else:
-        #     if s5 - s2 < 512 and piece[s3] != '\n' and piece[s4] != '\n':
-        #         all_script.append(data[i-boundary+s2+1 : i-boundary+s5+1])
-        #     elif s5 - s3 < 512 and piece[s4] != '\n':
-        #         all_script.append(data[i-boundary+s3+1 : i-boundary+s5+1])
-        #     elif s4 - s3 < 512:
-        #         all_script.append(data[i-boundary+s3+1 : i-boundary+s4+1])
-                
-
 
 def gen_script(script, to_file):
     with open (to_file, 'a', encoding='utf-8') as f:
