@@ -9,6 +9,7 @@ import argparse
 from busstone.get_score import Score
 from busstone.extract_script import html_to_txt
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from download_SEC import download_files
 import sys
 
 parser = argparse.ArgumentParser(description='busstone')
@@ -18,6 +19,16 @@ parser.add_argument(
         type=str,
         default="calculate",
         help=""
+)
+parser.add_argument(
+        "--date_files",
+        type=str,
+        help="determine whether the paragraph is splitted into sentences"
+)
+parser.add_argument(
+        "--folder",
+        type=str,
+        help="determine whether the paragraph is splitted into sentences"
 )
 parser.add_argument(
         "--root_dir",
@@ -59,17 +70,20 @@ parser.add_argument(
 
 args = parser.parse_args(sys.argv[1:])
 
-tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
-model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
+if args.mode == "calculate":
+    tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
+    model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
+    
+    score = Score(
+        args.root_dir,
+        args.result_dir,
+        args.to_txt.lower(),
+        args.to_pdf.lower(),
+        args.write_script.lower(),
+        args.split.lower()
+    )
+    score.gen_score(model, tokenizer)
+    score.write_score()
 
-score = Score(
-    args.root_dir,
-    args.result_dir,
-    args.to_txt.lower(),
-    args.to_pdf.lower(),
-    args.write_script.lower(),
-    args.split.lower()
-)
-score.gen_score(model, tokenizer)
-score.write_score()
-        
+elif args.mode == "download":
+    download_files(args.date_files, args.folder)

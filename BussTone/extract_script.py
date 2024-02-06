@@ -9,7 +9,7 @@ Created on Tue Nov  7 17:23:48 2023
 import os
 import re
 from bs4 import BeautifulSoup
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
+# from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import numpy as np
 import torch
 from gibberish_detector import detector
