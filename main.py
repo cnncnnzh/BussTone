@@ -9,7 +9,7 @@ import argparse
 from busstone.get_score import Score
 from busstone.extract_script import html_to_txt
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
-from download_SEC import download_files
+from busstone.download_SEC import download_files
 import sys
 
 parser = argparse.ArgumentParser(description='busstone')
@@ -18,7 +18,7 @@ parser.add_argument(
         "--mode",
         type=str,
         default="calculate",
-        help=""
+        help="'download' for downloading SEC files; 'calculate' for calculating the tone scores"
 )
 parser.add_argument(
         "--date_files",

@@ -5,12 +5,15 @@ Created on Tue Nov  7 17:23:48 2023
 @author: zhuhe
 """
 
-import requests
 import fitz
 import copy
 import re
 from pyhtml2pdf import converter
+#import pdfkit
 import os
+from transformers import AutoTokenizer, AutoModel
+
+from busstone.filter import find_sentences
 
 def delete_page_break(html, to_html):
     with open(html, 'r') as t:
@@ -21,8 +24,13 @@ def delete_page_break(html, to_html):
 
 def html_to_pdf(dirc, to_dirc):
     converter.convert(dirc, to_dirc)
+    #config = pdfkit.configuration(wkhtmltopdf=r'C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe')
+    #pdfkit.from_file(dirc, to_dirc, configuration=config)
  
 def perge(blocks):
+    '''
+    Get rid of footnotes, headers, etc.
+    '''
     Banned = ['Table of Contents', 'TABLE OF CONTENTS', 'ITEM', 'Item']
     perged_list = []
     for i, block in enumerate(blocks):
@@ -100,17 +108,6 @@ def attach_next_page(prevprevpage, prevpage, thispage, nextpage, nextnextpage):
         thispage[-1][6],
     )
 
-def get_text(page, blocks, text):
-    visited = set()
-    word_blocks = page.search_for("CCPA")
-    for word_block in word_blocks:
-        for block in blocks:
-            #if the word block is in the block 
-            if block[1] not in visited and\
-                block[0] - 0.2 < word_block[0] < block[2] + 0.2 and\
-                    block[1] - 0.2 < word_block[1] < block[3] + 0.2:
-                text.append(block[4])
-                visited.add(block[1])
 
 def remove_duplicate(text):
     #remove duplicate first
@@ -148,8 +145,36 @@ def split(text):
         new_list += sentences
         new_list.append('-------------')
     return new_list        
+
     
+def get_text(page, blocks, text):
+    '''
+    find the text blocks that contains word 'CCPA'
+    '''
+    visited = set()
+    word_blocks = page.search_for("CCPA")
+    for word_block in word_blocks:
+        for block in blocks:
+            #if the word block is in the block 
+            if block[1] not in visited and\
+                block[0] - 0.2 < word_block[0] < block[2] + 0.2 and\
+                    block[1] - 0.2 < word_block[1] < block[3] + 0.2:
+                text.append(block[4])     # append the actual text block that contains word 'CCPA' to the list
+                visited.add(block[1])
+
+    
+def semantic_filter(texts):
+    all_sentences = " ".join(texts).split('.') 
+    filtered_sentences = find_sentences(all_sentences)
+    return filtered_sentences 
+
 def extract(pdf_path):
+    '''
+    Main function for extracting CCPA-related information fron the whole text
+    This is method one, hard coded. Extract paragraphs that contains CCPA. 
+
+    '''
+
     text = []
     with fitz.open(pdf_path) as doc:
         for i in range(2, len(doc)-2):
@@ -184,12 +209,12 @@ def extract(pdf_path):
             get_text(doc[i], thispage, text)     
             # print(text)
     text = replace(remove_duplicate(text))    
-    return text, split(text)
+    return text, semantic_filter(text)
 
-if __name__ == "main":
+if __name__ == "__main__":
     dirc = r'D:\Dropbox\Shan\10K_new\sec-edgar-filings\0000028412\10-K\0000028412-20-000034_2019-12-31\primary-document.html'   
     to_dirc = r'D:\Dropbox\Shan\10K_new\sec-edgar-filings\0000028412\10-K\0000028412-20-000034_2019-12-31\script.pdf' 
-    html_to_pdf(dirc, to_dirc)
+    #html_to_pdf(dirc, to_dirc)
     text = extract(os.path.join(to_dirc))
 
 

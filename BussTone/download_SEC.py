@@ -9,6 +9,9 @@ from sec_edgar_downloader import Downloader
 import pandas
 from datetime import timedelta
 
+'''
+For downloading 10 k files from SEC-EDGER
+'''
 
 def read_CIK(file):
     content = pandas.read_excel(file, sheet_name=-1)
