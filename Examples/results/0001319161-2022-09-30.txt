@@ -1,0 +1,28 @@
+The US government, including Congress, the Federal Trade Commission and the Department of Commerce, has announced that it is reviewing the need for even greater regulation for the collection of information concerning consumer behavior on the Internet and mobile platforms, including regulation aimed at restricting certain targeted advertising practices, the use of location data and disclosures of privacy practices in the online and mobile environments, including with respect to online and mobile applications
+
+[-0.04531978443264961, -1.4698843955993652, 1.8733108043670654]
+
+ State governments are engaged in similar legislative and regulatory activities (including the California Consumer Privacy Act (“CCPA”) effective on January 1, 2020, the California Privacy Rights and Enforcement Act, effective January 1, 2023 (“CPRA”) and other analogous statutes more recently in other states)
+
+[-0.757525622844696, -1.308651328086853, 2.4916183948516846]
+
+ The effects of CCPA and these other recently adopted laws includes an increased ability of individuals to control the use of their personal data; heightened transparency obligations, increased obligations of companies to maintain the security of data; and increased exposure to fines or damages for companies that do not accord individuals their specified privacy rights, that experience data breaches or that do not maintain cybersecurity at certain levels of quality
+
+[0.13861174881458282, -0.8062532544136047, 0.7488436102867126]
+
+ 
+
+The US government, including Congress, the Federal Trade Commission and the Department of Commerce, has announced that it is reviewing the need for even greater regulation for the collection of information concerning consumer behavior on the Internet and mobile platforms, including regulation aimed at restricting certain targeted advertising practices, the use of location data and disclosures of privacy practices in the online and mobile environments, including with respect to online and mobile applications
+
+[-0.04531978443264961, -1.4698843955993652, 1.8733108043670654]
+
+ State governments are engaged in similar legislative and regulatory activities (including the California Consumer Privacy Act (“CCPA”) effective on January 1, 2020, the California Privacy Rights and Enforcement Act, effective January 1, 2023 (“CPRA”) and other analogous statutes more recently in other states)
+
+[-0.757525622844696, -1.308651328086853, 2.4916183948516846]
+
+ The effects of CCPA and these other recently adopted laws includes an increased ability of individuals to control the use of their personal data; heightened transparency obligations, increased obligations of companies to maintain the security of data; and increased exposure to fines or damages for companies that do not accord individuals their specified privacy rights, that experience data breaches or that do not maintain cybersecurity at certain levels of quality
+
+[0.13861174881458282, -0.8062532544136047, 0.7488436102867126]
+
+ 
+

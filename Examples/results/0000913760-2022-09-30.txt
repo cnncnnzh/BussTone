@@ -1,0 +1,60 @@
+Our business is subject to rules and regulations adopted by state, federal and foreign governments, and regulatory organizations governing data privacy, including for example the California Consumer Privacy Act (CCPA) and the European General Data Protection Regulation (GDPR)
+
+[-0.6518675684928894, -1.5127588510513306, 2.4729535579681396]
+
+ Additional states, as well as foreign jurisdictions, have enacted or are proposing similar data protection regimes, resulting in a rapidly evolving landscape governing how we collect, use, transfer and protect personal data
+
+[0.05111603066325188, -2.0610830783843994, 2.1991114616394043]
+
+  Rapidly evolving regulations regarding data privacy could increase our costs and adversely affect our business
+
+[-1.7979191541671753, 2.52311372756958, -0.29480791091918945]
+
+ Our business is subject to rules and regulations adopted by state, federal and foreign governments, and regulatory organizations governing data privacy, including, but not limited to for example, the California Consumer Privacy Act (CCPA) and the European General Data Protection Regulation (GDPR)
+
+[-0.6220900416374207, -1.5773144960403442, 2.4547719955444336]
+
+ Additional states, as well as foreign jurisdictions, have enacted or are proposing similar data protection regimes, resulting in a rapidly evolving landscape governing how we collect, use, transfers and protect personal data
+
+[0.02719069831073284, -2.034341335296631, 2.2056639194488525]
+
+ These new regulations, as well as changes to existing rules, could result in material increases in operating costs and impact the manner in which our products and services can be offered to our clients
+
+[-1.749504804611206, 2.4834048748016357, -0.21730774641036987]
+
+ Any failure to comply with the CCPA, GDPR or other applicable data protection regulations could subject us to risk of regulatory investigation, penalties, civil litigation and reputational harm, and could have a material adverse effect on our business, financial condition and results of operation
+
+[-1.9539974927902222, 2.5598151683807373, 0.12754136323928833]
+
+ 
+
+Our business is subject to rules and regulations adopted by state, federal and foreign governments, and regulatory organizations governing data privacy, including for example the California Consumer Privacy Act (CCPA) and the European General Data Protection Regulation (GDPR)
+
+[-0.6518675684928894, -1.5127588510513306, 2.4729535579681396]
+
+ Additional states, as well as foreign jurisdictions, have enacted or are proposing similar data protection regimes, resulting in a rapidly evolving landscape governing how we collect, use, transfer and protect personal data
+
+[0.05111603066325188, -2.0610830783843994, 2.1991114616394043]
+
+  Rapidly evolving regulations regarding data privacy could increase our costs and adversely affect our business
+
+[-1.7979191541671753, 2.52311372756958, -0.29480791091918945]
+
+ Our business is subject to rules and regulations adopted by state, federal and foreign governments, and regulatory organizations governing data privacy, including, but not limited to for example, the California Consumer Privacy Act (CCPA) and the European General Data Protection Regulation (GDPR)
+
+[-0.6220900416374207, -1.5773144960403442, 2.4547719955444336]
+
+ Additional states, as well as foreign jurisdictions, have enacted or are proposing similar data protection regimes, resulting in a rapidly evolving landscape governing how we collect, use, transfers and protect personal data
+
+[0.02719069831073284, -2.034341335296631, 2.2056639194488525]
+
+ These new regulations, as well as changes to existing rules, could result in material increases in operating costs and impact the manner in which our products and services can be offered to our clients
+
+[-1.749504804611206, 2.4834048748016357, -0.21730774641036987]
+
+ Any failure to comply with the CCPA, GDPR or other applicable data protection regulations could subject us to risk of regulatory investigation, penalties, civil litigation and reputational harm, and could have a material adverse effect on our business, financial condition and results of operation
+
+[-1.9539974927902222, 2.5598151683807373, 0.12754136323928833]
+
+ 
+

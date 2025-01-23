@@ -1,0 +1,60 @@
+ In addition, California Consumer Privacy Act of 2018 (“CCPA”), which also applies to us, came into effect on January 1, 2020, and grants California consumers certain rights to, among other things, access and delete data about them subject to certain exceptions, as well as a private right of action related to cybersecurity breaches with statutory penalties
+
+[-0.5201404094696045, -1.5578075647354126, 2.3577873706817627]
+
+ Additionally, a California ballot initiative known as the California Privacy Rights Act of 2020 (“CPRA”) passed as part of the November 2020 ballot and will become fully effective on January 1, 2023
+
+[0.05178151652216911, -2.077873945236206, 2.150625705718994]
+
+ The CPRA will apply to us and will substantially amend the CCPA, providing for additional consumer privacy rights, additional regulatory obligations, and creating a new  privacy  focused  California  regulatory  agency  with enforcement authority
+
+[0.814129114151001, -2.4782893657684326, 1.6959768533706665]
+
+Cybersecurity and Privacy
+
+ Privacy legislation and regulation has also become an issue of increasing focus of the federal government and in many states
+
+[-0.21321919560432434, -1.7211648225784302, 2.27280592918396]
+
+ The NAIC has adopted an Insurance Data Security Model Law, which, when adopted by the states, will require insurers, insurance producers and other entities required to be licensed under state insurance laws to comply with certain requirements under state insurance laws, such as developing and maintaining a written information security program, conducting risk assessments and overseeing the data security practices of third- party vendors
+
+[-0.012487995438277721, -2.099468946456909, 2.1386899948120117]
+
+ A range of new cybersecurity and privacy laws are also under consideration in other states, as well as by the federal government
+
+[0.16926507651805878, -2.171527147293091, 2.0365328788757324]
+
+ In addition, certain state insurance regulators are developing or have developed regulations that may impose regulatory requirements relating to cybersecurity on insurance and reinsurance companies (potentially including insurance and reinsurance companies that are not domiciled, but are licensed, in the relevant state)
+
+[-0.9756733775138855, -0.5813496112823486, 2.224229335784912]
+
+ In addition, California Consumer Privacy Act of 2018 (“CCPA”), which also applies to us, came into effect on January 1, 2020, and grants California consumers certain rights to, among other things, access and delete data about them subject to certain exceptions, as well as a private right of action related to cybersecurity breaches with statutory penalties
+
+[-0.5201404094696045, -1.5578075647354126, 2.3577873706817627]
+
+ Additionally, a California ballot initiative known as the California Privacy Rights Act of 2020 (“CPRA”) passed as part of the November 2020 ballot and will become fully effective on January 1, 2023
+
+[0.05178151652216911, -2.077873945236206, 2.150625705718994]
+
+ The CPRA will apply to us and will substantially amend the CCPA, providing for additional consumer privacy rights, additional regulatory obligations, and creating a new  privacy  focused  California  regulatory  agency  with enforcement authority
+
+[0.814129114151001, -2.4782893657684326, 1.6959768533706665]
+
+Cybersecurity and Privacy
+
+ Privacy legislation and regulation has also become an issue of increasing focus of the federal government and in many states
+
+[-0.21321919560432434, -1.7211648225784302, 2.27280592918396]
+
+ The NAIC has adopted an Insurance Data Security Model Law, which, when adopted by the states, will require insurers, insurance producers and other entities required to be licensed under state insurance laws to comply with certain requirements under state insurance laws, such as developing and maintaining a written information security program, conducting risk assessments and overseeing the data security practices of third- party vendors
+
+[-0.012487995438277721, -2.099468946456909, 2.1386899948120117]
+
+ A range of new cybersecurity and privacy laws are also under consideration in other states, as well as by the federal government
+
+[0.16926507651805878, -2.171527147293091, 2.0365328788757324]
+
+ In addition, certain state insurance regulators are developing or have developed regulations that may impose regulatory requirements relating to cybersecurity on insurance and reinsurance companies (potentially including insurance and reinsurance companies that are not domiciled, but are licensed, in the relevant state)
+
+[-0.9756733775138855, -0.5813496112823486, 2.224229335784912]
+

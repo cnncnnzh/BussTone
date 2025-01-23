@@ -1,0 +1,44 @@
+The California Consumer Privacy Act (“CCPA”) took effect on January 1, 2020 and imposed privacy compliance obligations with regard to the personal information of California residents
+
+[-0.8589081764221191, -0.6944246292114258, 2.185821294784546]
+
+ This legislation creates significant new requirements for identifying, managing, securing, tracking, producing and deleting consumer personal information and takes the position that consumers “own” their personal information and provides specific rights, including the right to opt out of their data being sold to a third party by the Company
+
+[0.06025312468409538, -2.0180022716522217, 2.182112693786621]
+
+ The CCPA defines personal information extremely broadly as “information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household
+
+[-1.1191238164901733, -0.7680336833000183, 2.4776976108551025]
+
+” Like the international privacy laws, this creates greater complexity in implementing a compliance program to support these requirements
+
+[-0.9030580520629883, 0.5019531846046448, 1.1334173679351807]
+
+ This law became enforceable by the California Attorney General on July 1, 2020 and the Company has implemented significant mechanisms to comply with this law
+
+[1.7575217485427856, -2.660846471786499, 0.31543418765068054]
+
+ 
+
+The California Consumer Privacy Act (“CCPA”) took effect on January 1, 2020 and imposed privacy compliance obligations with regard to the personal information of California residents
+
+[-0.8589081764221191, -0.6944246292114258, 2.185821294784546]
+
+ This legislation creates significant new requirements for identifying, managing, securing, tracking, producing and deleting consumer personal information and takes the position that consumers “own” their personal information and provides specific rights, including the right to opt out of their data being sold to a third party by the Company
+
+[0.06025312468409538, -2.0180022716522217, 2.182112693786621]
+
+ The CCPA defines personal information extremely broadly as “information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household
+
+[-1.1191238164901733, -0.7680336833000183, 2.4776976108551025]
+
+” Like the international privacy laws, this creates greater complexity in implementing a compliance program to support these requirements
+
+[-0.9030580520629883, 0.5019531846046448, 1.1334173679351807]
+
+ This law became enforceable by the California Attorney General on July 1, 2020 and the Company has implemented significant mechanisms to comply with this law
+
+[1.7575217485427856, -2.660846471786499, 0.31543418765068054]
+
+ 
+

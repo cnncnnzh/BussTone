@@ -1,0 +1,60 @@
+There are numerous laws and regulations regarding privacy and the storage, sharing, use, processing, transfer, disclosure and protection of personal data, the scope of which is changing, subject to differing interpretations, and may be inconsistent between jurisdictions
+
+[-1.5944020748138428, 0.7812191843986511, 1.8076812028884888]
+
+ For example, California recently adopted the California Consumer Privacy Act (“CCPA”), which became effective on January 1, 2020, and limits how we may collect and use personal data
+
+[-0.6230997443199158, -1.2222185134887695, 2.33420467376709]
+
+ The effects of the CCPA potentially are far-reaching, and may require us to modify our data processing practices and policies and incur substantial compliance- related costs and expenses
+
+[-1.7545431852340698, 2.7635486125946045, -0.6376562714576721]
+
+ These and other data privacy laws and their interpretations continue to develop and may be inconsistent from jurisdiction to jurisdiction
+
+[-1.641520619392395, 1.4253710508346558, 1.156497597694397]
+
+ Non-compliance with these laws could result in penalties or significant legal liability
+
+[-1.7994155883789062, 2.633073568344116, -0.21309790015220642]
+
+ Although we take reasonable efforts to comply with all applicable laws and regulations, there can be no assurance that we will not be subject to regulatory action, including fines, in the event of an incident
+
+[-0.7260571718215942, -0.8907982110977173, 2.021162986755371]
+
+ We or our third-party service providers could be adversely affected if legislation or regulations are expanded to require changes in our or our third-party service providers’ business practices or if governing jurisdictions interpret or implement their legislation or regulations in ways that negatively affect our or our third-party service providers’ business, results of operations or financial condition
+
+[-1.8197940587997437, 1.7527250051498413, 1.1739264726638794]
+
+ 
+
+There are numerous laws and regulations regarding privacy and the storage, sharing, use, processing, transfer, disclosure and protection of personal data, the scope of which is changing, subject to differing interpretations, and may be inconsistent between jurisdictions
+
+[-1.5944020748138428, 0.7812191843986511, 1.8076812028884888]
+
+ For example, California recently adopted the California Consumer Privacy Act (“CCPA”), which became effective on January 1, 2020, and limits how we may collect and use personal data
+
+[-0.6230997443199158, -1.2222185134887695, 2.33420467376709]
+
+ The effects of the CCPA potentially are far-reaching, and may require us to modify our data processing practices and policies and incur substantial compliance- related costs and expenses
+
+[-1.7545431852340698, 2.7635486125946045, -0.6376562714576721]
+
+ These and other data privacy laws and their interpretations continue to develop and may be inconsistent from jurisdiction to jurisdiction
+
+[-1.641520619392395, 1.4253710508346558, 1.156497597694397]
+
+ Non-compliance with these laws could result in penalties or significant legal liability
+
+[-1.7994155883789062, 2.633073568344116, -0.21309790015220642]
+
+ Although we take reasonable efforts to comply with all applicable laws and regulations, there can be no assurance that we will not be subject to regulatory action, including fines, in the event of an incident
+
+[-0.7260571718215942, -0.8907982110977173, 2.021162986755371]
+
+ We or our third-party service providers could be adversely affected if legislation or regulations are expanded to require changes in our or our third-party service providers’ business practices or if governing jurisdictions interpret or implement their legislation or regulations in ways that negatively affect our or our third-party service providers’ business, results of operations or financial condition
+
+[-1.8197940587997437, 1.7527250051498413, 1.1739264726638794]
+
+ 
+

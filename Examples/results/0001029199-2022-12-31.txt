@@ -1,0 +1,68 @@
+Privacy and Information Security Regulations Our operations involve the collection and storage of certain types of personal customer data that are subject to privacy and security laws in the US and abroad
+
+[-1.1393835544586182, -0.9998026490211487, 2.6165051460266113]
+
+ In the United States, we are subject to the Gramm-Leach-Bliley Act ("GLBA") and various state laws including California Consumer Privacy Act ("CCPA"), which requires that financial institutions have in place policies regarding the collection, processing, storage and disclosure of information considered nonpublic personal information
+
+[-1.1064409017562866, -0.8573847413063049, 2.533377170562744]
+
+ Laws in other countries include the EU's General Data Protection Regulation (2016/679) ("GDPR"), which became effective from May 25, 2018, as well as the laws of other countries
+
+[-0.8225480318069458, -1.2646650075912476, 2.495356559753418]
+
+ The GDPR establishes stringent requirements for the collection and processing of personal information of individuals within the EU The GDPR establishes certain rights of individuals regarding personal information processed by companies as well as requirements for information security, and imposes significant fines that may be revenue-based for violation of its requirements
+
+[-1.438259482383728, 0.5502336025238037, 1.8108261823654175]
+
+ Any failure on our part to meet the requirements of the GDPR could result in the imposition of fines and penalties that could affect our financial results
+
+[-1.9434213638305664, 2.7714598178863525, -0.364359050989151]
+
+ We comply with the GLBA and state privacy provisions
+
+[-0.10490994155406952, -2.0041329860687256, 2.215222120285034]
+
+ In July 2020, the European Court of Justice invalidated the EU-US Privacy Shield as a lawful mechanism for transferring personal data to the US as a result of concerns related to surveillance by law enforcement agencies and a lack of judicial redress by individuals in the EU (known as the "Schrems II" decision)
+
+[-1.491649866104126, 2.5457513332366943, -0.4731858968734741]
+
+ Despite the July 2020 ruling of the European Court of Justice, we believe we remain in compliance with EU regulations regarding the transfer of personal data to the United States and other jurisdictions
+
+[1.5379599332809448, -2.475900411605835, 0.3793458640575409]
+
+ 
+
+Privacy and Information Security Regulations Our operations involve the collection and storage of certain types of personal customer data that are subject to privacy and security laws in the US and abroad
+
+[-1.1393835544586182, -0.9998026490211487, 2.6165051460266113]
+
+ In the United States, we are subject to the Gramm-Leach-Bliley Act ("GLBA") and various state laws including California Consumer Privacy Act ("CCPA"), which requires that financial institutions have in place policies regarding the collection, processing, storage and disclosure of information considered nonpublic personal information
+
+[-1.1064409017562866, -0.8573847413063049, 2.533377170562744]
+
+ Laws in other countries include the EU's General Data Protection Regulation (2016/679) ("GDPR"), which became effective from May 25, 2018, as well as the laws of other countries
+
+[-0.8225480318069458, -1.2646650075912476, 2.495356559753418]
+
+ The GDPR establishes stringent requirements for the collection and processing of personal information of individuals within the EU The GDPR establishes certain rights of individuals regarding personal information processed by companies as well as requirements for information security, and imposes significant fines that may be revenue-based for violation of its requirements
+
+[-1.438259482383728, 0.5502336025238037, 1.8108261823654175]
+
+ Any failure on our part to meet the requirements of the GDPR could result in the imposition of fines and penalties that could affect our financial results
+
+[-1.9434213638305664, 2.7714598178863525, -0.364359050989151]
+
+ We comply with the GLBA and state privacy provisions
+
+[-0.10490994155406952, -2.0041329860687256, 2.215222120285034]
+
+ In July 2020, the European Court of Justice invalidated the EU-US Privacy Shield as a lawful mechanism for transferring personal data to the US as a result of concerns related to surveillance by law enforcement agencies and a lack of judicial redress by individuals in the EU (known as the "Schrems II" decision)
+
+[-1.491649866104126, 2.5457513332366943, -0.4731858968734741]
+
+ Despite the July 2020 ruling of the European Court of Justice, we believe we remain in compliance with EU regulations regarding the transfer of personal data to the United States and other jurisdictions
+
+[1.5379599332809448, -2.475900411605835, 0.3793458640575409]
+
+ 
+

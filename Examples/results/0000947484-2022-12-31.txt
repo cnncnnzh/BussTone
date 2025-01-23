@@ -1,0 +1,72 @@
+ The California Consumer Privacy Act of 2018 (“CCPA”), came into effect on January 1, 2020, and grants California consumers certain rights to, among other things, access and delete data about them subject to certain exceptions, as well as a private right of action related to cybersecurity breaches with statutory penalties
+
+[-0.6220514178276062, -1.3458936214447021, 2.3283143043518066]
+
+ Additionally, the California Privacy Rights Act of 2020 (“CPRA”) passed as part of the November 2020 ballot and became fully effective on January 1, 2023
+
+[-0.4518863558769226, -1.653281331062317, 2.347663164138794]
+
+ It also created a new privacy focused California regulatory agency with enforcement authority, the California Privacy Protection Agency (“CPPA”)
+
+[0.4625004231929779, -2.324951410293579, 2.091367483139038]
+
+ While these state laws provide consumer privacy rights and protections like those in the CCPA and CPRA, they exempt entities subject to the Gramm-Leach-Bliley Act from their requirements
+
+[-0.8631279468536377, -0.6163817048072815, 2.3061728477478027]
+
+ The American Data Privacy and Protection Act introduced in the US Congress, if enacted, would also apply to our US operations
+
+[-0.2182757705450058, -2.02197265625, 2.4286928176879883]
+
+ Several states, including Virginia, Colorado, Connecticut and Utah, have adopted new comprehensive data privacy legislation that is coming into effect in 2023
+
+[1.3903331756591797, -2.5600969791412354, 0.6680487990379333]
+
+ The CPRA applies to some of our data collecting and processing activities, and it provides for additional consumer privacy rights, and additional regulatory obligations over certain data
+
+[0.13414908945560455, -2.2364718914031982, 2.1486613750457764]
+
+Privacy legislation and regulation has also become an issue of increasing focus in many states
+
+[-0.2452688068151474, -1.5564073324203491, 2.117870569229126]
+
+  A range of new cybersecurity and privacy laws are also under consideration in other states, as well as by the federal government
+
+[0.16926507651805878, -2.171527147293091, 2.0365328788757324]
+
+ The California Consumer Privacy Act of 2018 (“CCPA”), came into effect on January 1, 2020, and grants California consumers certain rights to, among other things, access and delete data about them subject to certain exceptions, as well as a private right of action related to cybersecurity breaches with statutory penalties
+
+[-0.6220514178276062, -1.3458936214447021, 2.3283143043518066]
+
+ Additionally, the California Privacy Rights Act of 2020 (“CPRA”) passed as part of the November 2020 ballot and became fully effective on January 1, 2023
+
+[-0.4518863558769226, -1.653281331062317, 2.347663164138794]
+
+ It also created a new privacy focused California regulatory agency with enforcement authority, the California Privacy Protection Agency (“CPPA”)
+
+[0.4625004231929779, -2.324951410293579, 2.091367483139038]
+
+ While these state laws provide consumer privacy rights and protections like those in the CCPA and CPRA, they exempt entities subject to the Gramm-Leach-Bliley Act from their requirements
+
+[-0.8631279468536377, -0.6163817048072815, 2.3061728477478027]
+
+ The American Data Privacy and Protection Act introduced in the US Congress, if enacted, would also apply to our US operations
+
+[-0.2182757705450058, -2.02197265625, 2.4286928176879883]
+
+ Several states, including Virginia, Colorado, Connecticut and Utah, have adopted new comprehensive data privacy legislation that is coming into effect in 2023
+
+[1.3903331756591797, -2.5600969791412354, 0.6680487990379333]
+
+ The CPRA applies to some of our data collecting and processing activities, and it provides for additional consumer privacy rights, and additional regulatory obligations over certain data
+
+[0.13414908945560455, -2.2364718914031982, 2.1486613750457764]
+
+Privacy legislation and regulation has also become an issue of increasing focus in many states
+
+[-0.2452688068151474, -1.5564073324203491, 2.117870569229126]
+
+  A range of new cybersecurity and privacy laws are also under consideration in other states, as well as by the federal government
+
+[0.16926507651805878, -2.171527147293091, 2.0365328788757324]
+

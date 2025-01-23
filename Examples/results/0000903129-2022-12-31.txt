@@ -1,0 +1,80 @@
+ Furthermore, on January 1, 2023, substantive provisions of the California Privacy Rights Act (“CPRA”) became  effective, in some cases requiring new or modified practices and operations
+
+[-0.5367404222488403, -1.222059965133667, 2.106228828430176]
+
+We are subject to several data privacy and data security laws and regulations in the various jurisdictions that we operate
+
+[-0.919364333152771, -1.084841251373291, 2.5207011699676514]
+
+ An  increasing number of US states have enacted data privacy and security laws and regulations that govern the collection, use, disclosure,  transfer, storage, disposal, and protection of personal information, such as social security numbers, financial information and other  information
+
+[-0.8954312205314636, -1.0321470499038696, 2.377385139465332]
+
+ In particular, the European Union’s General Data Protection Regulation (“GDPR”), which  became effective on May 25, 2018, imposes additional obligations and risk upon our business and which increases substantially the  penalties to which we could be subject in the event of any non-compliance
+
+[-1.6628283262252808, 1.8865264654159546, 0.5450838804244995]
+
+ Many countries have enacted similar types of legislative  and regulatory requirements concerning data protection, and additional countries are considering similar legal frameworks
+
+[-0.24691744148731232, -1.6963423490524292, 2.201296329498291]
+
+ Similarly, many of the requirements  mandated by the California Consumer Protection Act (“CCPA”) that went into effect on January 1, 2020 have not yet been interpreted  by courts, and best practices are still being developed by the industry, all of which increase the risk of compliance failure and related  adverse impacts
+
+[-0.7238532304763794, -0.09283559769392014, 1.5376702547073364]
+
+  Legislators and/or regulators in foreign countries in which we operate are increasingly adopting or revising privacy, information  security and data protection laws as well
+
+[-0.6217402815818787, -1.1666392087936401, 2.279311180114746]
+
+ Other states enacted similar privacy laws in recent years  and other states are considering doing so
+
+[0.4144290089607239, -2.2661023139953613, 1.9630345106124878]
+
+ These privacy laws may impose substantial penalties for violations, impose significant costs  for investigations and compliance, allow private class-action litigation and carry significant potential liability for our business
+
+[-1.8550872802734375, 2.3893744945526123, 0.41657841205596924]
+
+ For example, several US territories and all 50 states have adopted data breach rules that require timely notification if a  company has experienced the unauthorized access or acquisition of personal information
+
+[-1.6829732656478882, 1.4912033081054688, 1.3218533992767334]
+
+ Furthermore, on January 1, 2023, substantive provisions of the California Privacy Rights Act (“CPRA”) became  effective, in some cases requiring new or modified practices and operations
+
+[-0.5367404222488403, -1.222059965133667, 2.106228828430176]
+
+We are subject to several data privacy and data security laws and regulations in the various jurisdictions that we operate
+
+[-0.919364333152771, -1.084841251373291, 2.5207011699676514]
+
+ An  increasing number of US states have enacted data privacy and security laws and regulations that govern the collection, use, disclosure,  transfer, storage, disposal, and protection of personal information, such as social security numbers, financial information and other  information
+
+[-0.8954312205314636, -1.0321470499038696, 2.377385139465332]
+
+ In particular, the European Union’s General Data Protection Regulation (“GDPR”), which  became effective on May 25, 2018, imposes additional obligations and risk upon our business and which increases substantially the  penalties to which we could be subject in the event of any non-compliance
+
+[-1.6628283262252808, 1.8865264654159546, 0.5450838804244995]
+
+ Many countries have enacted similar types of legislative  and regulatory requirements concerning data protection, and additional countries are considering similar legal frameworks
+
+[-0.24691744148731232, -1.6963423490524292, 2.201296329498291]
+
+ Similarly, many of the requirements  mandated by the California Consumer Protection Act (“CCPA”) that went into effect on January 1, 2020 have not yet been interpreted  by courts, and best practices are still being developed by the industry, all of which increase the risk of compliance failure and related  adverse impacts
+
+[-0.7238532304763794, -0.09283559769392014, 1.5376702547073364]
+
+  Legislators and/or regulators in foreign countries in which we operate are increasingly adopting or revising privacy, information  security and data protection laws as well
+
+[-0.6217402815818787, -1.1666392087936401, 2.279311180114746]
+
+ Other states enacted similar privacy laws in recent years  and other states are considering doing so
+
+[0.4144290089607239, -2.2661023139953613, 1.9630345106124878]
+
+ These privacy laws may impose substantial penalties for violations, impose significant costs  for investigations and compliance, allow private class-action litigation and carry significant potential liability for our business
+
+[-1.8550872802734375, 2.3893744945526123, 0.41657841205596924]
+
+ For example, several US territories and all 50 states have adopted data breach rules that require timely notification if a  company has experienced the unauthorized access or acquisition of personal information
+
+[-1.6829732656478882, 1.4912033081054688, 1.3218533992767334]
+

@@ -1,0 +1,24 @@
+ Additionally, in June 2018, California adopted the California Consumer Privacy Act (CCPA)
+
+[0.7844023704528809, -2.25361967086792, 1.6034640073776245]
+
+ The CCPA is a broad data privacy law which grants consumers new rights over their own personal data and allows access, porting, and data deletion
+
+[-0.1361093968153, -1.881127953529358, 2.226722002029419]
+
+ The CCPA also authorizes the California State Attorney General to enforce those rights including assessing civil penalties
+
+[-0.29819270968437195, -1.5290257930755615, 2.2927513122558594]
+
+ Additionally, in June 2018, California adopted the California Consumer Privacy Act (CCPA)
+
+[0.7844023704528809, -2.25361967086792, 1.6034640073776245]
+
+ The CCPA is a broad data privacy law which grants consumers new rights over their own personal data and allows access, porting, and data deletion
+
+[-0.1361093968153, -1.881127953529358, 2.226722002029419]
+
+ The CCPA also authorizes the California State Attorney General to enforce those rights including assessing civil penalties
+
+[-0.29819270968437195, -1.5290257930755615, 2.2927513122558594]
+

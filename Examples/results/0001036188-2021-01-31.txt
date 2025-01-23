@@ -1,0 +1,80 @@
+  For example, the European Union’s General Data Protection Regulation (GDPR), establishes requirements regarding the handling of personal data
+
+[-0.9265437126159668, -0.9613378643989563, 2.4771971702575684]
+
+ In addition, domestic data privacy laws, such as the California Consumer Privacy Act (CCPA), continue to evolve and could expose us to further regulatory burdens
+
+[-1.514715552330017, 2.0224015712738037, -0.11241990327835083]
+
+   Regulatory focus on privacy issues continues to increase and worldwide laws and regulations concerning the handling of personal information are expanding and becoming more complex
+
+[0.6062726974487305, -2.3656537532806396, 1.7180782556533813]
+
+   Risks Related to Laws and Regulations   Our solutions can be used to collect and store personal information of our customers’ employees or customers, and therefore privacy concerns and governmental regulations could result in additional cost and liability to us or inhibit sales of our solutions
+
+[-1.7611740827560425, 1.4750365018844604, 1.3223415613174438]
+
+ Many federal, state and foreign government bodies and agencies have adopted, or are considering adopting, laws and regulations regarding the collection, use, disclosure and retention of personal information
+
+[-0.7092739343643188, -1.2289894819259644, 2.3154168128967285]
+
+ In July 2020, the European Union (EU) invalidated the Privacy Shield framework with the United States, which previously provided a mechanism for companies to transfer data from EU member states to the US This action generated uncertainty about the legal basis for data transfers to the US or interruption of such transfers
+
+[-1.6860657930374146, 2.3031468391418457, 0.20451050996780396]
+
+ Non-compliance with the GDPR may result in monetary penalties of up to 4% of worldwide revenue
+
+[-1.752051591873169, 2.81388521194458, -0.6984378099441528]
+
+ Further, the United Kingdom’s departure from the European Union has created uncertainty with regard to the requirements for data transfers between the United Kingdom and the EU and other jurisdictions
+
+[-1.5095263719558716, 1.5590165853500366, 0.5182604789733887]
+
+ These and other requirements could increase the cost of compliance for us and our customers, restrict our and our customers’ ability to store and process data, negatively impact our ability to offer our solutions in certain locations and limit our customers' ability to deploy our solutions globally
+
+[-1.8287264108657837, 2.7049124240875244, -0.4399673640727997]
+
+ These consequences may be more significant in countries with legislation that requires data to remain localized “in country”, as this could require us or our customers to establish data storage in other jurisdictions or apply local operational processes that are difficult and costly to integrate with global processes
+
+[-1.87814462184906, 2.1430492401123047, 0.5690500140190125]
+
+  For example, the European Union’s General Data Protection Regulation (GDPR), establishes requirements regarding the handling of personal data
+
+[-0.9265437126159668, -0.9613378643989563, 2.4771971702575684]
+
+ In addition, domestic data privacy laws, such as the California Consumer Privacy Act (CCPA), continue to evolve and could expose us to further regulatory burdens
+
+[-1.514715552330017, 2.0224015712738037, -0.11241990327835083]
+
+   Regulatory focus on privacy issues continues to increase and worldwide laws and regulations concerning the handling of personal information are expanding and becoming more complex
+
+[0.6062726974487305, -2.3656537532806396, 1.7180782556533813]
+
+   Risks Related to Laws and Regulations   Our solutions can be used to collect and store personal information of our customers’ employees or customers, and therefore privacy concerns and governmental regulations could result in additional cost and liability to us or inhibit sales of our solutions
+
+[-1.7611740827560425, 1.4750365018844604, 1.3223415613174438]
+
+ Many federal, state and foreign government bodies and agencies have adopted, or are considering adopting, laws and regulations regarding the collection, use, disclosure and retention of personal information
+
+[-0.7092739343643188, -1.2289894819259644, 2.3154168128967285]
+
+ In July 2020, the European Union (EU) invalidated the Privacy Shield framework with the United States, which previously provided a mechanism for companies to transfer data from EU member states to the US This action generated uncertainty about the legal basis for data transfers to the US or interruption of such transfers
+
+[-1.6860657930374146, 2.3031468391418457, 0.20451050996780396]
+
+ Non-compliance with the GDPR may result in monetary penalties of up to 4% of worldwide revenue
+
+[-1.752051591873169, 2.81388521194458, -0.6984378099441528]
+
+ Further, the United Kingdom’s departure from the European Union has created uncertainty with regard to the requirements for data transfers between the United Kingdom and the EU and other jurisdictions
+
+[-1.5095263719558716, 1.5590165853500366, 0.5182604789733887]
+
+ These and other requirements could increase the cost of compliance for us and our customers, restrict our and our customers’ ability to store and process data, negatively impact our ability to offer our solutions in certain locations and limit our customers' ability to deploy our solutions globally
+
+[-1.8287264108657837, 2.7049124240875244, -0.4399673640727997]
+
+ These consequences may be more significant in countries with legislation that requires data to remain localized “in country”, as this could require us or our customers to establish data storage in other jurisdictions or apply local operational processes that are difficult and costly to integrate with global processes
+
+[-1.87814462184906, 2.1430492401123047, 0.5690500140190125]
+

@@ -1,0 +1,80 @@
+ For example, the California Consumer Privacy Act (the CCPA), which increases privacy rights for California residents and imposes obligations on companies that process their personal information, came into effect on January 1, 2020
+
+[-0.6736115217208862, -1.168791651725769, 2.2383017539978027]
+
+ In November 2020, California also passed the California Privacy Rights Act (the CPRA), which significantly expands the CCPA, including by introducing additional obligations such as data minimization and storage limitations and granting additional rights to consumers
+
+[1.6103311777114868, -2.5736007690429688, 0.4386250674724579]
+
+ Among other things, the CCPA requires covered companies to provide new disclosures to California consumers and provide such consumers new data protection and privacy rights, including the ability to opt-out of certain sales of personal information
+
+[-0.17776550352573395, -1.9452096223831177, 2.182060480117798]
+
+ State laws are changing rapidly and there is discussion in the US Congress of a new comprehensive federal data privacy law to which we would become subject if it is enacted
+
+[-0.773000955581665, -0.6677092909812927, 2.050612688064575]
+
+In the United States, various federal and state regulators, including governmental agencies like the Federal Trade Commission, have adopted, or are considering adopting, laws and regulations concerning personal information and data security
+
+[-0.3500327467918396, -1.2796056270599365, 2.1204428672790527]
+
+ This private right of action may increase the likelihood of, and risks associated with, data breach litigation
+
+[-1.4459513425827026, 1.8360892534255981, 0.09481804072856903]
+
+ In 2021, Virginia and Colorado both passed comprehensive state data privacy laws
+
+[1.4293959140777588, -2.5524537563323975, 0.6274259686470032]
+
+ The CCPA provides for civil penalties for violations, as well as a private right of action for certain data breaches that result in the loss of personal information
+
+[-1.1148176193237305, -0.5461156964302063, 2.2902140617370605]
+
+ In addition, laws in all 50 US states require businesses to provide notice to consumers whose personal information has been disclosed as a result of a data breach
+
+[-1.5022200345993042, 0.23703573644161224, 2.1391892433166504]
+
+ Certain state laws may be more stringent or broader in scope, or offer greater individual rights, with respect to personal information than federal, international or other state laws, and such laws may differ from each other, all of which may complicate compliance efforts
+
+[-1.5810261964797974, 1.4429668188095093, 1.030938744544983]
+
+ For example, the California Consumer Privacy Act (the CCPA), which increases privacy rights for California residents and imposes obligations on companies that process their personal information, came into effect on January 1, 2020
+
+[-0.6736115217208862, -1.168791651725769, 2.2383017539978027]
+
+ In November 2020, California also passed the California Privacy Rights Act (the CPRA), which significantly expands the CCPA, including by introducing additional obligations such as data minimization and storage limitations and granting additional rights to consumers
+
+[1.6103311777114868, -2.5736007690429688, 0.4386250674724579]
+
+ Among other things, the CCPA requires covered companies to provide new disclosures to California consumers and provide such consumers new data protection and privacy rights, including the ability to opt-out of certain sales of personal information
+
+[-0.17776550352573395, -1.9452096223831177, 2.182060480117798]
+
+ State laws are changing rapidly and there is discussion in the US Congress of a new comprehensive federal data privacy law to which we would become subject if it is enacted
+
+[-0.773000955581665, -0.6677092909812927, 2.050612688064575]
+
+In the United States, various federal and state regulators, including governmental agencies like the Federal Trade Commission, have adopted, or are considering adopting, laws and regulations concerning personal information and data security
+
+[-0.3500327467918396, -1.2796056270599365, 2.1204428672790527]
+
+ This private right of action may increase the likelihood of, and risks associated with, data breach litigation
+
+[-1.4459513425827026, 1.8360892534255981, 0.09481804072856903]
+
+ In 2021, Virginia and Colorado both passed comprehensive state data privacy laws
+
+[1.4293959140777588, -2.5524537563323975, 0.6274259686470032]
+
+ The CCPA provides for civil penalties for violations, as well as a private right of action for certain data breaches that result in the loss of personal information
+
+[-1.1148176193237305, -0.5461156964302063, 2.2902140617370605]
+
+ In addition, laws in all 50 US states require businesses to provide notice to consumers whose personal information has been disclosed as a result of a data breach
+
+[-1.5022200345993042, 0.23703573644161224, 2.1391892433166504]
+
+ Certain state laws may be more stringent or broader in scope, or offer greater individual rights, with respect to personal information than federal, international or other state laws, and such laws may differ from each other, all of which may complicate compliance efforts
+
+[-1.5810261964797974, 1.4429668188095093, 1.030938744544983]
+

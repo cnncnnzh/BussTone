@@ -1,0 +1,80 @@
+ For example, the California Consumer Privacy Act of 2018 (“CCPA”), as amended, applies to personal information of consumers, business representatives, and employees, and requires businesses subject to the CCPA to provide specific disclosures in privacy notices and honor requests of California residents to exercise certain privacy rights
+
+[-1.3065032958984375, -0.28210482001304626, 2.4152207374572754]
+
+ For example, the California Consumer Privacy Act of 2018 (“CCPA”), as amended, applies to personal information of consumers, business representatives, and employees, and requires businesses subject to the CCPA to provide specific disclosures in privacy notices and honor requests of California residents to exercise certain privacy rights
+
+[-1.3065032958984375, -0.28210482001304626, 2.4152207374572754]
+
+ For example, the European General Data Protection Regulation ("GDPR") and the United Kingdom’s GDPR (“UK GDPR”) contain provisions specifically directed at the processing of health information
+
+[-0.9657402038574219, -0.7437899112701416, 2.474813222885132]
+
+ For example, the European General Data Protection Regulation ("GDPR") and the United Kingdom’s GDPR (“UK GDPR”) contain provisions specifically directed at the processing of health information
+
+[-0.9657402038574219, -0.7437899112701416, 2.474813222885132]
+
+ Although the CCPA exempts some data processed in the context of clinical trials, the CCPA increases compliance costs and potential liability with respect to other personal data we maintain about California residents
+
+[-0.7827982306480408, 1.19198739528656, -0.4430226683616638]
+
+ Although the CCPA exempts some data processed in the context of clinical trials, the CCPA increases compliance costs and potential liability with respect to other personal data we maintain about California residents
+
+[-0.7827982306480408, 1.19198739528656, -0.4430226683616638]
+
+  In addition, we may be subject to data privacy and security regulations by both the US government and the states and other jurisdictions in which we conduct our business
+
+[-1.4861901998519897, 0.1948561817407608, 2.2054543495178223]
+
+In addition, we may be subject to data privacy and security regulations by both the US government and the states and other jurisdictions in which we conduct our business
+
+[-1.4861901998519897, 0.1948561817407608, 2.2054543495178223]
+
+ Under the GDPR, companies may face temporary or definitive bans on data processing and other corrective actions; fines of up to 20 million Euros or 4% of annual global revenue, whichever is greater; or private litigation related to processing of personal data brought by classes of data subjects or consumer protection organizations authorized at law to represent their interests
+
+[-1.871029257774353, 2.339456796646118, 0.644620954990387]
+
+ Under the GDPR, companies may face temporary or definitive bans on data processing and other corrective actions; fines of up to 20 million Euros or 4% of annual global revenue, whichever is greater; or private litigation related to processing of personal data brought by classes of data subjects or consumer protection organizations authorized at law to represent their interests
+
+[-1.871029257774353, 2.339456796646118, 0.644620954990387]
+
+ For example, the California Consumer Privacy Act of 2018 (“CCPA”), as amended, applies to personal information of consumers, business representatives, and employees, and requires businesses subject to the CCPA to provide specific disclosures in privacy notices and honor requests of California residents to exercise certain privacy rights
+
+[-1.3065032958984375, -0.28210482001304626, 2.4152207374572754]
+
+ For example, the California Consumer Privacy Act of 2018 (“CCPA”), as amended, applies to personal information of consumers, business representatives, and employees, and requires businesses subject to the CCPA to provide specific disclosures in privacy notices and honor requests of California residents to exercise certain privacy rights
+
+[-1.3065032958984375, -0.28210482001304626, 2.4152207374572754]
+
+ For example, the European General Data Protection Regulation ("GDPR") and the United Kingdom’s GDPR (“UK GDPR”) contain provisions specifically directed at the processing of health information
+
+[-0.9657402038574219, -0.7437899112701416, 2.474813222885132]
+
+ For example, the European General Data Protection Regulation ("GDPR") and the United Kingdom’s GDPR (“UK GDPR”) contain provisions specifically directed at the processing of health information
+
+[-0.9657402038574219, -0.7437899112701416, 2.474813222885132]
+
+ Although the CCPA exempts some data processed in the context of clinical trials, the CCPA increases compliance costs and potential liability with respect to other personal data we maintain about California residents
+
+[-0.7827982306480408, 1.19198739528656, -0.4430226683616638]
+
+ Although the CCPA exempts some data processed in the context of clinical trials, the CCPA increases compliance costs and potential liability with respect to other personal data we maintain about California residents
+
+[-0.7827982306480408, 1.19198739528656, -0.4430226683616638]
+
+  In addition, we may be subject to data privacy and security regulations by both the US government and the states and other jurisdictions in which we conduct our business
+
+[-1.4861901998519897, 0.1948561817407608, 2.2054543495178223]
+
+In addition, we may be subject to data privacy and security regulations by both the US government and the states and other jurisdictions in which we conduct our business
+
+[-1.4861901998519897, 0.1948561817407608, 2.2054543495178223]
+
+ Under the GDPR, companies may face temporary or definitive bans on data processing and other corrective actions; fines of up to 20 million Euros or 4% of annual global revenue, whichever is greater; or private litigation related to processing of personal data brought by classes of data subjects or consumer protection organizations authorized at law to represent their interests
+
+[-1.871029257774353, 2.339456796646118, 0.644620954990387]
+
+ Under the GDPR, companies may face temporary or definitive bans on data processing and other corrective actions; fines of up to 20 million Euros or 4% of annual global revenue, whichever is greater; or private litigation related to processing of personal data brought by classes of data subjects or consumer protection organizations authorized at law to represent their interests
+
+[-1.871029257774353, 2.339456796646118, 0.644620954990387]
+

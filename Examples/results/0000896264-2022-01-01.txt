@@ -38,3 +38,43 @@
 
 [-1.9036449193954468, 2.687727928161621, -0.3180854618549347]
 
+ The governments of our markets have adopted, or are adopting, strict laws and regulations governing data privacy and data security, and these areas are rapidly evolving and are likely to remain uncertain for the near future
+
+[-0.29494911432266235, -1.3275092840194702, 2.0147881507873535]
+
+   Personal privacy and data security are significant for us in all of our markets because we collect, store and transmit significant amounts of company, employee, and active Customer personal information, including personally identifiable information and payment card information, for business purposes, including for transactional and marketing purposes
+
+[-0.5547107458114624, -1.6436647176742554, 2.3363611698150635]
+
+ Examples of significant, recent data privacy and security laws affecting our various markets include the European Union General Data Protection Regulation, ("GDPR"), and the California Consumer Privacy Act, ("CCPA"), China’s national Data Privacy Law and the Personal Information Protection Law, and Cybersecurity Law
+
+[-0.9598370790481567, -0.7557855248451233, 2.3169827461242676]
+
+   In the ordinary course of our global business, we collect and store in our data centers and on our networks significant amounts of data, including intellectual property, our proprietary business information and that of our customers, suppliers and business partners, personally identifiable information (some of which is sensitive) and payment card information of our active Customers and employees
+
+[-1.0680782794952393, -1.0694868564605713, 2.4233341217041016]
+
+   We have incurred, and will continue to incur, substantial costs in striving to comply with these various data privacy and security laws and regulations
+
+[-0.9966624975204468, 1.0081409215927124, -0.018543656915426254]
+
+   We are subject to governmental regulation and other legal obligations, particularly related to privacy, data protection and data security, and our actual or perceived failure to comply with such obligations could adversely affect our business and operating results
+
+[-1.9241756200790405, 2.56888747215271, 0.0034891399554908276]
+
+ Any failure or perceived failure by us to comply with data security and privacy laws and regulations may result in governmental enforcement actions and prosecutions, private litigation, significant fines and penalties, adverse publicity, or reputation damage, which could have an adverse effect our business and operating results
+
+[-1.9098138809204102, 2.672743558883667, -0.125960111618042]
+
+    These laws and regulations often require us to do the following: implement new data privacy and security policies; permit individuals to access, correct and delete personal information stored by us: inform individuals of security breaches that affect their personal information; disclose to individuals how their personal information is processed and obtain their prior, express written consent to such processing; and localize individuals' PII within national borders, comply with cross border PII transfer requirements, among other things
+
+[-0.8346570730209351, -1.3317701816558838, 2.4109513759613037]
+
+ The secure processing and, when appropriate, deletion of this information is critical to our operations, regulatory compliance and business strategy
+
+[-0.6509776711463928, -1.502335548400879, 2.4593520164489746]
+
+ A data security failure involving that technology or the data stored in it, could disrupt our ability to operate our businesses effectively, adversely affect our reported financial results and our reputation, and expose us to potential liability or litigation
+
+[-1.9036449193954468, 2.687727928161621, -0.3180854618549347]
+

@@ -1,0 +1,80 @@
+ In particular, the California Consumer Privacy Act (“CCPA”) took effect on January 1, 2020, and imposed privacy compliance obligations with regard to the personal information of California residents
+
+[-0.7265628576278687, -0.8573165535926819, 2.140033721923828]
+
+ This legislation created significant new requirements for identifying, managing, securing, tracking, producing, and deleting consumer personal information and granted new rights to California residents, including the right to opt out of their data being sold to a third party by the Company
+
+[0.6664185523986816, -2.1864356994628906, 1.5369771718978882]
+
+ These protections have been expanded by the California Privacy Rights Act (“CPRA”), which became operational in most key respects on January 1, 2023
+
+[1.4267175197601318, -2.708087682723999, 0.9799903035163879]
+
+ The CCPA’s protections have been expanded by the California Privacy Rights Act (“CPRA”), which became operational in most key respects on January 1, 2023
+
+[1.6721863746643066, -2.800161123275757, 0.5823022723197937]
+
+ Similar laws have been proposed or passed at the US federal and state level, including the Virginia Consumer Data Protection Act, which took effect on January 1, 2023, the Colorado Consumer Protection Act, which will take effect on July 1, 2023, the Connecticut Data Privacy Act, which will take effect on July 1, 2023, and the Utah Consumer Privacy Act, which will take effect on December 31, 2023
+
+[-0.6501123905181885, -1.400995135307312, 2.371086359024048]
+
+ Similar laws have been proposed or passed at the US federal and state level, including the Virginia Consumer Data Protection Act, which took effect on January 1, 2023, the Colorado Consumer Protection Act, which will take effect on July 1, 2023, the Connecticut Data Privacy Act, which will take effect on July 1, 2023, and the Utah Consumer Privacy Act, which will take effect on December 31, 2023
+
+[-0.6501123905181885, -1.400995135307312, 2.371086359024048]
+
+ The legislative and regulatory landscape for privacy and data protection continues to evolve, and there has been an increasing amount of focus on privacy and data protection issues with the potential to affect our business, including laws in all 50 states requiring security breach notification in some circumstances
+
+[0.04940333589911461, -1.6155136823654175, 1.411157488822937]
+
+ For example, in the US, the CCPA affords California residents expanded privacy rights and protections and provides for civil penalties for violations and a private right of action related to certain data security breaches
+
+[-0.09417404234409332, -1.6940712928771973, 2.041245460510254]
+
+  We are subject to laws and regulations regarding protecting the security and privacy of certain healthcare and personal information, including: (a) HIPAA and the regulations thereunder, which establish (i) a complex regulatory framework including requirements for safeguarding protected health information and (ii) comprehensive federal standards regarding the uses and disclosures of protected health information; (b) state laws, including the CCPA; and (c) the European Union’s GDPR
+
+[-0.4643997550010681, -1.655967354774475, 2.3777966499328613]
+
+ Failure to comply with these laws can result in the imposition of significant fines and impact our ability to process certain personal data
+
+[-1.8819921016693115, 2.6559479236602783, -0.23665662109851837]
+
+ In particular, the California Consumer Privacy Act (“CCPA”) took effect on January 1, 2020, and imposed privacy compliance obligations with regard to the personal information of California residents
+
+[-0.7265628576278687, -0.8573165535926819, 2.140033721923828]
+
+ This legislation created significant new requirements for identifying, managing, securing, tracking, producing, and deleting consumer personal information and granted new rights to California residents, including the right to opt out of their data being sold to a third party by the Company
+
+[0.6664185523986816, -2.1864356994628906, 1.5369771718978882]
+
+ These protections have been expanded by the California Privacy Rights Act (“CPRA”), which became operational in most key respects on January 1, 2023
+
+[1.4267175197601318, -2.708087682723999, 0.9799903035163879]
+
+ The CCPA’s protections have been expanded by the California Privacy Rights Act (“CPRA”), which became operational in most key respects on January 1, 2023
+
+[1.6721863746643066, -2.800161123275757, 0.5823022723197937]
+
+ Similar laws have been proposed or passed at the US federal and state level, including the Virginia Consumer Data Protection Act, which took effect on January 1, 2023, the Colorado Consumer Protection Act, which will take effect on July 1, 2023, the Connecticut Data Privacy Act, which will take effect on July 1, 2023, and the Utah Consumer Privacy Act, which will take effect on December 31, 2023
+
+[-0.6501123905181885, -1.400995135307312, 2.371086359024048]
+
+ Similar laws have been proposed or passed at the US federal and state level, including the Virginia Consumer Data Protection Act, which took effect on January 1, 2023, the Colorado Consumer Protection Act, which will take effect on July 1, 2023, the Connecticut Data Privacy Act, which will take effect on July 1, 2023, and the Utah Consumer Privacy Act, which will take effect on December 31, 2023
+
+[-0.6501123905181885, -1.400995135307312, 2.371086359024048]
+
+ The legislative and regulatory landscape for privacy and data protection continues to evolve, and there has been an increasing amount of focus on privacy and data protection issues with the potential to affect our business, including laws in all 50 states requiring security breach notification in some circumstances
+
+[0.04940333589911461, -1.6155136823654175, 1.411157488822937]
+
+ For example, in the US, the CCPA affords California residents expanded privacy rights and protections and provides for civil penalties for violations and a private right of action related to certain data security breaches
+
+[-0.09417404234409332, -1.6940712928771973, 2.041245460510254]
+
+  We are subject to laws and regulations regarding protecting the security and privacy of certain healthcare and personal information, including: (a) HIPAA and the regulations thereunder, which establish (i) a complex regulatory framework including requirements for safeguarding protected health information and (ii) comprehensive federal standards regarding the uses and disclosures of protected health information; (b) state laws, including the CCPA; and (c) the European Union’s GDPR
+
+[-0.4643997550010681, -1.655967354774475, 2.3777966499328613]
+
+ Failure to comply with these laws can result in the imposition of significant fines and impact our ability to process certain personal data
+
+[-1.8819921016693115, 2.6559479236602783, -0.23665662109851837]
+

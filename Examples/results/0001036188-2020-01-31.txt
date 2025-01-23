@@ -1,0 +1,52 @@
+  Regulatory focus on privacy issues continues to increase and worldwide laws and regulations concerning the handling of personal information are expanding and becoming more complex
+
+[0.6062726974487305, -2.3656537532806396, 1.7180782556533813]
+
+ Many federal, state and foreign government bodies and agencies If we fail to comply with such laws and regulations, we may be subject to significant fines, penalties or liabilities for noncompliance, thereby harming our business
+
+[-1.8293930292129517, 2.478109836578369, 0.09872297942638397]
+
+  For example, the European Union’s General Data Protection Regulation (GDPR), establishes requirements regarding the handling of personal data
+
+[-0.9265437126159668, -0.9613378643989563, 2.4771971702575684]
+
+ Non-compliance with the GDPR may result in monetary penalties of up to 4% of worldwide revenue
+
+[-1.752051591873169, 2.81388521194458, -0.6984378099441528]
+
+ Further, the United Kingdom’s departure from the European Union has created uncertainty with regard to the requirements for data transfers between the United Kingdom and the EU and other jurisdictions
+
+[-1.5095263719558716, 1.5590165853500366, 0.5182604789733887]
+
+ In addition, domestic data privacy laws, such as the California Consumer Privacy Act (CCPA), continue to evolve and could expose us to further regulatory burdens
+
+[-1.514715552330017, 2.0224015712738037, -0.11241990327835083]
+
+ 
+
+  Regulatory focus on privacy issues continues to increase and worldwide laws and regulations concerning the handling of personal information are expanding and becoming more complex
+
+[0.6062726974487305, -2.3656537532806396, 1.7180782556533813]
+
+ Many federal, state and foreign government bodies and agencies If we fail to comply with such laws and regulations, we may be subject to significant fines, penalties or liabilities for noncompliance, thereby harming our business
+
+[-1.8293930292129517, 2.478109836578369, 0.09872297942638397]
+
+  For example, the European Union’s General Data Protection Regulation (GDPR), establishes requirements regarding the handling of personal data
+
+[-0.9265437126159668, -0.9613378643989563, 2.4771971702575684]
+
+ Non-compliance with the GDPR may result in monetary penalties of up to 4% of worldwide revenue
+
+[-1.752051591873169, 2.81388521194458, -0.6984378099441528]
+
+ Further, the United Kingdom’s departure from the European Union has created uncertainty with regard to the requirements for data transfers between the United Kingdom and the EU and other jurisdictions
+
+[-1.5095263719558716, 1.5590165853500366, 0.5182604789733887]
+
+ In addition, domestic data privacy laws, such as the California Consumer Privacy Act (CCPA), continue to evolve and could expose us to further regulatory burdens
+
+[-1.514715552330017, 2.0224015712738037, -0.11241990327835083]
+
+ 
+

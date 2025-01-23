@@ -1,0 +1,80 @@
+ Known as the California Consumer Privacy Act ("CCPA"), it has created new individual privacy rights for consumers (as that word is broadly defined in the law) and placed increased privacy and security obligations on entities handling personal data of consumers or households
+
+[0.6934190988540649, -2.0950214862823486, 1.5779258012771606]
+
+ Known as the California Consumer Privacy Act (“CCPA”), it creates new individual privacy rights for consumers (as that word is broadly defined in the law) and places increased privacy and security obligations on entities handling personal data of consumers or households
+
+[0.49529287219047546, -1.9780696630477905, 1.7453720569610596]
+
+ The CCPA, which went into effect on January 1, 2020, requires covered companies to provide new disclosures to California consumers, provides such consumers new ways to opt-out of certain sales of personal information, and allow for a new cause of action for data breaches
+
+[-0.1473105102777481, -1.7628309726715088, 2.1120400428771973]
+
+ The CCPA, which went into effect on January 1, 2020, requires covered companies to provide new disclosures to California consumers, provide such consumers new ways to opt-out of certain sales of personal information, and allows for a new cause of action for data breaches
+
+[-0.24062804877758026, -1.7100952863693237, 2.1843783855438232]
+
+Additionally, California recently enacted legislation that has been dubbed the first “GDPR-like” law in the United States
+
+[1.7742952108383179, -2.5119271278381348, 0.18963035941123962]
+
+ In addition, we may be subject to patient privacy regulation by the federal government and by the US states and foreign jurisdictions in which we conduct our business
+
+[-1.3199647665023804, -0.2961801588535309, 2.4772324562072754]
+
+ The healthcare laws and regulations that may affect our ability to operate include: • the federal Anti-Kickback Statute, which prohibits, among other things, persons and entities from knowingly and willfully soliciting, receiving, offering or paying remuneration, directly or indirectly, to induce, or in return for, either the referral of an individual, or the purchase or recommendation of an item or service for which payment may be made under a federal healthcare program, such as the Medicare and Medicaid programs; • federal civil and criminal false claims laws, including the civil False Claims Act, and civil monetary penalty laws, which prohibit, among other things, individuals or entities from knowingly presenting, or causing to be presented, claims for payment to the federal government, including Medicare or Medicaid, that are false or fraudulent; • the federal Health Insurance Portability and Accountability Act of 1996 ("HIPAA"), which created additional federal criminal statutes that prohibit, among other things, executing a scheme to defraud any healthcare benefit program and making false statements relating to healthcare matters; • HIPAA, as amended by HITECH, and their implementing regulations, which imposes certain requirements on certain types of individuals and entities relating to the privacy, security and transmission of individually identifiable health information; • the European General Data Protection Regulation ("GDPR") adopted by the European Union ("EU") in May 2018, which contains provisions specifically directed at the processing of health information, higher sanctions and extra-territoriality measures intended to bring non-EU companies under the regulation; we anticipate that over time we may expand our business operations to include additional operations in the EU, including potentially conducting preclinical and clinical trials and, with such expansion, we would be subject to increased governmental regulation in the EU countries in which we might operate, including the GDPR; • California recently enacted legislation that has been dubbed the first “GDPR-like” law in the United States
+
+[-0.22051571309566498, -1.5266729593276978, 1.9347010850906372]
+
+  Our operations may be directly, or indirectly through our relationships with customers, third party payors, healthcare providers, and others subject to various federal and state fraud and abuse laws, including, without limitation, the federal Anti-Kickback Statute and the federal False Claims Act
+
+[-0.9897328019142151, -1.0547412633895874, 2.501566171646118]
+
+ The CCPA may impact (possibly significantly) our business activities and exemplifies the vulnerability of our business to not only cyber threats but also the evolving regulatory environment related to personal data and protected health information; • the federal Physician Payments Sunshine Act, which requires certain manufacturers of drugs, devices, biologics and medical supplies for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program, with specific exceptions, to report annually to the Centers for Medicare & Medicaid Services ("CMS") information related to payments or other transfers of value made to physicians (defined to include doctors, dentists, optometrists, podiatrists and chiropractors), and teaching hospitals, and further requires applicable manufacturers and applicable group purchasing organizations to report annually to CMS ownership and investment interests held by physicians and their immediate family members
+
+[-1.0779584646224976, -0.8489998579025269, 2.434342622756958]
+
+ The CCPA may impact (possibly significantly) our business activities and exemplifies the vulnerability of our business to not only cyber threats but also the evolving regulatory environment related to personal data and protected health information
+
+[-1.7842422723770142, 1.847901463508606, 0.7793977856636047]
+
+ Known as the California Consumer Privacy Act ("CCPA"), it has created new individual privacy rights for consumers (as that word is broadly defined in the law) and placed increased privacy and security obligations on entities handling personal data of consumers or households
+
+[0.6934190988540649, -2.0950214862823486, 1.5779258012771606]
+
+ Known as the California Consumer Privacy Act (“CCPA”), it creates new individual privacy rights for consumers (as that word is broadly defined in the law) and places increased privacy and security obligations on entities handling personal data of consumers or households
+
+[0.49529287219047546, -1.9780696630477905, 1.7453720569610596]
+
+ The CCPA, which went into effect on January 1, 2020, requires covered companies to provide new disclosures to California consumers, provides such consumers new ways to opt-out of certain sales of personal information, and allow for a new cause of action for data breaches
+
+[-0.1473105102777481, -1.7628309726715088, 2.1120400428771973]
+
+ The CCPA, which went into effect on January 1, 2020, requires covered companies to provide new disclosures to California consumers, provide such consumers new ways to opt-out of certain sales of personal information, and allows for a new cause of action for data breaches
+
+[-0.24062804877758026, -1.7100952863693237, 2.1843783855438232]
+
+Additionally, California recently enacted legislation that has been dubbed the first “GDPR-like” law in the United States
+
+[1.7742952108383179, -2.5119271278381348, 0.18963035941123962]
+
+ In addition, we may be subject to patient privacy regulation by the federal government and by the US states and foreign jurisdictions in which we conduct our business
+
+[-1.3199647665023804, -0.2961801588535309, 2.4772324562072754]
+
+ The healthcare laws and regulations that may affect our ability to operate include: • the federal Anti-Kickback Statute, which prohibits, among other things, persons and entities from knowingly and willfully soliciting, receiving, offering or paying remuneration, directly or indirectly, to induce, or in return for, either the referral of an individual, or the purchase or recommendation of an item or service for which payment may be made under a federal healthcare program, such as the Medicare and Medicaid programs; • federal civil and criminal false claims laws, including the civil False Claims Act, and civil monetary penalty laws, which prohibit, among other things, individuals or entities from knowingly presenting, or causing to be presented, claims for payment to the federal government, including Medicare or Medicaid, that are false or fraudulent; • the federal Health Insurance Portability and Accountability Act of 1996 ("HIPAA"), which created additional federal criminal statutes that prohibit, among other things, executing a scheme to defraud any healthcare benefit program and making false statements relating to healthcare matters; • HIPAA, as amended by HITECH, and their implementing regulations, which imposes certain requirements on certain types of individuals and entities relating to the privacy, security and transmission of individually identifiable health information; • the European General Data Protection Regulation ("GDPR") adopted by the European Union ("EU") in May 2018, which contains provisions specifically directed at the processing of health information, higher sanctions and extra-territoriality measures intended to bring non-EU companies under the regulation; we anticipate that over time we may expand our business operations to include additional operations in the EU, including potentially conducting preclinical and clinical trials and, with such expansion, we would be subject to increased governmental regulation in the EU countries in which we might operate, including the GDPR; • California recently enacted legislation that has been dubbed the first “GDPR-like” law in the United States
+
+[-0.22051571309566498, -1.5266729593276978, 1.9347010850906372]
+
+  Our operations may be directly, or indirectly through our relationships with customers, third party payors, healthcare providers, and others subject to various federal and state fraud and abuse laws, including, without limitation, the federal Anti-Kickback Statute and the federal False Claims Act
+
+[-0.9897328019142151, -1.0547412633895874, 2.501566171646118]
+
+ The CCPA may impact (possibly significantly) our business activities and exemplifies the vulnerability of our business to not only cyber threats but also the evolving regulatory environment related to personal data and protected health information; • the federal Physician Payments Sunshine Act, which requires certain manufacturers of drugs, devices, biologics and medical supplies for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program, with specific exceptions, to report annually to the Centers for Medicare & Medicaid Services ("CMS") information related to payments or other transfers of value made to physicians (defined to include doctors, dentists, optometrists, podiatrists and chiropractors), and teaching hospitals, and further requires applicable manufacturers and applicable group purchasing organizations to report annually to CMS ownership and investment interests held by physicians and their immediate family members
+
+[-1.0779584646224976, -0.8489998579025269, 2.434342622756958]
+
+ The CCPA may impact (possibly significantly) our business activities and exemplifies the vulnerability of our business to not only cyber threats but also the evolving regulatory environment related to personal data and protected health information
+
+[-1.7842422723770142, 1.847901463508606, 0.7793977856636047]
+

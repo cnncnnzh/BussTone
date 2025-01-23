@@ -102,6 +102,10 @@ class Score():
                         if self.write_script == 'true':
                             gen_script(script, to_file)
                             gen_script(str(logits), to_file)
+                            
+                to_file = os.path.join(self.result_root, 'score.xlsx')
+                print(f'save tabular results to {to_file}')
+                self.table.to_excel(to_file)
             except:
                 print('Analyzing {} not successful'.format(dirc))
                 with open (log_file, 'a', encoding='utf-8') as f:

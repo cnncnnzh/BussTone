@@ -1,0 +1,80 @@
+  For example, in January 2020, the California Consumer Privacy Act (“CCPA”) took effect, which provides  new data privacy rights for consumers in California and new operational requirements for companies doing business in California
+
+[0.2674919366836548, -2.1361725330352783, 1.9537228345870972]
+
+  Also, there remains significant uncertainty surrounding the regulatory framework for the future of personal data transfers  from the European Union to the United States with regulations such as the General Data Protection Regulation (“GDPR”) which imposes  more stringent EU data protection requirements, provides an enforcement authority, and imposes large penalties for noncompliance
+
+[-1.4535599946975708, 1.177374243736267, 1.2593730688095093]
+
+  We have incurred, and will continue to incur, substantial costs in striving  to comply with these various national and international data privacy laws and regulations
+
+[-0.9649569392204285, 0.9110256433486938, -0.0032890108413994312]
+
+   Compliance with the new obligations imposed by the GDPR depends in part on how particular regulators interpret and apply them
+
+[-0.8215142488479614, -1.1418509483337402, 2.4390869140625]
+
+  There are also numerous provincial and industry-specific regulations that may impact  our business and use and protection of personal data in China
+
+[-1.7756601572036743, 1.236108660697937, 1.5585623979568481]
+
+We also expect that there will continue to be new proposed laws, regulations and industry standards concerning privacy, data  protection and information security in the United States and other jurisdictions, and we cannot yet determine the impact of such future  laws, regulations and standards may have on our business
+
+[-1.17373526096344, -0.4869537651538849, 2.137335777282715]
+
+  Future laws, regulations, standards and other obligations, including the adoption of the GDPR and the  CCPA, as well as changes in the interpretation of existing laws, regulations, standards and other obligations could impair our ability to  collect, use or disclose information relating to individuals, which could decrease demand for our products, require us to restrict our business  operations, increase our costs and impair our ability to maintain and grow our customer base and increase our revenue
+
+[-1.8665765523910522, 2.6258113384246826, -0.13222762942314148]
+
+  In China, on June 1,  2017, a national Cybersecurity Law came into effect to address cybersecurity and data privacy protection
+
+[0.1122175008058548, -2.07928729057312, 1.9411911964416504]
+
+  In January 2019, a new e-Commerce Law went into effect in China that targets the protection of personal  data in e-commerce transactions and environments
+
+[0.06150062009692192, -2.0872714519500732, 2.1631641387939453]
+
+  If we  fail to comply with the GDPR or if regulators assert that we have failed to comply with the GDPR, we may be subject to fines of up to 4%  of our worldwide annual revenue
+
+[-1.7935208082199097, 2.6254689693450928, -0.36964574456214905]
+
+  For example, in January 2020, the California Consumer Privacy Act (“CCPA”) took effect, which provides  new data privacy rights for consumers in California and new operational requirements for companies doing business in California
+
+[0.2674919366836548, -2.1361725330352783, 1.9537228345870972]
+
+  Also, there remains significant uncertainty surrounding the regulatory framework for the future of personal data transfers  from the European Union to the United States with regulations such as the General Data Protection Regulation (“GDPR”) which imposes  more stringent EU data protection requirements, provides an enforcement authority, and imposes large penalties for noncompliance
+
+[-1.4535599946975708, 1.177374243736267, 1.2593730688095093]
+
+  We have incurred, and will continue to incur, substantial costs in striving  to comply with these various national and international data privacy laws and regulations
+
+[-0.9649569392204285, 0.9110256433486938, -0.0032890108413994312]
+
+   Compliance with the new obligations imposed by the GDPR depends in part on how particular regulators interpret and apply them
+
+[-0.8215142488479614, -1.1418509483337402, 2.4390869140625]
+
+  There are also numerous provincial and industry-specific regulations that may impact  our business and use and protection of personal data in China
+
+[-1.7756601572036743, 1.236108660697937, 1.5585623979568481]
+
+We also expect that there will continue to be new proposed laws, regulations and industry standards concerning privacy, data  protection and information security in the United States and other jurisdictions, and we cannot yet determine the impact of such future  laws, regulations and standards may have on our business
+
+[-1.17373526096344, -0.4869537651538849, 2.137335777282715]
+
+  Future laws, regulations, standards and other obligations, including the adoption of the GDPR and the  CCPA, as well as changes in the interpretation of existing laws, regulations, standards and other obligations could impair our ability to  collect, use or disclose information relating to individuals, which could decrease demand for our products, require us to restrict our business  operations, increase our costs and impair our ability to maintain and grow our customer base and increase our revenue
+
+[-1.8665765523910522, 2.6258113384246826, -0.13222762942314148]
+
+  In China, on June 1,  2017, a national Cybersecurity Law came into effect to address cybersecurity and data privacy protection
+
+[0.1122175008058548, -2.07928729057312, 1.9411911964416504]
+
+  In January 2019, a new e-Commerce Law went into effect in China that targets the protection of personal  data in e-commerce transactions and environments
+
+[0.06150062009692192, -2.0872714519500732, 2.1631641387939453]
+
+  If we  fail to comply with the GDPR or if regulators assert that we have failed to comply with the GDPR, we may be subject to fines of up to 4%  of our worldwide annual revenue
+
+[-1.7935208082199097, 2.6254689693450928, -0.36964574456214905]
+

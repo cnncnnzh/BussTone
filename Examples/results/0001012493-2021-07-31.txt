@@ -1,0 +1,48 @@
+ Furthermore, California voters approved the California Privacy Rights Act (“CPRA”) on November 3, 2020, which will amend and expand the CCPA, including providing consumers with additional rights with respect to their personal data, and establishes a regulatory agency dedicated to enforcing compliance
+
+[1.239793300628662, -2.5179619789123535, 1.1681541204452515]
+
+There are numerous laws and regulations regarding privacy and the storage, sharing, use, processing, transfer, disclosure and protection of personal data, the scope of which is changing, subject to differing interpretations, and may be inconsistent between jurisdictions
+
+[-1.5944020748138428, 0.7812191843986511, 1.8076812028884888]
+
+ For example, California enacted the California Consumer Privacy Act (“CCPA”), which came into effect on January 1, 2020, and limits how we may collect and use personal data, in addition to imposing severe statutory damages and providing consumers with a private right of action for certain data breaches
+
+[-0.5996412634849548, -1.0754528045654297, 2.1862244606018066]
+
+ These and other data privacy laws and their interpretations continue to develop and may be inconsistent from jurisdiction to jurisdiction
+
+[-1.641520619392395, 1.4253710508346558, 1.156497597694397]
+
+ The effects of the CCPA and CPRA potentially are far-reaching, and may require us to modify our data processing practices and policies and incur substantial compliance-related costs and expenses, and it remains unclear how various provisions will be interpreted and enforced
+
+[-1.9257642030715942, 2.6363704204559326, -0.08797332644462585]
+
+ The CPRA will come into effect on January 1, 2023, applying to information collected by businesses on or after January 1, 2022
+
+[-0.9370929598808289, -1.2296816110610962, 2.5996713638305664]
+
+ Furthermore, California voters approved the California Privacy Rights Act (“CPRA”) on November 3, 2020, which will amend and expand the CCPA, including providing consumers with additional rights with respect to their personal data, and establishes a regulatory agency dedicated to enforcing compliance
+
+[1.239793300628662, -2.5179619789123535, 1.1681541204452515]
+
+There are numerous laws and regulations regarding privacy and the storage, sharing, use, processing, transfer, disclosure and protection of personal data, the scope of which is changing, subject to differing interpretations, and may be inconsistent between jurisdictions
+
+[-1.5944020748138428, 0.7812191843986511, 1.8076812028884888]
+
+ For example, California enacted the California Consumer Privacy Act (“CCPA”), which came into effect on January 1, 2020, and limits how we may collect and use personal data, in addition to imposing severe statutory damages and providing consumers with a private right of action for certain data breaches
+
+[-0.5996412634849548, -1.0754528045654297, 2.1862244606018066]
+
+ These and other data privacy laws and their interpretations continue to develop and may be inconsistent from jurisdiction to jurisdiction
+
+[-1.641520619392395, 1.4253710508346558, 1.156497597694397]
+
+ The effects of the CCPA and CPRA potentially are far-reaching, and may require us to modify our data processing practices and policies and incur substantial compliance-related costs and expenses, and it remains unclear how various provisions will be interpreted and enforced
+
+[-1.9257642030715942, 2.6363704204559326, -0.08797332644462585]
+
+ The CPRA will come into effect on January 1, 2023, applying to information collected by businesses on or after January 1, 2022
+
+[-0.9370929598808289, -1.2296816110610962, 2.5996713638305664]
+

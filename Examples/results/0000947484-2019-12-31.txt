@@ -1,0 +1,64 @@
+ California also enacted the CCPA, which took effect January 1, 2020 and grants California consumers certain rights to, among other things, access and delete data about them subject to certain exceptions, as well as a private right of action with statutory penalties
+
+[-0.29733437299728394, -1.739794373512268, 2.296844959259033]
+
+ We are subject to EU, US federal, state and other foreign laws and regulations regarding the protection of personal data and information
+
+[-1.1162693500518799, -0.9109843373298645, 2.559375524520874]
+
+In addition, the regulatory environment surrounding information security and privacy is increasingly changing
+
+[-0.8717585802078247, -0.5862424373626709, 2.2371621131896973]
+
+ Additionally, GDPR came into effect on May 25, 2018, and requires businesses offering goods and services to, or monitoring the behavior of, customers in the EU to comply with onerous accountability obligations and significantly enhanced conditions to processing personal data
+
+[0.7710407972335815, -2.3140783309936523, 1.6263066530227661]
+
+ We could be subject to fines, penalties and/or regulatory enforcement actions in one or more jurisdictions if any person, including any employee, disregards or breaches, whether intentionally or negligently, controls intended to protect the confidential information of our employees or clients
+
+[-1.8021137714385986, 1.519244909286499, 1.2669483423233032]
+
+ Non-compliance with the GDPR could result in a fine of up to 4% of a firm’s global annual revenue per violation
+
+[-1.7751027345657349, 2.800964117050171, -0.6042037606239319]
+
+ As an example, the New York State Department of Financial Services adopted a regulation pertaining to cybersecurity for all banking and insurance entities under its jurisdiction that came into effect March 1, 2017
+
+[-0.4891197383403778, -1.3934358358383179, 2.28309965133667]
+
+ Failure to timely report breach incidents under these regulations may also result in fines, penalties and/or other enforcement actions
+
+[-1.8521134853363037, 2.09928822517395, 0.8079282641410828]
+
+ California also enacted the CCPA, which took effect January 1, 2020 and grants California consumers certain rights to, among other things, access and delete data about them subject to certain exceptions, as well as a private right of action with statutory penalties
+
+[-0.29733437299728394, -1.739794373512268, 2.296844959259033]
+
+ We are subject to EU, US federal, state and other foreign laws and regulations regarding the protection of personal data and information
+
+[-1.1162693500518799, -0.9109843373298645, 2.559375524520874]
+
+In addition, the regulatory environment surrounding information security and privacy is increasingly changing
+
+[-0.8717585802078247, -0.5862424373626709, 2.2371621131896973]
+
+ Additionally, GDPR came into effect on May 25, 2018, and requires businesses offering goods and services to, or monitoring the behavior of, customers in the EU to comply with onerous accountability obligations and significantly enhanced conditions to processing personal data
+
+[0.7710407972335815, -2.3140783309936523, 1.6263066530227661]
+
+ We could be subject to fines, penalties and/or regulatory enforcement actions in one or more jurisdictions if any person, including any employee, disregards or breaches, whether intentionally or negligently, controls intended to protect the confidential information of our employees or clients
+
+[-1.8021137714385986, 1.519244909286499, 1.2669483423233032]
+
+ Non-compliance with the GDPR could result in a fine of up to 4% of a firm’s global annual revenue per violation
+
+[-1.7751027345657349, 2.800964117050171, -0.6042037606239319]
+
+ As an example, the New York State Department of Financial Services adopted a regulation pertaining to cybersecurity for all banking and insurance entities under its jurisdiction that came into effect March 1, 2017
+
+[-0.4891197383403778, -1.3934358358383179, 2.28309965133667]
+
+ Failure to timely report breach incidents under these regulations may also result in fines, penalties and/or other enforcement actions
+
+[-1.8521134853363037, 2.09928822517395, 0.8079282641410828]
+

@@ -1,0 +1,72 @@
+The California Consumer Privacy Act (“CCPA”) took effect on January 1, 2020, and imposed privacy compliance obligations with regard to the personal information of California residents
+
+[-0.7833724617958069, -0.7850837111473083, 2.1510050296783447]
+
+ These protections will be expanded by the California Privacy Rights Act (“CPRA”), which will be operational in most key respects in 2023 along with new privacy laws in Virginia and Colorado
+
+[1.558881163597107, -2.740442991256714, 0.7914672493934631]
+
+  In the United States, the CCPA affords California residents expanded privacy rights and protections and provides for civil penalties for violations and a private right of action related to certain data security breaches
+
+[-0.16712675988674164, -1.585498332977295, 2.0817952156066895]
+
+ This legislation creates significant new requirements for identifying, managing, securing, tracking, producing, and deleting consumer personal information and the CCPA takes the position that consumers “own” their personal information and provides specific rights, including the right to opt out of their data being sold to a third party by the Company
+
+[-0.09036220610141754, -1.9067198038101196, 2.2506422996520996]
+
+ The legislative and regulatory landscape for privacy and data protection continues to evolve, and there has been an increasing amount of focus on privacy and data protection issues with the potential to affect our business, including laws in all 50 states requiring security breach notification in some circumstances
+
+[0.04940333589911461, -1.6155136823654175, 1.411157488822937]
+
+  We are subject to laws and regulations regarding protecting the security and privacy of certain healthcare and personal information, including: (a) HIPAA and the regulations thereunder, which establish (i) a complex regulatory framework including requirements for safeguarding protected health information and (ii) comprehensive federal standards regarding the uses and disclosures of protected health information; (b) state laws, including the CCPA; and (c) the European Union’s GDPR
+
+[-0.4643997550010681, -1.655967354774475, 2.3777966499328613]
+
+ This law became enforceable by the California Attorney General on July 1, 2020, and the Company has implemented significant mechanisms to promote compliance with this law
+
+[1.8143285512924194, -2.6570403575897217, 0.16938430070877075]
+
+” Like the international privacy laws, this creates greater complexity in implementing a compliance program to support these requirements
+
+[-0.9030580520629883, 0.5019531846046448, 1.1334173679351807]
+
+ The CCPA defines personal information extremely broadly as “information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household
+
+[-1.1191238164901733, -0.7680336833000183, 2.4776976108551025]
+
+The California Consumer Privacy Act (“CCPA”) took effect on January 1, 2020, and imposed privacy compliance obligations with regard to the personal information of California residents
+
+[-0.7833724617958069, -0.7850837111473083, 2.1510050296783447]
+
+ These protections will be expanded by the California Privacy Rights Act (“CPRA”), which will be operational in most key respects in 2023 along with new privacy laws in Virginia and Colorado
+
+[1.558881163597107, -2.740442991256714, 0.7914672493934631]
+
+  In the United States, the CCPA affords California residents expanded privacy rights and protections and provides for civil penalties for violations and a private right of action related to certain data security breaches
+
+[-0.16712675988674164, -1.585498332977295, 2.0817952156066895]
+
+ This legislation creates significant new requirements for identifying, managing, securing, tracking, producing, and deleting consumer personal information and the CCPA takes the position that consumers “own” their personal information and provides specific rights, including the right to opt out of their data being sold to a third party by the Company
+
+[-0.09036220610141754, -1.9067198038101196, 2.2506422996520996]
+
+ The legislative and regulatory landscape for privacy and data protection continues to evolve, and there has been an increasing amount of focus on privacy and data protection issues with the potential to affect our business, including laws in all 50 states requiring security breach notification in some circumstances
+
+[0.04940333589911461, -1.6155136823654175, 1.411157488822937]
+
+  We are subject to laws and regulations regarding protecting the security and privacy of certain healthcare and personal information, including: (a) HIPAA and the regulations thereunder, which establish (i) a complex regulatory framework including requirements for safeguarding protected health information and (ii) comprehensive federal standards regarding the uses and disclosures of protected health information; (b) state laws, including the CCPA; and (c) the European Union’s GDPR
+
+[-0.4643997550010681, -1.655967354774475, 2.3777966499328613]
+
+ This law became enforceable by the California Attorney General on July 1, 2020, and the Company has implemented significant mechanisms to promote compliance with this law
+
+[1.8143285512924194, -2.6570403575897217, 0.16938430070877075]
+
+” Like the international privacy laws, this creates greater complexity in implementing a compliance program to support these requirements
+
+[-0.9030580520629883, 0.5019531846046448, 1.1334173679351807]
+
+ The CCPA defines personal information extremely broadly as “information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household
+
+[-1.1191238164901733, -0.7680336833000183, 2.4776976108551025]
+

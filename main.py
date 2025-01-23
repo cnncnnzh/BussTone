@@ -83,7 +83,7 @@ if args.mode == "calculate":
         args.split.lower()
     )
     score.gen_score(model, tokenizer)
-    score.write_score()
+    #score.write_score()
 
 elif args.mode == "download":
     download_files(args.date_files, args.folder)
