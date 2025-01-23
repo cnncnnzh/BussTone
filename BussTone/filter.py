@@ -63,7 +63,6 @@ def find_sentences(sentences):
         max_scores = avg_score.max(axis=1)    
     
         final_sentences = []
-        print(max_scores)
         top_ten_score_indices = max_scores.argsort()[::-1][:sentence_count]
         for index in top_ten_score_indices:
             if max_scores[index] > bottom_score:

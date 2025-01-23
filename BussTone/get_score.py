@@ -27,7 +27,7 @@ class Score():
                  to_pdf,
                  write_script,
                  split):
-        self.columns = ['KID', 'Year', 'Label', 'Positive', 'Negative', 'Neutral', 'Character_count']
+        self.columns = ['KID', 'Label', 'Positive', 'Negative', 'Neutral', 'Text', 'Character_count']
         self.root = root
         if not os.path.exists(result_root):
             os.mkdir(result_root)
@@ -75,8 +75,8 @@ class Score():
                     # generate tone scores
 
                     all_scripts = sentences if self.split == 'true' else paragraphs
-                    if need_check(all_scripts):
-                        to_file = os.path.join(self.result_root, 'CHECK_' + kid + '-' + date + '.txt')
+                    if need_check(all_scripts) and self.split != 'true':
+                        to_file = os.path.join(self.result_root,  '_' + kid + '-' + date + '.txt')
                     else:
                         to_file = os.path.join(self.result_root, kid + '-' + date + '.txt')
                     for i, script in enumerate(all_scripts):
@@ -95,10 +95,10 @@ class Score():
                                 'Positive':[logits[0]],
                                 'Negative':[logits[1]],
                                 'Neutral':[logits[2]],
+                                'Text': script,
                                 'Character_count':len(script)
                             }
                         )], ignore_index=True)
-                        # print(self.table)
                         if self.write_script == 'true':
                             gen_script(script, to_file)
                             gen_script(str(logits), to_file)
@@ -112,6 +112,7 @@ class Score():
         
     def write_score(self):
         to_file = os.path.join(self.result_root, 'score.xlsx')
+        print(f'save tabular results to {to_file}')
         self.table.to_excel(to_file)
         
 

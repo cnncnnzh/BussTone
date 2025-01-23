@@ -1,0 +1,26 @@
+These laws and regulations often require us to take a variety of actions, including: implementing new data privacy and security policies; granting individuals a wide variety of rights with respect to their PII, including access, correction and deletion rights; informing individuals of security breaches that affect their PII; disclosing to individuals how we process their PII and obtaining their written consent to such processing; and localizing individuals' PII within national borders and complying with cross border PII transfer assessments and requirements, among other things
+
+[-0.958585262298584, -1.031596302986145, 2.376347541809082]
+
+ Examples of significant, recent data privacy and security laws affecting our various markets include the European Union General Data Protection Regulation, ("GDPR"), China’s national Data Privacy Law and Personal Information Protection Law, China's Cybersecurity Law, the California Consumer Privacy Act, ("CCPA"), and the California Privacy Rights Act
+
+[-0.9437866806983948, -0.7844821214675903, 2.2934093475341797]
+
+ Virginia, Colorado, Connecticut and Utah all have adopted laws introducing new privacy obligations and many other states are considering similar legislation
+
+[0.27880215644836426, -2.0114660263061523, 1.8268699645996094]
+
+ A broad range of legislative measures also have been introduced at the federal level
+
+[0.6652162671089172, -2.52250075340271, 1.8929893970489502]
+
+ There also is a wide range of enforcement agencies at both the state and federal levels that can review companies for privacy and data security concerns based on general consumer protection laws
+
+[-0.7608506679534912, -1.0623100996017456, 2.42868709564209]
+
+ The FTC and state Attorneys General all are aggressive in reviewing privacy and data security protections for consumers
+
+[0.45552656054496765, -2.154690980911255, 1.8756664991378784]
+
+ 
+

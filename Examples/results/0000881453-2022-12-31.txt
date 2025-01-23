@@ -1,0 +1,40 @@
+ In California, the California Consumer Privacy Act (the “CCPA”) became effective in 2020 and confers numerous privacy rights on individuals and corresponding obligations on businesses
+
+[-0.37341243028640747, -1.554366111755371, 2.3179526329040527]
+
+ Additional rights and obligations will be imposed by the California Privacy Rights Act (the “CPRA”), which became effective January 1, 2023
+
+[-0.5895534157752991, -1.4785906076431274, 2.4939756393432617]
+
+ For example, the EU’s General Data Protection Regulation (“GDPR”), which became effective in May 2018, confers additional privacy rights on individuals in the EU and establishes significant penalties for violations
+
+[-0.6161484718322754, -0.7376363277435303, 1.939868688583374]
+
+Privacy and Cybersecurity Regulation We are subject to laws, regulations and directives that require financial institutions and other businesses to protect the security and confidentiality of personal information, including health-related and customer information, and to notify their customers and other individuals of their policies and practices relating to the collection and disclosure of health-related and customer information
+
+[-1.3047441244125366, -0.47467464208602905, 2.4751129150390625]
+
+ Internationally, a number of countries such as Brazil and Argentina have enacted GDPR-like regulations, while others are considering such regulations or, in the case of China, have enacted other privacy regulations
+
+[-0.8043349981307983, -0.7633382678031921, 2.285839080810547]
+
+   Regulatory and legislative activity in the areas of privacy, data protection and information and cybersecurity continues to increase worldwide
+
+[1.3377336263656616, -2.6617863178253174, 0.8690246343612671]
+
+ Additional states, such as Virginia and Colorado, have also passed comprehensive privacy laws similar in scope to the CCPA and CPRA that will also become effective in 2023
+
+[0.6006765365600586, -2.3144421577453613, 1.604786992073059]
+
+ These laws, regulations and directives also: • require protections regarding the use and disclosure of certain information such as national identifier numbers (for example, social security numbers); • require notice to affected individuals, regulators and others if there is a breach of the security of certain personal or confidential information; • require financial institutions and creditors to implement effective programs to detect, prevent, and mitigate identity theft; • regulate the process by which financial institutions make telemarketing calls and send e-mail, text, or fax messages to consumers and customers; • require oversight of third parties that have access to, and handle, personal or confidential information; • provide individuals with rights over their personal information, such as the right to obtain portable copies of or request the deletion of their personal information; and • prescribe the permissible uses of certain personal information, including customer information and consumer report information
+
+[-0.9156945943832397, -1.0376397371292114, 2.2821640968322754]
+
+ In addition, we must comply with international privacy laws, regulations, and directives concerning the cross border transfer or use of employee and customer personal information
+
+[-1.0422970056533813, -0.9882645010948181, 2.434704303741455]
+
+ In addition, in the US, certain lawmakers in Congress have proposed a number of sweeping privacy laws
+
+[-0.13451732695102692, -1.7142571210861206, 2.0514540672302246]
+

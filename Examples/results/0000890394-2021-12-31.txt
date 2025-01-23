@@ -1,0 +1,22 @@
+In addition, as a Canadian Controlled Private Corporation (CCPA), Peraso Tech was eligible for the Canadian government’s Scientific Research and Experimental Development (SR&ED) refund program, which refunds 35% of eligible costs for Canadian businesses of all sizes and in all sectors to conduct research and development in Canada
+
+[1.6377975940704346, -2.739755868911743, 0.6261351108551025]
+
+ The Company records refundable SR&ED credits as a receivable when the Company can reasonably estimate the amounts and it is more likely than not, such amounts will be received
+
+[-0.8811054825782776, -1.2298492193222046, 2.5518765449523926]
+
+  As of December 17, 2021, Peraso Tech ceased to be a CCPA and is no longer eligible for the expenditure refund program
+
+[-1.5801502466201782, 0.25988665223121643, 2.212402820587158]
+
+ However, it is eligible for a tax credit of 15% on qualified SR&ED expenditures
+
+[0.9882088899612427, -2.447807550430298, 1.5202959775924683]
+
+  Unused tax credits can be carried back three years or forward for 20 years
+
+[-0.9491342306137085, -0.6921194195747375, 2.377431869506836]
+
+ 
+

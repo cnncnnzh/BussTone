@@ -1,0 +1,34 @@
+In the absence of a comprehensive federal privacy law, many States are making a push towards privacy legislation
+
+[-0.8468872308731079, 0.13742925226688385, 1.4873632192611694]
+
+ Personally identifiable information is used in support of many of the Company's business processes
+
+[-0.4120798707008362, -1.7314563989639282, 2.484410285949707]
+
+ For many years, the standard for protection and treatment of that data was benchmarked by privacy and security provisions of the federal Gramm-Leach-Bliley Act of 1999 (GLBA) and in the Health Insurance Portability and Accountability Act of 1996 (HIPAA)
+
+[-0.5259283781051636, -1.3711401224136353, 2.314800262451172]
+
+ As consumers have grown more concerned about the protection of their data, as well as how their data is used by an organization, many jurisdictions within and outside of the US have created legislation and issued regulations that apply or may in the future apply to aspects of Aflac US operations and allow consumers the right to access, correct, delete and the right to opt out of sales or use of their data
+
+[-0.305341899394989, -1.7319780588150024, 2.206275463104248]
+
+ The California Consumer Privacy Act (CCPA), the California Privacy Rights Act (CPRA), the UK General Data Protection Regulation (UK GDPR), the UK Data Protection Act of 2018 (DPA Act) and most recently the Virginia Consumer Data Privacy Act (CDPA) and the Colorado Privacy Act (CPA), which both go into effect in 2023, are examples of these types of legislation
+
+[-1.175801157951355, -0.6125539541244507, 2.4672913551330566]
+
+  The Company has a cross-functional team that tracks and monitors new and emerging legislation and regulations to ensure privacy and cybersecurity programs are evaluated and comply with regulatory requirements
+
+[0.4455169141292572, -2.5345475673675537, 2.026604652404785]
+
+ This includes a robust third party risk management and assessment program
+
+[1.894158124923706, -2.9035449028015137, 0.44864344596862793]
+
+ Over the last several years, processes have developed to support the data subject request process required by CCPA, privacy impact assessments have been implemented as required by CPRA and a dedicated privacy and security center has been added to the Company website to provide consumers with information about the use of and protection of their data
+
+[0.557347297668457, -2.5723488330841064, 1.965759038925171]
+
+ 
+
